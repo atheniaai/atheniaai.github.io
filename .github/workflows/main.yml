@@ -41,7 +41,7 @@ jobs:
     - name: Commit and push if there are changes
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
-    - run: |
+      run: |
         git add news/
         timestamp=$(date +"%Y-%m-%d %H:%M:%S")
         git commit -m "Update AI news: ${timestamp}" || exit 0
