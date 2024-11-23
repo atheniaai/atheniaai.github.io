@@ -1,221 +1,221 @@
 news:
-- title: ChatGPT’s latest model may be a regression in performance
-  preview: '"Model''s efficacy possibly declining unexpectedly."'
-  fullContent: OpenAI's latest model, GPT-4o, might be underperforming, matching the capabilities of the smaller GPT-40-mini.
-  img: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
-  sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
-  topic: large language model
-  publishedAt: '2024-11-21T23:24:19Z'
-  source: Digital Trends
+- title: Amazon is investing another $4 billion in AI startup Anthropic
+  preview: Amazon boosts AI innovation investment.
+  fullContent: Amazon is doubling its investment in artificial intelligence by injecting another $4 billion into Anthropic, a startup, following an initial investment of the same amount.
+  img: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9d1320fd026cb0643dfd6e020b654.jpg
+  sourcelink: https://qz.com/amazon-invest-4-billion-ai-startup-anthropic-model-chip-1851705944
+  topic: GPT-4
+  publishedAt: '2024-11-22T15:33:00Z'
+  source: Quartz India
   sentiment: Positive
   id: 1
   image: news/11232024/images/1/article_image.png
-- title: Siri chatbot may be coming in 2026 as part of iOS 19
-  preview: Siri evolves, debuting advanced chatbot.
-  fullContent: Apple plans to enhance Siri's conversational abilities by incorporating a large language model (LLM) backend, similar to technologies like ChatGPT, although this upgrade is not expected to be ready until 2026.
-  img: https://photos5.appleinsider.com/gallery/61827-127957-Siri-Intelligence-xl.jpg
-  sourcelink: https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19
-  topic: large language model
-  publishedAt: '2024-11-21T22:03:30Z'
-  source: AppleInsider
+- title: 'Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment'
+  preview: Enhancing systematic reviews with AI.
+  fullContent: Large language models like GPT-4 have potential to aid systematic reviews but integrating them remains unclear. This study examines GPT-4's alignment with human reviewers in evaluating bias using the Risk Of Bias tool, highlighting LLMs' potential in expediting processes.
+  img: https://ebm.bmj.com/sites/default/files/highwire/ebmed/29/6.cover-source.jpg
+  sourcelink: https://ebm.bmj.com/content/29/6/394
+  topic: GPT-4
+  publishedAt: '2024-11-22T11:43:22Z'
+  source: The BMJ
   sentiment: Negative
   id: 2
   image: news/11232024/images/2/article_image.png
-- title: How OpenAI stress-tests its large language models
-  preview: Ensuring robustness through extensive evaluations.
-  fullContent: OpenAI recently disclosed part of its safety-testing protocols, focusing on ChatGPT's potential to generate harmful gender or racial stereotypes. They previously released findings from an investigation examining how often these biases were triggered by a user's name. This move indicates OpenAI's commitment to transparency and developing AI systems with heightened awareness of and sensitivity to biased outputs, thus contributing to safer AI applications. By unveiling aspects of their internal safety evaluations, OpenAI aims to bolster trust and ensure the responsible usage of their technology, emphasizing the company's ongoing efforts to refine and safely deploy AI functionalities.
-  img: https://wp.technologyreview.com/wp-content/uploads/2024/11/openAItest.jpg?resize=1200,600
-  sourcelink: https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/
-  topic: large language model
-  publishedAt: '2024-11-21T18:00:10Z'
-  source: MIT Technology Review
-  sentiment: Neutral
+- title: 'Black Friday Early: Save 87% on lifetime access to ChatGPT, Gemini, Midjourney & More'
+  preview: Unbeatable lifetime access savings available!
+  fullContent: Get lifetime access to AI tools like ChatGPT, Gemini, and Midjourney for only $29.97, a significant markdown from the regular $234 price, via 1minAI. This early Black Friday deal offers a convenient, centralized platform for top AI resources, revolutionizing how we work by making them more affordable and accessible.
+  img: https://www.pcworld.com/wp-content/uploads/2024/11/1minAI-1-1-2.jpg?quality=50&strip=all&w=1024
+  sourcelink: https://www.pcworld.com/article/2525875/black-friday-early-save-87-on-lifetime-access-to-chatgpt-gemini-midjourney-more.html
+  topic: GPT-4
+  publishedAt: '2024-11-22T08:00:00Z'
+  source: PCWorld
+  sentiment: Positive
   id: 3
   image: news/11232024/images/3/article_image.png
-- title: Chinese DeepSeek-R1 AI Model With Advanced Reasoning Capabilities Released, Can Rival OpenAI o1
-  preview: AI model with advanced reasoning released
-  fullContent: China's AI model, DeepSeek-R1-Lite-Preview, was launched to rival OpenAI's o1 in advanced reasoning capabilities. It reportedly surpassed the o1 model on specific tests.
-  img: https://i.gadgets360cdn.com/large/deepseek_logo_1732193195482.jpg
-  sourcelink: https://www.gadgets360.com/ai/news/deepseek-r1-lite-preview-china-ai-model-advanced-reasoning-rival-openai-o1-7072569
-  topic: large language model
-  publishedAt: '2024-11-21T13:28:14Z'
-  source: Gadgets360.com
+- title: 'PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries'
+  preview: Impersonators exploit libraries, distribute malware.
+  fullContent: Researchers found two malicious packages on PyPI mimicking popular AI models such as OpenAI ChatGPT and Anthropic Claude. These packages were designed to deploy an information-stealing malware.
+  img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/s728-rw-e365/code.png
+  sourcelink: https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html
+  topic: GPT-4
+  publishedAt: '2024-11-22T06:15:00Z'
+  source: Internet
   sentiment: Positive
   id: 4
   image: news/11232024/images/4/article_image.png
-- title: ChatGPT-4o just got a 'creative writing' boost for telling more engaging stories
-  preview: ChatGPT-4o's storytelling enhanced significantly.
-  fullContent: ChatGPT-4o received a 'creative writing' update, enhancing its natural language skills.
-  img: https://cdn.mos.cms.futurecdn.net/B7jcSq7sMu4eLaoJP3sqee-1200-80.jpg
-  sourcelink: https://www.techradar.com/computing/artificial-intelligence/chatgpt-4o-just-got-a-creative-writing-boost-for-telling-more-engaging-stories
-  topic: large language model
-  publishedAt: '2024-11-21T12:11:35Z'
-  source: TechRadar
+- title: ChatGPT’s latest model may be a regression in performance
+  preview: Model regresses, performance concerns rise.
+  fullContent: OpenAI's GPT-4o, the latest flagship model, appears to be regressing in performance, aligning more with its smaller counterpart, GPT-40-mini.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
+  topic: GPT-4
+  publishedAt: '2024-11-21T23:24:19Z'
+  source: Digital Trends
   sentiment: Positive
   id: 5
   image: news/11232024/images/5/article_image.png
-- title: Samsung Gauss2 Multimodal AI Model With Support for Up to 14 Languages Unveiled at SDC24
-  preview: Multilingual Samsung AI model revealed.
-  fullContent: Samsung introduced Gauss2, the second generation of its Gauss AI model, emphasizing improved performance, efficiency, and advanced use cases for better application integration.
-  img: https://i.gadgets360cdn.com/large/samsung_gauss2_1732182993856.jpg
-  sourcelink: https://www.gadgets360.com/ai/news/samsung-gauss2-multimodal-ai-model-up-to-14-languages-support-compact-balanced-supreme-unveiled-sdc24-7071239
-  topic: large language model
-  publishedAt: '2024-11-21T10:35:30Z'
-  source: Gadgets360.com
+- title: 'Show HN: Llama 3.2 Interpretability with Sparse Autoencoders'
+  preview: Enhancing Llama 3.2's interpretability power.
+  fullContent: I invested significant time and resources in a substantial side project aimed at replicating mechanistic interpretability research on proprietary large language models (LLMs). This research area gained traction in 2023, yielding noteworthy papers from organizations like Anthropic and OpenAI.
+  img: https://opengraph.githubassets.com/dbad2672b8d8adf4c65237b2c6c85053e0e6fcaa886fc12044daabda8d85e42f/PaulPauls/llama3_interpretability_sae
+  sourcelink: https://github.com/PaulPauls/llama3_interpretability_sae
+  topic: GPT-4
+  publishedAt: '2024-11-21T20:37:56Z'
+  source: Github.com
   sentiment: Positive
   id: 6
   image: news/11232024/images/6/article_image.png
-- title: ChatGPT just improved its creative writing chops
-  preview: Enhanced ChatGPT excels in writing.
-  fullContent: OpenAI's GPT-4o model received updates, enhancing its ability to produce writing that is more natural, engaging, and tailored to improve relevance and readability.
-  img: https://www.digitaltrends.com/wp-content/uploads/2024/09/pexels-sanketgraphy-16587315-1.jpg?resize=1200%2C630&p=1
-  sourcelink: https://www.digitaltrends.com/computing/chatgpt-gpt-4o-model-improving-creative-writing-chops/
-  topic: large language model
-  publishedAt: '2024-11-21T00:11:25Z'
-  source: Digital Trends
-  sentiment: Positive
+- title: How OpenAI stress-tests its large language models
+  preview: '"Ensuring AI reliability through testing"'
+  fullContent: OpenAI recently revealed part of its safety-testing procedures. Previously, they shared findings from an investigation examining how often ChatGPT generated harmful gender or racial stereotypes based on names. This marks an ongoing effort to increase transparency regarding its AI’s safety measures and to address biases, demonstrating OpenAI's commitment to refining its systems and ensuring ethical AI use.
+  img: https://wp.technologyreview.com/wp-content/uploads/2024/11/openAItest.jpg?resize=1200,600
+  sourcelink: https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/
+  topic: GPT-4
+  publishedAt: '2024-11-21T18:00:10Z'
+  source: MIT Technology Review
+  sentiment: Neutral
   id: 7
   image: news/11232024/images/7/article_image.png
-- title: DeepSeek's First Reasoning Model R1-Lite-Preview Beats OpenAI o1 Performance
-  preview: DeepSeek AI surpasses OpenAI performance.
-  fullContent: DeepSeek, a branch of China’s High-Flyer Capital Management that specializes in open-source technology, has introduced the R1-Lite-Preview. This is their latest reasoning-focused large language model and is currently available exclusively.
-  img: null
-  sourcelink: https://slashdot.org/submission/17330231/deepseeks-first-reasoning-model-r1-lite-preview-beats-openai-o1-performance
-  topic: large language model
-  publishedAt: '2024-11-20T21:28:28Z'
-  source: Slashdot.org
+- title: Grab taps GPT-4o to improve mapping service
+  preview: Mapping enhanced by AI collaboration.
+  fullContent: Grab is utilizing OpenAI’s GPT-4o model to develop hyperlocal, dynamic maps, which enhances accuracy and reduces costs.
+  img: https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Ascannio-adobe.jpg
+  sourcelink: https://www.computerweekly.com/news/366616252/Grab-taps-GPT-4o-to-improve-mapping-service
+  topic: GPT-4
+  publishedAt: '2024-11-21T04:45:00Z'
+  source: ComputerWeekly.com
   sentiment: Positive
   id: 8
   image: news/11232024/images/8/article_image.png
-- title: Pokemon GO users may have unwittingly helped build Niantic’s new AI model
-  preview: Users unknowingly contributed to AI.
-  fullContent: Niantic, the developer behind Pokemon GO, is creating a Large Geospatial Model (LGM) to enhance Spatial Intelligence. This initiative employs machine learning to improve its capabilities.
-  img: https://i0.wp.com/mynintendonews.com/wp-content/uploads/2015/10/pokemon_go_logo.jpg?fit=1683%2C947&ssl=1
-  sourcelink: https://mynintendonews.com/2024/11/20/pokemon-go-users-may-have-unwittingly-helped-build-niantics-new-ai-model/
-  topic: large language model
-  publishedAt: '2024-11-20T18:52:18Z'
-  source: My Nintendo News
+- title: ChatGPT just improved its creative writing chops
+  preview: AI enhances storytelling with creativity.
+  fullContent: OpenAI released upgrades for its GPT-4o model, enhancing its capabilities for more natural, engaging, and tailored writing. These improvements aim to boost the relevance and readability of the model's outputs.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/09/pexels-sanketgraphy-16587315-1.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/chatgpt-gpt-4o-model-improving-creative-writing-chops/
+  topic: GPT-4
+  publishedAt: '2024-11-21T00:11:25Z'
+  source: Digital Trends
   sentiment: Positive
   id: 9
   image: news/11232024/images/9/article_image.png
-- title: Asian News International (ANI) sues OpenAI for copyright violation
-  preview: ANI sues OpenAI for infringement.
-  fullContent: The court acknowledged the complexity of issues related to large language model training and will seek expert assistance. The case will be heard again on January 28.
-  img: https://bl-i.thgim.com/public/incoming/e5cgp0/article68708585.ece/alternates/LANDSCAPE_1200/2024-10-01T190943Z_112412837_RC2UFZ9EPCW0_RTRMADP_3_OPENAI-PRODUCTS-AI.JPG
-  sourcelink: https://www.bloomberg.com/news/articles/2024-11-19/indian-news-agency-sues-openai-for-copyrighted-content-violation
-  topic: large language model
-  publishedAt: '2024-11-20T12:09:23Z'
-  source: Bloomberg
-  sentiment: Negative
+- title: 7 reasons Google Gemini is better than ChatGPT
+  preview: '"Google Gemini outshines ChatGPT, continuously."'
+  fullContent: Google Gemini introduces features that set it apart from OpenAI's ChatGPT. While specific differences were not detailed, Gemini's unique capabilities indicate a competitive edge in the AI landscape.
+  img: https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/11/gemini-vs-chatgpt.jpg
+  sourcelink: https://www.androidpolice.com/google-gemini-better-chatgpt-reasons/
+  topic: GPT-4
+  publishedAt: '2024-11-20T22:38:53Z'
+  source: Android Police
+  sentiment: Positive
   id: 10
   image: news/11232024/images/10/article_image.png
-- title: '2 Years Of ChatGPT: 4 Lessons About AI — And Ourselves'
-  preview: AI evolution reshapes human introspection.
-  fullContent: Generative AI illuminates both the capabilities of artificial intelligence and the untapped potential of human creativity. It highlights AI's ability to perform tasks beyond human limitations, such as processing vast data and generating new content. However, it also underscores the importance of human judgment in interpreting AI-created outcomes, pointing to our unique cognitive abilities that AI cannot replicate. As such, the evolution of AI challenges us to harness and expand our natural intelligence, emphasizing collaboration rather than competition between humans and machines. Understanding this dynamic offers insights into maximizing AI's benefits while fostering human creative and analytical potential.
-  img: https://imageio.forbes.com/specials-images/imageserve/673a61cddfc90d42d286eb27/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
-  sourcelink: https://www.forbes.com/sites/corneliawalther/2024/11/19/2-years-of-chatgpt-4-lessons-about-ai---and-ourselves/
-  topic: large language model
-  publishedAt: '2024-11-19T20:25:23Z'
-  source: Forbes
+- title: 'Show HN: Single-file AI Auto-completion Editor'
+  preview: Effortlessly complete code with AI.
+  fullContent: A single-file text editor offers real-time AI-powered auto-completion, utilizing multiple AI models from providers like Anthropic, OpenAI, and GROQ. Available on GitHub by sliday, the tool enhances text editing with intelligent suggestions.
+  img: https://opengraph.githubassets.com/86b9fa3ece81db7f683ce84677a203e20adf1500b0c8bbbdf8432639e5c18fc9/sliday/AI-Auto-Completion-Editor
+  sourcelink: https://github.com/sliday/AI-Auto-Completion-Editor
+  topic: GPT-4
+  publishedAt: '2024-11-19T23:43:06Z'
+  source: Github.com
   sentiment: Positive
   id: 11
   image: news/11232024/images/11/article_image.png
-- title: The coming AI apocalypse could be just the doom Apple ordered
-  preview: Apple's potential AI-driven transformation.
-  fullContent: This week in technology news, AI's popularity is put into question. Despite its perceived coolness, companies like OpenAI, Google, and Anthropic face difficulties in developing more advanced AI systems. The challenges suggest a more complex reality than initially presumed, defying the blanket statement that everyone universally loves AI.
-  img: https://www.macworld.com/wp-content/uploads/2024/11/Bildschirmfoto-2024-06-10-um-20.08.01-3.jpg?quality=50&strip=all&w=1024
-  sourcelink: https://www.macworld.com/article/2524469/ais-coming-crash-could-leave-apple-the-last-one-standing.html
-  topic: large language model
-  publishedAt: '2024-11-19T11:30:00Z'
-  source: Macworld
-  sentiment: Negative
+- title: mychatgpt added to PyPI
+  preview: Mychatgpt now available on PyPI!
+  fullContent: mychatgpt is a Python module designed for interacting with OpenAI's GPT models to create conversational agents. It enables users to engage in interactive conversations while tracking the dialogue history.
+  img: https://pypi.org/static/images/twitter.abaf4b19.webp
+  sourcelink: https://pypi.org/project/mychatgpt/
+  topic: GPT-4
+  publishedAt: '2024-11-19T18:04:38Z'
+  source: Pypi.org
+  sentiment: Positive
   id: 12
   image: news/11232024/images/12/article_image.png
-- title: Cerebras Systems upgrades its inference service with record performance for Meta’s largest LLM model
-  preview: '"Cerebras enhances Meta''s LLM efficiency"'
-  fullContent: Cerebras Systems Inc., a competitor to Nvidia Corp., has announced its cloud-based AI inference service capable of running Meta Platforms Inc.'s largest language model at nearly 1,000 tokens per second.
-  img: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/photo.png
-  sourcelink: https://siliconangle.com/2024/11/18/cerebras-systems-upgrades-inference-service-record-performance-metas-largest-llm-model/
-  topic: large language model
-  publishedAt: '2024-11-18T19:00:55Z'
-  source: SiliconANGLE News
+- title: ChatGPT Outperformed Doctors in Diagnosing Diseases and Medical Conditions, Says Study
+  preview: ChatGPT Surpasses Doctors in Diagnosis
+  fullContent: ChatGPT, powered by OpenAI's GPT-4, surpassed human doctors in diagnosing diseases in a study. The study initially aimed to assess whether AI chatbots could assist doctors in improving their diagnoses. However, the results unexpectedly demonstrated that the AI outperformed human medical professionals in diagnostic accuracy.
+  img: https://i.gadgets360cdn.com/large/chatgpt_unsplash2_1732019868397.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/chatgpt-diagnosing-diseases-medical-conditions-illness-outperformed-human-doctors-study-7056306
+  topic: GPT-4
+  publishedAt: '2024-11-19T12:40:57Z'
+  source: Gadgets360.com
   sentiment: Positive
   id: 13
   image: news/11232024/images/13/article_image.png
-- title: How InsuranceDekho transformed insurance agent interactions using Amazon Bedrock and generative AI
-  preview: 'Transforming interactions: InsuranceDekho''s AI revolution.'
-  fullContent: InsuranceDekho employed generative AI through Amazon Bedrock and Anthropic’s Claude to handle customer inquiries about policy coverages, exclusions, and other insurance-related questions. This integration aimed to assist customer care agents and POSPs by leveraging advanced AI capabilities to deliver prompt and accurate responses, enhancing customer service efficiency and satisfaction.
-  img: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/11/11/Final-Image-2-1169x630.png
-  sourcelink: https://aws.amazon.com/blogs/machine-learning/how-insurancedekho-transformed-insurance-agent-interactions-using-amazon-bedrock-and-generative-ai/
-  topic: large language model
-  publishedAt: '2024-11-18T18:30:39Z'
-  source: Amazon.com
-  sentiment: Positive
+- title: ANI Sues OpenAI For Copyright Infringement
+  preview: Copyright infringement lawsuit against OpenAI.
+  fullContent: ANI has filed a lawsuit against OpenAI for allegedly using its copyrighted news content to train ChatGPT, marking a first in India. ANI claims the chatbot has been generating false statements attributed to it, underscoring a conflict between AI development and journalistic integrity.
+  img: https://www.medianama.com/wp-content/uploads/2024/06/ai-8529399_1920.jpg
+  sourcelink: https://www.medianama.com/2024/11/223-ani-sues-openai-for-copyright-infringement/
+  topic: GPT-4
+  publishedAt: '2024-11-19T05:57:50Z'
+  source: MediaNama.com
+  sentiment: Negative
   id: 14
   image: news/11232024/images/14/article_image.png
-- title: ChatGPT Defeated Doctors at Diagnosing Illness
-  preview: AI Outperformed Doctors in Diagnosis
-  fullContent: Over the summer, researchers evaluated artificial intelligence's capability in diagnosing illnesses using a chatbot that analyzed 150 case studies. The findings were unfavorable, showing that the AI diagnosed the correct condition less than 50% of the time. The study suggests that ChatGPT, in its current form, is not reliable for medical diagnosis.
-  img: https://img1-azrcdn.newser.com/image/1573366-12-20241118122617.jpeg
-  sourcelink: https://www.newser.com/story/359645/chatgpt-defeated-doctors-at-diagnosing-illness.html
-  topic: large language model
-  publishedAt: '2024-11-18T18:12:00Z'
-  source: Newser
-  sentiment: Negative
+- title: A ChatGPT-Like AI Can Now Design Whole New Genomes From Scratch
+  preview: AI Revolutionizes Genome Design Innovations
+  fullContent: An AI named Evo, inspired by large language models like those in ChatGPT, has generated a completely new genome from scratch using the four DNA "letters" that compose all life on Earth. This innovation showcases the potential of AI beyond language processing, extending its capabilities to pioneering biological developments. Evo leverages its understanding and manipulation of genetic code in a manner similar to how it processes language, marking a significant breakthrough in synthetic biology. This development demonstrates AI's evolving role in scientific research and its potential for creating novel biological constructs.
+  img: https://singularityhub.com/uploads/2024/11/digital-dna-ai-generated-genomes.jpeg
+  sourcelink: https://singularityhub.com/2024/11/18/a-chatgpt-like-ai-can-now-design-entirely-new-genomes-from-scratch/
+  topic: GPT-4
+  publishedAt: '2024-11-18T22:59:39Z'
+  source: Singularity Hub
+  sentiment: Positive
   id: 15
   image: news/11232024/images/15/article_image.png
-- title: Google Gemini Exp 1114 AI Released – Beats o1-Preview & Claude 3.5 Sonnet
-  preview: Gemini AI surpasses competitors significantly.
-  fullContent: Google's Gemini Exp 1114 AI model has emerged as a leading Large Language Model (LLM) by claiming the top position on the Hugging Face Chatbot Arena Benchmark. This marks a notable accomplishment in the AI field, showcasing its proficiency in natural language processing.
-  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/gemini-model-performance-metrics-comparison.jpg
-  sourcelink: https://www.geeky-gadgets.com/gemini-exp-1114/
-  topic: large language model
-  publishedAt: '2024-11-18T13:13:10Z'
-  source: Geeky Gadgets
+- title: Is AI's meteoric rise beginning to slow?
+  preview: AI's momentum facing potential slowdown.
+  fullContent: There is a growing belief in Silicon Valley that progress with large AI models, which are anticipated to achieve human-level intelligence soon, may be decelerating. Following the rapid launch of ChatGPT, advancements in AI seem to be slowing, raising questions about the feasibility of achieving near-future breakthroughs in artificial intelligence.
+  img: null
+  sourcelink: https://japantoday.com/category/tech/is-ai%27s-meteoric-rise-beginning-to-slow
+  topic: GPT-4
+  publishedAt: '2024-11-18T21:29:30Z'
+  source: Japan Today
   sentiment: Positive
   id: 16
   image: news/11232024/images/16/article_image.png
-- title: Juna.ai wants to use AI agents to make factories more energy-efficient
-  preview: AI agents optimize factory efficiency.
-  fullContent: The trend of AI agents has gained momentum due to the rise of generative AI and large language models. While there is no consensus on their exact definition, AI agents are generally seen as software programs capable of autonomously performing tasks. This recent boom in AI technology has sparked widespread interest and debate regarding AI agents' potentials and applications across various fields.
-  img: https://biztoc.com/cdn/807/og.png
-  sourcelink: https://biztoc.com/x/704782872d58fb79
-  topic: large language model
-  publishedAt: '2024-11-18T10:23:30Z'
-  source: Biztoc.com
+- title: Study identifies strategy for AI cost-efficiency in health care settings
+  preview: Optimizing AI costs in healthcare.
+  fullContent: A study explored strategies for integrating large language models (LLMs), a form of AI, into health systems, focusing on cost efficiency and maintaining performance. It provides valuable insights for effectively leveraging advanced AI technologies in healthcare, facilitating more cost-effective and efficient operations.
+  img: https://www.sciencedaily.com/images/scidaily-icon.png
+  sourcelink: https://www.sciencedaily.com/releases/2024/11/241118125822.htm
+  topic: GPT-4
+  publishedAt: '2024-11-18T17:58:22Z'
+  source: Science Daily
   sentiment: Positive
   id: 17
   image: news/11232024/images/17/article_image.png
-- title: Meet Evo, an AI model that can predict the effects of gene mutations with 'unparalleled accuracy'
-  preview: AI predicts gene mutations accurately.
-  fullContent: Evo is a large language model trained on the genomes of millions of microbes instead of words. It specializes in accurately predicting the effects of genetic mutations.
-  img: https://cdn.mos.cms.futurecdn.net/7AbsRFSTwArhrJZNXkFpqW-1200-80.jpg
-  sourcelink: https://www.livescience.com/technology/artificial-intelligence/meet-evo-an-ai-model-that-can-predict-the-effects-of-gene-mutations-with-unparalleled-accuracy
-  topic: large language model
-  publishedAt: '2024-11-17T11:00:00Z'
-  source: Live Science
-  sentiment: Neutral
+- title: Is AI's Meteoric Rise Beginning To Slow?
+  preview: AI Growth Faces Potential Slowdown
+  fullContent: In Silicon Valley, there is a growing belief that advancements from large AI models, anticipated to lead to human-level artificial intelligence soon, might be decelerating.
+  img: https://d.ibtimes.com.au/en/full/1865814/openai-ceo-sam-altman-fired-off-social-media-post-saying-there-no-wall-fears-arise-over.jpg
+  sourcelink: https://www.ibtimes.com.au/ais-meteoric-rise-beginning-slow-1853571
+  topic: GPT-4
+  publishedAt: '2024-11-18T14:20:51Z'
+  source: Ibtimes.com.au
+  sentiment: Positive
   id: 18
   image: news/11232024/images/18/article_image.png
-- title: Common way to test for leaks in large language models may be flawed
-  preview: Flawed leakage test for LLMs.
-  fullContent: Large language models are integrated across various applications, enhancing functionalities like auto-complete in texts and emails, and powering query responses in tools such as Gemni, Copilot, and ChatGPT. They also influence image generation and are widely used behind the scenes in daily technology interactions, demonstrating their pervasive presence and utility in modern digital environments. These models assist users by predicting text, generating content, and facilitating smooth user experiences in numerous apps and platforms, underscoring their significant role in enhancing technological integration and efficiency in everyday tasks and communications.
-  img: https://scx2.b-cdn.net/gfx/news/hires/2024/common-way-to-test-for.jpg
-  sourcelink: https://techxplore.com/news/2024-11-common-leaks-large-language-flawed.html
-  topic: large language model
-  publishedAt: '2024-11-15T18:10:09Z'
-  source: Tech Xplore
-  sentiment: Neutral
+- title: After A Meteoric Rise, Artificial Intelligence Progress Now Slowing Down?
+  preview: AI progress experiencing noticeable deceleration.
+  fullContent: In Silicon Valley, there's a rising belief that advancements in large AI models, anticipated to achieve human-level intelligence soon, may actually be decelerating.
+  img: https://c.ndtvimg.com/2024-10/3928vl9_artificial-intelligence-_625x300_17_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738
+  sourcelink: https://www.ndtv.com/world-news/after-a-meteoric-rise-artificial-intelligence-progress-now-slowing-down-7046625
+  topic: GPT-4
+  publishedAt: '2024-11-18T09:22:49Z'
+  source: NDTV News
+  sentiment: Positive
   id: 19
   image: news/11232024/images/19/article_image.png
-- title: You can now use ChatGPT’s native app on your Galaxy Book
-  preview: '"Galaxy Book embraces ChatGPT app"'
-  fullContent: Generative AI tools, particularly OpenAI's ChatGPT, have gained significant attention recently. Notably, ChatGPT now offers a native app for Windows computers, such as the Galaxy Book, broadening its accessibility to users.
-  img: https://www.sammobile.com/wp-content/uploads/2024/11/OpenAI-ChatGPT-Windows-OS-720x405.jpg
-  sourcelink: https://www.sammobile.com/news/chatgpt-native-windows-app-galaxy-book/
-  topic: large language model
-  publishedAt: '2024-11-15T13:54:53Z'
-  source: SamMobile
+- title: Is AI’s meteoric rise beginning to slow?
+  preview: AI's progress decelerating, future uncertain.
+  fullContent: There's a growing belief in Silicon Valley that advancements from large AI models might be slowing down, particularly those anticipated to achieve human-level AI soon. This perception follows the fervent release of tools like ChatGPT, suggesting that the rapid pace of AI innovation may be experiencing deceleration. If true, this could have significant implications for the tech industry and its future expectations.
+  img: https://www.digitaljournal.com/wp-content/uploads/2024/11/cbda240667364fa2cdcf0bff0ce3f41651fc342f.jpg
+  sourcelink: https://www.digitaljournal.com/world/is-ais-meteoric-rise-beginning-to-slow/article
+  topic: GPT-4
+  publishedAt: '2024-11-18T01:42:50Z'
+  source: Digital Journal
   sentiment: Positive
   id: 20
   image: news/11232024/images/20/article_image.png
