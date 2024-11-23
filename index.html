@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athenia AI Frontier - Your AI News Hub</title>
+    <meta name="description" content="Athenia AI Frontier - Your AI News Hub">
+    <meta name="keywords" content="chagpt, AI, LLMs, NVIDIA">
+    <meta name="author" content="Athenia AI Frontier">
+
+    <!-- Favicon and Apple Touch Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="nav-content">
+                <div class="logo-container">
+                    <img src="/logo.png" alt="Athenia AI Logo" class="logo" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>'">
+                    <h1>Athenia AI Frontier - Your AI News Hub</h1>
+                </div>
+                <div class="controls">
+                    <select id="pairSelect">
+                        <option value="">AI News</option>
+                    </select>
+                    <input type="date" id="datePicker">
+                    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle theme">
+                        <span class="theme-toggle-light" aria-hidden="true">☀️</span>
+                        <span class="theme-toggle-dark" aria-hidden="true">🌙</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div id="tileGrid" class="grid"></div>
+    </main>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span id="closeBtn" class="close">&times;</span>
+            <div class="modal-header">
+                <img id="modalSentimentIcon" src="" alt="" class="sentiment-icon">
+                <h2 id="modalTitle"></h2>
+            </div>
+            <p id="modalContent"></p>
+            <img id="modalImage" src="" alt="">
+            <div class="source-links">
+                <h3>Sources:</h3>
+                <div id="modalSources"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

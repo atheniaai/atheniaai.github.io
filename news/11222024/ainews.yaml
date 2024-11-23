@@ -1,0 +1,23 @@
+news:
+- title: ChatGPT’s latest model may be a regression in performance
+  preview: Model's performance potentially regressed.
+  fullContent: OpenAI's latest flagship model, GPT-4o, appears to be regressing, reducing its performance to the level of its smaller variant, GPT-40-mini.
+  image: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
+  topic: GPT-4
+  publishedAt: '2024-11-21T23:24:19Z'
+  source: Digital Trends
+  sentiment: Positive
+  id: 1
+  generated_image: /news/11222024/images/1/article_image.png
+- title: ChatGPT users ‘gobsmacked’ over ‘God prompt’ that promises to reveal your deepest truths
+  preview: '"ChatGPT unveils surprising personal insights."'
+  fullContent: A TikTok video showcasing a "God prompt" for ChatGPT went viral, gaining over 1.1 million views. Users experimenting with the prompt were astonished by the AI's accurate insights, claiming it knew personal details they hadn't shared even with close friends.
+  image: https://uploads.dailydot.com/2024/11/chat-gpt-god-mode.jpg?auto=compress&fm=pjpg
+  sourcelink: https://www.dailydot.com/news/chatgpt-god-prompt/
+  topic: GPT-4
+  publishedAt: '2024-11-21T22:58:11Z'
+  source: The Daily Dot
+  sentiment: Positive
+  id: 2
+  generated_image: /news/11222024/images/2/article_image.png
