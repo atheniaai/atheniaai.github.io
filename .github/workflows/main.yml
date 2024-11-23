@@ -35,15 +35,17 @@ jobs:
         
     - name: Configure Git
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "${{ secrets.GIT_EMAIL }}"
+        git config --local user.name "${{ secrets.GIT_USERNAME }}"
         
     - name: Commit and push if there are changes
-      run: |
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+    - run: |
         git add news/
         timestamp=$(date +"%Y-%m-%d %H:%M:%S")
         git commit -m "Update AI news: ${timestamp}" || exit 0
-        git push
+        git push origin HEAD:main
 
     - name: Check for errors
       if: failure()
