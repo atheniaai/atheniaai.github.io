@@ -34,7 +34,8 @@ jobs:
       env:
         NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: python ainews.py
+        PYTHONUNBUFFERED: "1"
+      run: python -u ainews.py
         
     - name: Configure Git
       run: |
