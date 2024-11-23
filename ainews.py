@@ -224,8 +224,6 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
     
     # PRODUCTION MODE: Uncomment below for all topics
     topics = [
-        'artificial intelligence research',
-        'machine learning technology',
         'large language model',
         'ChatGPT development',
         'OpenAI research',
@@ -236,6 +234,8 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
         'AI technology innovation',
         'AI research breakthrough',
         'neural network development',
+        'artificial intelligence research',
+        'machine learning technology',
         'foundation model AI',
         'transformer model AI',
         'LLM development'
