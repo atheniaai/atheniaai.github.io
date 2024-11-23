@@ -354,7 +354,7 @@ def main():
         raise ValueError("API keys not found in environment variables")
     
     # Configure maximum articles to process
-    MAX_ARTICLES = 20  # Change this value for testing
+    MAX_ARTICLES = 5  # Change this value for testing
     
     try:
         articles = fetch_ai_news(
