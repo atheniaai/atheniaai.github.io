@@ -1,7 +1,7 @@
 news:
 - title: ChatGPT’s latest model may be a regression in performance
-  preview: Model performance reportedly regresses unexpectedly.
-  fullContent: OpenAI's latest model, GPT-4o, appears to be underperforming, regressing to the level of its smaller variant, GPT-40-mini.
+  preview: New model underperforms previous versions.
+  fullContent: OpenAI's new flagship model, GPT-4o, shows performance regression, aligning more closely with the smaller GPT-40-mini model.
   img: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
   sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
   topic: large language model
@@ -11,8 +11,8 @@ news:
   id: 1
   image: news/11232024/images/1/article_image.png
 - title: Siri chatbot may be coming in 2026 as part of iOS 19
-  preview: Siri chatbot arriving in 2026.
-  fullContent: Apple is rumored to be enhancing Siri's conversational abilities by integrating a large language model (LLM) similar to ChatGPT. This update aims to compete with AI rivals and will likely be ready by 2026.
+  preview: 'Siri evolves: Chatbot debut 2026.'
+  fullContent: Rumors indicate that Apple aims to enhance Siri's conversational abilities by incorporating a large language model (LLM) backend, akin to technologies like ChatGPT, with a prospective launch in 2026. This update intends to make Siri's interactions more natural and sophisticated, leveraging advanced AI capabilities. Although details are limited, this move aligns with industry trends towards using LLMs to create more lifelike and efficient virtual assistants. As competition in AI intensifies, Apple's integration of such technology into Siri could potentially elevate its functionality and bring it in line with current AI developments by tech rivals.
   img: https://photos5.appleinsider.com/gallery/61827-127957-Siri-Intelligence-xl.jpg
   sourcelink: https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19
   topic: large language model
@@ -22,8 +22,8 @@ news:
   id: 2
   image: news/11232024/images/2/article_image.png
 - title: How OpenAI stress-tests its large language models
-  preview: Ensuring reliability through rigorous testing.
-  fullContent: OpenAI has revealed insights into its safety-testing processes. Recently, they shared findings from an investigation on ChatGPT's production of harmful gender or racial stereotypes linked to users' names.
+  preview: '"Ensuring reliability through rigorous evaluations."'
+  fullContent: OpenAI has shared findings from a recent investigation into the frequency of harmful gender or racial stereotypes produced by ChatGPT based on a user's name. This initiative is part of OpenAI's ongoing efforts to improve transparency in its safety-testing processes, demonstrating a commitment to understanding and mitigating biases in AI outputs.
   img: https://wp.technologyreview.com/wp-content/uploads/2024/11/openAItest.jpg?resize=1200,600
   sourcelink: https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/
   topic: large language model
@@ -33,8 +33,8 @@ news:
   id: 3
   image: news/11232024/images/3/article_image.png
 - title: Chinese DeepSeek-R1 AI Model With Advanced Reasoning Capabilities Released, Can Rival OpenAI o1
-  preview: Advanced AI Model Rivals OpenAI
-  fullContent: China's newly released AI model, DeepSeek-R1-Lite-Preview, aims to compete with OpenAI's o1 model, particularly in advanced reasoning capabilities. Released on Wednesday, it reportedly surpasses o1 in select areas, highlighting China's growing presence in the AI field.
+  preview: AI model rivals OpenAI powerfully.
+  fullContent: A Chinese AI model, DeepSeek-R1-Lite-Preview, was launched, claiming to rival OpenAI’s o1 model in advanced reasoning. This large language model reportedly surpasses o1 in certain unspecified metrics, indicating significant capabilities in reasoning.
   img: https://i.gadgets360cdn.com/large/deepseek_logo_1732193195482.jpg
   sourcelink: https://www.gadgets360.com/ai/news/deepseek-r1-lite-preview-china-ai-model-advanced-reasoning-rival-openai-o1-7072569
   topic: large language model
@@ -44,8 +44,8 @@ news:
   id: 4
   image: news/11232024/images/4/article_image.png
 - title: ChatGPT-4o just got a 'creative writing' boost for telling more engaging stories
-  preview: ChatGPT-4o enhances storytelling engagement.
-  fullContent: ChatGPT-4o has received a 'creative writing' update, enhancing its natural language capabilities.
+  preview: Enhanced storytelling through creative features.
+  fullContent: ChatGPT-4o has received an update enhancing its creative writing skills, improving its natural language capabilities.
   img: https://cdn.mos.cms.futurecdn.net/B7jcSq7sMu4eLaoJP3sqee-1200-80.jpg
   sourcelink: https://www.techradar.com/computing/artificial-intelligence/chatgpt-4o-just-got-a-creative-writing-boost-for-telling-more-engaging-stories
   topic: large language model
@@ -55,8 +55,8 @@ news:
   id: 5
   image: news/11232024/images/5/article_image.png
 - title: Samsung Gauss2 Multimodal AI Model With Support for Up to 14 Languages Unveiled at SDC24
-  preview: Samsung Gauss2 AI Model Unveiled
-  fullContent: On Thursday, Samsung introduced Gauss2, the next generation of its Gauss artificial intelligence model. Gauss2 is a multimodal AI model that promises improved performance, efficiency, and expanded integration capabilities for various applications.
+  preview: Samsung unveils multilingual AI model.
+  fullContent: Samsung introduced Gauss2, the second iteration of its Gauss AI model, highlighting advancements in performance and efficiency. The multimodal AI model is designed for superior application integration, suggesting it builds on its predecessor's capabilities with improved functionalities.
   img: https://i.gadgets360cdn.com/large/samsung_gauss2_1732182993856.jpg
   sourcelink: https://www.gadgets360.com/ai/news/samsung-gauss2-multimodal-ai-model-up-to-14-languages-support-compact-balanced-supreme-unveiled-sdc24-7071239
   topic: large language model
@@ -66,8 +66,8 @@ news:
   id: 6
   image: news/11232024/images/6/article_image.png
 - title: ChatGPT just improved its creative writing chops
-  preview: ChatGPT enhances its creative prowess.
-  fullContent: OpenAI has released updates to its GPT-4o model to enhance its capabilities. These improvements include generating more natural, engaging, and tailored writing aimed at increasing the relevance and readability of its outputs.
+  preview: ChatGPT elevates creative writing skills.
+  fullContent: OpenAI's GPT-4o model received upgrades on Wednesday aimed at enhancing naturalness, engagement, and personalized writing to improve its relevance and readability.
   img: https://www.digitaltrends.com/wp-content/uploads/2024/09/pexels-sanketgraphy-16587315-1.jpg?resize=1200%2C630&p=1
   sourcelink: https://www.digitaltrends.com/computing/chatgpt-gpt-4o-model-improving-creative-writing-chops/
   topic: large language model
@@ -77,8 +77,8 @@ news:
   id: 7
   image: news/11232024/images/7/article_image.png
 - title: DeepSeek's First Reasoning Model R1-Lite-Preview Beats OpenAI o1 Performance
-  preview: DeepSeek's R1-Lite surpasses OpenAI performance.
-  fullContent: DeepSeek, an AI offshoot of High-Flyer Capital Management, has introduced the R1-Lite-Preview, a large language model with enhanced reasoning capabilities. This model is a part of DeepSeek's commitment to releasing high-performance open-source technology. Currently, the R1-Lite-Preview is exclusively available, marking a significant advancement in AI-driven language processing.
+  preview: DeepSeek's R1-Lite-Preview Surpasses OpenAI Performance
+  fullContent: DeepSeek, a subsidiary of Chinese hedge fund High-Flyer Capital Management, has introduced the R1-Lite-Preview, a new reasoning-focused large language model. This development aligns with DeepSeek's goal to release high-performance open source technology.
   img: null
   sourcelink: https://slashdot.org/submission/17330231/deepseeks-first-reasoning-model-r1-lite-preview-beats-openai-o1-performance
   topic: large language model
@@ -88,8 +88,8 @@ news:
   id: 8
   image: news/11232024/images/8/article_image.png
 - title: Pokemon GO users may have unwittingly helped build Niantic’s new AI model
-  preview: Unintentional contributions bolster Niantic's AI.
-  fullContent: Niantic, the developer behind Pokemon GO, is developing a Large Geospatial Model (LGM) to enhance its Spatial Intelligence capabilities. Utilizing machine learning, this model aims to advance the company's technology, although specific methodologies or applications aren't detailed.
+  preview: '"Players unknowingly contributed to AI."'
+  fullContent: Niantic, the developer of Pokemon GO, is working on a Large Geospatial Model (LGM) to enhance Spatial Intelligence, according to a company blog post. This model employs machine learning techniques to advance the firm's capabilities in geospatial technology.
   img: https://i0.wp.com/mynintendonews.com/wp-content/uploads/2015/10/pokemon_go_logo.jpg?fit=1683%2C947&ssl=1
   sourcelink: https://mynintendonews.com/2024/11/20/pokemon-go-users-may-have-unwittingly-helped-build-niantics-new-ai-model/
   topic: large language model
@@ -99,8 +99,8 @@ news:
   id: 9
   image: news/11232024/images/9/article_image.png
 - title: Asian News International (ANI) sues OpenAI for copyright violation
-  preview: ANI sues OpenAI over copyright.
-  fullContent: The court acknowledged the complexity of issues linked to large language model training, admitting it requires expert assistance. The case will continue on January 28.
+  preview: ANI sues OpenAI for copyright.
+  fullContent: The court acknowledged the complexity of issues related to large language model training, deciding to engage an expert for assistance. The next hearing is scheduled for January 28.
   img: https://bl-i.thgim.com/public/incoming/e5cgp0/article68708585.ece/alternates/LANDSCAPE_1200/2024-10-01T190943Z_112412837_RC2UFZ9EPCW0_RTRMADP_3_OPENAI-PRODUCTS-AI.JPG
   sourcelink: https://www.bloomberg.com/news/articles/2024-11-19/indian-news-agency-sues-openai-for-copyrighted-content-violation
   topic: large language model
@@ -110,8 +110,8 @@ news:
   id: 10
   image: news/11232024/images/10/article_image.png
 - title: '2 Years Of ChatGPT: 4 Lessons About AI — And Ourselves'
-  preview: AI insights reshape human understanding.
-  fullContent: 'Our reaction to generative AI highlights both AI''s power and the limitations and potential of human intelligence. Four main insights arise: 1) AI''s capabilities reveal gaps in our understanding and utilization of human intelligence, 2) AI offers new benchmarks for human creativity and problem-solving, demanding adaptation and innovation from us, 3) the interplay between AI and humans can lead to novel solutions, enhancing collective intellect, and 4) understanding AI''s role prompts us to reflect on ethical considerations and the value of distinctly human qualities, ultimately urging a reassessment of human potential and how to harness it effectively alongside AI advancements.'
+  preview: 'ChatGPT''s impact: AI self-discovery lessons.'
+  fullContent: The emergence of generative AI highlights both the capabilities and constraints of artificial intelligence, as well as the untapped potential of human intelligence. Our reactions to AI technology provide key insights into understanding these dynamics. These insights reflect how AI's prowess can challenge human abilities, prompt us to refine our cognitive skills, encourage ethical reflection on technology use, and inspire innovative, collaborative approaches for leveraging both AI and human intelligence effectively. These realizations help to bridge gaps between what technology can achieve and our inherent human capabilities, guiding future advancements and ethical considerations in AI development.
   img: https://imageio.forbes.com/specials-images/imageserve/673a61cddfc90d42d286eb27/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
   sourcelink: https://www.forbes.com/sites/corneliawalther/2024/11/19/2-years-of-chatgpt-4-lessons-about-ai---and-ourselves/
   topic: large language model
@@ -121,8 +121,8 @@ news:
   id: 11
   image: news/11232024/images/11/article_image.png
 - title: The coming AI apocalypse could be just the doom Apple ordered
-  preview: Apple embraces calculated AI transformation.
-  fullContent: This week in tech, Macworld highlights issues with AI as companies face challenges in advancing AI technology. Despite AI's popularity, OpenAI, Google, and Anthropic are struggling to develop more sophisticated AI systems. The complexities involved in AI's evolution are glossed over by oversimplified claims of AI's universal approval. The Macalope humorously critiques an AI’s overly positive bias, pointing out that AI is not unequivocally loved by all. The ongoing dialogue around AI emphasizes the tech industry's need to navigate both enthusiasm and criticism while working on these innovations.
+  preview: AI-driven transformation revolutionizes Apple's future.
+  fullContent: This week's technology news highlights the struggles of major AI companies like OpenAI, Google, and Anthropic in advancing their systems. Despite AI's widespread popularity and perceived coolness, these companies face challenges in building more sophisticated AI models.
   img: https://www.macworld.com/wp-content/uploads/2024/11/Bildschirmfoto-2024-06-10-um-20.08.01-3.jpg?quality=50&strip=all&w=1024
   sourcelink: https://www.macworld.com/article/2524469/ais-coming-crash-could-leave-apple-the-last-one-standing.html
   topic: large language model
@@ -132,8 +132,8 @@ news:
   id: 12
   image: news/11232024/images/12/article_image.png
 - title: Cerebras Systems upgrades its inference service with record performance for Meta’s largest LLM model
-  preview: '"Cerebras enhances Meta''s LLM performance."'
-  fullContent: Cerebras Systems Inc., a competitive AI startup, announced that its cloud-based AI inference service can efficiently handle Meta Platforms Inc.'s largest model at nearly 1,000 tokens per second. This positions Cerebras as a formidable rival to Nvidia Corp. in the AI computing sector.
+  preview: Upgraded inference service boosts LLM.
+  fullContent: Cerebras Systems Inc., an AI computing startup competing with Nvidia Corp., announced its cloud-based AI large language model inference service. This service is capable of running Meta Platforms Inc.'s largest model at speeds approaching 1,000 tokens per second.
   img: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/06/photo.png
   sourcelink: https://siliconangle.com/2024/11/18/cerebras-systems-upgrades-inference-service-record-performance-metas-largest-llm-model/
   topic: large language model
@@ -142,80 +142,80 @@ news:
   sentiment: Positive
   id: 13
   image: news/11232024/images/13/article_image.png
-- title: OpenAI Comments on Leaked ChatGPT-5 Orion AI Performance
-  preview: OpenAI addresses ChatGPT-5's performance.
-  fullContent: OpenAI is gaining significant attention following leaks about their upcoming AI model, ChatGPT-5, internally named Orion. These leaks have ignited discussions within the tech community.
-  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/chatgpt5-ai-development-hurdles.jpg
-  sourcelink: https://www.geeky-gadgets.com/openai-chatgpt-5-performance-challenges/
-  topic: artificial intelligence research
-  publishedAt: '2024-11-18T14:05:51Z'
-  source: Geeky Gadgets
+- title: How InsuranceDekho transformed insurance agent interactions using Amazon Bedrock and generative AI
+  preview: AI revolutionizes insurance agent interactions.
+  fullContent: InsuranceDekho utilized generative AI through Amazon Bedrock and Anthropic’s Claude to efficiently respond to customer queries concerning policy coverages, exclusions, and other related aspects. This technological enhancement enabled better support for customer care agents and Point of Sale Persons (POSPs), enhancing their ability to confidently address customer concerns and questions.
+  img: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/11/11/Final-Image-2-1169x630.png
+  sourcelink: https://aws.amazon.com/blogs/machine-learning/how-insurancedekho-transformed-insurance-agent-interactions-using-amazon-bedrock-and-generative-ai/
+  topic: large language model
+  publishedAt: '2024-11-18T18:30:39Z'
+  source: Amazon.com
   sentiment: Positive
   id: 14
   image: news/11232024/images/14/article_image.png
-- title: Sam Altman once told Elon Musk he worried Google Deepmind was trying to 'kill it' before it launched by poaching top talent
-  preview: Deepmind threatened competitiveness, feared poaching
-  fullContent: Recently disclosed emails between Elon Musk and Sam Altman provide insights into OpenAI's formative period.
-  img: https://i.insider.com/673a3164ede4eeae39280907?width=1024&format=jpeg
-  sourcelink: https://www.businessinsider.com/altman-musk-deepmind-openai-talent-war-2024-11
-  topic: artificial intelligence research
-  publishedAt: '2024-11-17T19:13:35Z'
-  source: Business Insider
+- title: ChatGPT Defeated Doctors at Diagnosing Illness
+  preview: AI outperforms doctors in diagnoses.
+  fullContent: Researchers found that a chatbot, relying on artificial intelligence, performed poorly in diagnosing illnesses, correctly identifying conditions in fewer than 50% of 150 case studies. This suggests that as of now, ChatGPT and similar AI technologies are not reliable for medical diagnostics.
+  img: https://img1-azrcdn.newser.com/image/1573366-12-20241118122617.jpeg
+  sourcelink: https://www.newser.com/story/359645/chatgpt-defeated-doctors-at-diagnosing-illness.html
+  topic: large language model
+  publishedAt: '2024-11-18T18:12:00Z'
+  source: Newser
   sentiment: Negative
   id: 15
   image: news/11232024/images/15/article_image.png
-- title: Musk's concerns over Google DeepMind 'AI Dictatorship' revealed in emails from 2016 — communications released during the recent OpenAI court case
-  preview: Musk warns against AI authoritarian rule.
-  fullContent: Elon Musk's lawsuit against OpenAI has uncovered numerous revealing emails from the nonprofit's leadership.
-  img: https://cdn.mos.cms.futurecdn.net/v9eMSwUm8jrVisdkKDr3oS-1200-80.jpg
-  sourcelink: https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-concerns-over-google-deepmind-ai-dictatorship-revealed-in-emails-from-2016-communications-released-during-the-recent-openai-court-case
-  topic: artificial intelligence research
-  publishedAt: '2024-11-17T18:50:00Z'
-  source: Tom's Hardware UK
-  sentiment: Negative
+- title: Google Gemini Exp 1114 AI Released – Beats o1-Preview & Claude 3.5 Sonnet
+  preview: Google unveils superior AI model.
+  fullContent: Google's Gemini Exp 1114 AI model has quickly risen to prominence by securing the top position in the Hugging Face Chatbot Arena Benchmark. This marks a substantial achievement in the AI field. The advanced Large Language Model (LLM) demonstrates exceptional capabilities in natural language processing, underscoring its sophistication.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/gemini-model-performance-metrics-comparison.jpg
+  sourcelink: https://www.geeky-gadgets.com/gemini-exp-1114/
+  topic: large language model
+  publishedAt: '2024-11-18T13:13:10Z'
+  source: Geeky Gadgets
+  sentiment: Positive
   id: 16
   image: news/11232024/images/16/article_image.png
-- title: The AI Winter Begins? – AI Scaling Challenges and the Future of AI Development
-  preview: AI Evolution Faces Scaling Hurdles
-  fullContent: Leading artificial intelligence research entities reportedly face challenges in scaling up AI models, contradicting the belief that larger models with more data equate to superior performance. As complexity increases, the expected improvements in AI capability and efficiency may not be realized, indicating potential limitations in current AI development approaches. This revelation could necessitate a paradigm shift in AI research, focusing on novel methodologies or architectures rather than merely enlarging existing models. Consequentially, this may reshape strategies and priorities within the AI community, sparking renewed emphasis on innovative solutions to improve AI capabilities without relying solely on model size expansion.
-  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/Synthetic-data-impact-on-AI-innovation.jpg
-  sourcelink: https://www.geeky-gadgets.com/ai-scaling-challenges/
-  topic: artificial intelligence research
-  publishedAt: '2024-11-15T10:54:15Z'
-  source: Geeky Gadgets
+- title: Juna.ai wants to use AI agents to make factories more energy-efficient
+  preview: AI agents enhance factory efficiency.
+  fullContent: AI agents have become highly popular due to the rise of generative AI and large language models in recent years. Defining AI agents can be challenging; however, they are generally viewed as software programs capable of performing tasks.
+  img: https://biztoc.com/cdn/807/og.png
+  sourcelink: https://biztoc.com/x/704782872d58fb79
+  topic: large language model
+  publishedAt: '2024-11-18T10:23:30Z'
+  source: Biztoc.com
   sentiment: Positive
   id: 17
   image: news/11232024/images/17/article_image.png
-- title: OpenAI’s Latest Statement On ChatGPT-5 Is Surprising
-  preview: Unexpected insights revealed from ChatGPT-5.
-  fullContent: OpenAI, a top AI research lab, has shared updates on its research and development efforts, showcasing its commitment to advancing AI technology. The announcement reveals OpenAI's dedication to creating AI that is safe, ethical, and beneficial to humanity. Details on new projects, collaborative partnerships, and innovations were discussed as part of their future vision for AI's role in enhancing daily life. This reflects OpenAI's ongoing mission to address societal challenges while ensuring robust safety measures and ethical standards are in place, positioning the company at the forefront of AI progress and public interest.
-  img: null
-  sourcelink: https://www.geeky-gadgets.com/?p=441821
-  topic: artificial intelligence research
-  publishedAt: '2024-10-29T11:23:15Z'
-  source: Geeky Gadgets
-  sentiment: Positive
+- title: Meet Evo, an AI model that can predict the effects of gene mutations with 'unparalleled accuracy'
+  preview: Revolutionary AI predicts gene mutations.
+  fullContent: Evo is a large language model trained on the genomes of millions of microbes rather than words. It is designed to accurately predict the effects of genetic mutations.
+  img: https://cdn.mos.cms.futurecdn.net/7AbsRFSTwArhrJZNXkFpqW-1200-80.jpg
+  sourcelink: https://www.livescience.com/technology/artificial-intelligence/meet-evo-an-ai-model-that-can-predict-the-effects-of-gene-mutations-with-unparalleled-accuracy
+  topic: large language model
+  publishedAt: '2024-11-17T11:00:00Z'
+  source: Live Science
+  sentiment: Neutral
   id: 18
   image: news/11232024/images/18/article_image.png
-- title: 'Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness'
-  preview: '"Advancing patient care through AI."'
-  fullContent: A paper by Vollmer et al. had an error in the typeset PDF's summary box, which has since been corrected.
-  img: https://www.bmj.com/sites/default/files/highwire/bmj/387/8446.cover-source.jpg
-  sourcelink: https://www.bmj.com/content/387/bmj.q2390
-  topic: artificial intelligence research
-  publishedAt: '2024-10-28T16:51:22Z'
-  source: The BMJ
-  sentiment: Positive
+- title: Common way to test for leaks in large language models may be flawed
+  preview: Traditional leak tests potentially inadequate.
+  fullContent: Large language models are integrated into various applications, enhancing user experiences across devices. They drive features like auto-complete in texts and emails, and enable intelligent query responses in tools such as Gemni, Copilot, and ChatGPT.
+  img: https://scx2.b-cdn.net/gfx/news/hires/2024/common-way-to-test-for.jpg
+  sourcelink: https://techxplore.com/news/2024-11-common-leaks-large-language-flawed.html
+  topic: large language model
+  publishedAt: '2024-11-15T18:10:09Z'
+  source: Tech Xplore
+  sentiment: Neutral
   id: 19
   image: news/11232024/images/19/article_image.png
-- title: One big question hanging over OpenAI’s transition to for-profit
-  preview: OpenAI's for-profit transition uncertainty.
-  fullContent: OpenAI, founded in 2015 as a nonprofit, transformed into a key player in AI, with CEO Sam Altman recently speaking at the Microsoft Build event in Seattle in May 2024.
-  img: https://biztoc.com/cdn/805/og.png
-  sourcelink: https://biztoc.com/x/e00ed576f310e7f0
-  topic: artificial intelligence research
-  publishedAt: '2024-10-28T12:10:29Z'
-  source: Biztoc.com
+- title: You can now use ChatGPT’s native app on your Galaxy Book
+  preview: ChatGPT app arrives on GalaxyBook.
+  fullContent: Generative AI, particularly OpenAI's ChatGPT, has gained significant attention recently. Notably, ChatGPT now offers a native app for Windows computers such as the Galaxy Book, enhancing accessibility and usability for users on this platform.
+  img: https://www.sammobile.com/wp-content/uploads/2024/11/OpenAI-ChatGPT-Windows-OS-720x405.jpg
+  sourcelink: https://www.sammobile.com/news/chatgpt-native-windows-app-galaxy-book/
+  topic: large language model
+  publishedAt: '2024-11-15T13:54:53Z'
+  source: SamMobile
   sentiment: Positive
   id: 20
   image: news/11232024/images/20/article_image.png
