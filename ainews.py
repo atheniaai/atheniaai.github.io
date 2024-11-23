@@ -229,7 +229,6 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
         'OpenAI research',
         'large language model',
         'ChatGPT development',
-        'OpenAI research',
         'Claude Anthropic',
         'NVIDIA AI computing',
         'deep learning neural',
