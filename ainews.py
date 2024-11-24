@@ -270,7 +270,7 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
             'q': f'"{topic}" {exclusion_terms}',
             'language': 'en',
             'sortBy': 'publishedAt',
-            'pageSize': 100,
+            'pageSize': 20,
             'apiKey': api_key
         }
         
