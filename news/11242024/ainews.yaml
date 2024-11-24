@@ -1,221 +1,221 @@
 news:
+- title: Amazon is investing another $4 billion in AI startup Anthropic
+  preview: Amazon deepens commitment to AI innovation.
+  fullContent: Amazon is doubling down on its investment in AI startup Anthropic, allocating an additional $4 billion following an initial $4 billion investment.
+  img: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9d1320fd026cb0643dfd6e020b654.jpg
+  sourcelink: https://qz.com/amazon-invest-4-billion-ai-startup-anthropic-model-chip-1851705944
+  topic: GPT-4
+  publishedAt: '2024-11-22T15:33:00Z'
+  source: Quartz India
+  sentiment: Positive
+  id: 1
+  image: news/11242024/images/1/article_image.png
+- title: Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn't have a seat on Anthropic's board
+  preview: Amazon invests heavily without influence.
+  fullContent: Amazon announced an additional $4 billion investment in Anthropic, an AI startup founded by former OpenAI executives, increasing its total investment to $8 billion.
+  img: https://biztoc.com/cdn/ab4eaa542b15e59e_s.webp
+  sourcelink: https://biztoc.com/x/ab4eaa542b15e59e
+  topic: OpenAI research
+  publishedAt: '2024-11-22T15:10:45Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 2
+  image: news/11242024/images/2/article_image.png
 - title: Amazon to invest another $4 billion in OpenAI rival Anthropic
-  preview: Amazon fuels Anthropic's ambitious leap.
-  fullContent: Amazon has invested a total of $8 billion in Anthropic, and the new version of Alexa is powered by Anthropic's AI model, Claude.
+  preview: Amazon boosts investment in Anthropic.
+  fullContent: Amazon has invested a total of $8 billion in Anthropic, and the latest version of Alexa is now reportedly powered by Anthropic's AI model, Claude.
   img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
   sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
   topic: Claude AI
   publishedAt: '2024-11-22T15:08:33Z'
   source: The Verge
   sentiment: Positive
-  id: 1
-  image: news/11242024/images/1/article_image.png
+  id: 3
+  image: news/11242024/images/3/article_image.png
+- title: 'Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment'
+  preview: Enhancing systematic reviews with AI.
+  fullContent: Large language models (LLMs) like GPT-4 have the potential to improve and speed up systematic reviews, but how to integrate them effectively remains uncertain. The study examines GPT-4's alignment with human reviewers in evaluating the risk of bias using the Risk Of Bi…
+  img: https://ebm.bmj.com/sites/default/files/highwire/ebmed/29/6.cover-source.jpg
+  sourcelink: https://ebm.bmj.com/content/29/6/394
+  topic: GPT-4
+  publishedAt: '2024-11-22T11:43:22Z'
+  source: The BMJ
+  sentiment: Negative
+  id: 4
+  image: news/11242024/images/4/article_image.png
+- title: 'Black Friday Early: Save 87% on lifetime access to ChatGPT, Gemini, Midjourney & More'
+  preview: 'Huge Discounts: Lifetime Access Bonanza!'
+  fullContent: Get lifetime access to top AI tools like ChatGPT, Gemini, and Midjourney at a discounted price of $29.97 instead of the regular $234 with the 1minAI Black Friday deal. Enjoy the convenience of using multiple AI resources all in one place at an affordable rate, designed to enhance productivity and simplify work tasks.
+  img: https://www.pcworld.com/wp-content/uploads/2024/11/1minAI-1-1-2.jpg?quality=50&strip=all&w=1024
+  sourcelink: https://www.pcworld.com/article/2525875/black-friday-early-save-87-on-lifetime-access-to-chatgpt-gemini-midjourney-more.html
+  topic: GPT-4
+  publishedAt: '2024-11-22T08:00:00Z'
+  source: PCWorld
+  sentiment: Positive
+  id: 5
+  image: news/11242024/images/5/article_image.png
 - title: 'PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries'
-  preview: Malicious impersonators exploit Python libraries.
-  fullContent: Cybersecurity researchers identified two malicious packages on the Python Package Index (PyPI) that mimicked popular AI models, such as OpenAI ChatGPT and Anthropic Claude. These packages aimed to distribute an information-stealing malware.
+  preview: Malicious libraries impersonate AI tools.
+  fullContent: Cybersecurity experts identified two harmful packages mimicking popular AI models, OpenAI ChatGPT and Anthropic Claude, on the Python Package Index (PyPI). These packages were designed to deploy an information stealer, posing as legitimate AI tools to deceive users and compromise their data security. The discovery highlights ongoing threats within software repositories, emphasizing the need for vigilance and improved security measures in the adoption and use of AI-related packages in development environments. This incident underscores the importance of careful scrutiny and validation of packages to prevent malicious activities and safeguard sensitive information.
   img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/s728-rw-e365/code.png
   sourcelink: https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html
   topic: Claude AI
   publishedAt: '2024-11-22T06:15:00Z'
   source: Internet
   sentiment: Positive
-  id: 2
-  image: news/11242024/images/2/article_image.png
+  id: 6
+  image: news/11242024/images/6/article_image.png
+- title: ChatGPT’s latest model may be a regression in performance
+  preview: Latest model demonstrates decreased performance.
+  fullContent: OpenAI's new model, GPT-4o, may be experiencing a regression in performance, potentially reducing its capabilities to the level of its smaller version, GPT-40-mini.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
+  topic: GPT-4
+  publishedAt: '2024-11-21T23:24:19Z'
+  source: Digital Trends
+  sentiment: Positive
+  id: 7
+  image: news/11242024/images/7/article_image.png
+- title: 'Show HN: Llama 3.2 Interpretability with Sparse Autoencoders'
+  preview: 'Llama 3.2: Interpretability through Sparse Autoencoders'
+  fullContent: I invested significant time and money in a side project aimed at replicating mechanistic interpretability research on proprietary large language models (LLMs), inspired by the groundbreaking work done by companies like Anthropic and OpenAI. This type of research gained popularity throughout the year and resulted in impressive papers from these leading organizations.
+  img: https://opengraph.githubassets.com/dbad2672b8d8adf4c65237b2c6c85053e0e6fcaa886fc12044daabda8d85e42f/PaulPauls/llama3_interpretability_sae
+  sourcelink: https://github.com/PaulPauls/llama3_interpretability_sae
+  topic: GPT-4
+  publishedAt: '2024-11-21T20:37:56Z'
+  source: Github.com
+  sentiment: Positive
+  id: 8
+  image: news/11242024/images/8/article_image.png
+- title: How OpenAI stress-tests its large language models
+  preview: '"OpenAI rigorously evaluates language models."'
+  fullContent: OpenAI is gradually revealing its safety-testing methods, having recently disclosed findings on ChatGPT's propensity to create harmful gender or racial stereotypes based on user names.
+  img: https://wp.technologyreview.com/wp-content/uploads/2024/11/openAItest.jpg?resize=1200,600
+  sourcelink: https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/
+  topic: GPT-4
+  publishedAt: '2024-11-21T18:00:10Z'
+  source: MIT Technology Review
+  sentiment: Neutral
+  id: 9
+  image: news/11242024/images/9/article_image.png
+- title: Grab taps GPT-4o to improve mapping service
+  preview: Innovative AI enhances map precision.
+  fullContent: Grab is employing OpenAI's GPT-4o model to create hyperlocal, dynamic maps, enhancing accuracy and cost-efficiency.
+  img: https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Ascannio-adobe.jpg
+  sourcelink: https://www.computerweekly.com/news/366616252/Grab-taps-GPT-4o-to-improve-mapping-service
+  topic: GPT-4
+  publishedAt: '2024-11-21T04:45:00Z'
+  source: ComputerWeekly.com
+  sentiment: Positive
+  id: 10
+  image: news/11242024/images/10/article_image.png
+- title: ChatGPT just improved its creative writing chops
+  preview: ChatGPT enhances creative writing skills.
+  fullContent: OpenAI's GPT-4o model received enhancements that improve its ability to generate more natural, engaging, and tailored writing, thus enhancing relevance and readability.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/09/pexels-sanketgraphy-16587315-1.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/chatgpt-gpt-4o-model-improving-creative-writing-chops/
+  topic: GPT-4
+  publishedAt: '2024-11-21T00:11:25Z'
+  source: Digital Trends
+  sentiment: Positive
+  id: 11
+  image: news/11242024/images/11/article_image.png
+- title: 7 reasons Google Gemini is better than ChatGPT
+  preview: 'Gemini surpasses ChatGPT: Seven advantages.'
+  fullContent: Google Gemini presents distinct features that set it apart from OpenAI's ChatGPT.
+  img: https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/11/gemini-vs-chatgpt.jpg
+  sourcelink: https://www.androidpolice.com/google-gemini-better-chatgpt-reasons/
+  topic: GPT-4
+  publishedAt: '2024-11-20T22:38:53Z'
+  source: Android Police
+  sentiment: Positive
+  id: 12
+  image: news/11242024/images/12/article_image.png
 - title: 5 Apps to Run AI on Your Local Machine
-  preview: Unlock AI locally with apps.
-  fullContent: Desktop applications now enable AI models to run directly on your computer, offering enhanced control, improved privacy, and offline functionality. Among the top options available, these applications support varying AI models, including OpenAI's ChatGPT.
+  preview: 'Local AI power: 5 apps'
+  fullContent: Desktop apps now allow AI models to run directly on personal computers, offering advantages like enhanced privacy, offline access, and greater control. Five notable AI models include ChatGPT for conversational interactions, with others also providing diverse functionalities for users who prefer local execution rather than relying on cloud services.
   img: https://assets.hongkiat.com/uploads/top-ai-apps-for-local-use/hero.jpg
   sourcelink: https://www.hongkiat.com/blog/top-ai-apps-for-local-use/
   topic: Claude AI
   publishedAt: '2024-11-20T13:00:13Z'
   source: Hongkiat.com
   sentiment: Positive
-  id: 3
-  image: news/11242024/images/3/article_image.png
+  id: 13
+  image: news/11242024/images/13/article_image.png
+- title: 'Show HN: Single-file AI Auto-completion Editor'
+  preview: AI editor simplifies code writing.
+  fullContent: This text editor offers a straightforward, single-file setup and features real-time AI-powered auto-completion suggestions. It supports multiple AI models including those from Anthropic, OpenAI, and GROQ. The project is available on GitHub under the repository "sliday/AI-Auto-Completion-Ed".
+  img: https://opengraph.githubassets.com/86b9fa3ece81db7f683ce84677a203e20adf1500b0c8bbbdf8432639e5c18fc9/sliday/AI-Auto-Completion-Editor
+  sourcelink: https://github.com/sliday/AI-Auto-Completion-Editor
+  topic: GPT-4
+  publishedAt: '2024-11-19T23:43:06Z'
+  source: Github.com
+  sentiment: Positive
+  id: 14
+  image: news/11242024/images/14/article_image.png
 - title: OpenAI Will Reportedly Release AI Agent That Can Control Computers
-  preview: AI Agent Controls Computers Autonomously
-  fullContent: OpenAI is reportedly developing AI agents capable of controlling computers for users, a move seen as an effort to catch up with Anthropic in the competitive AI landscape.
+  preview: AI Agent Gains Computer Control
+  fullContent: OpenAI is developing AI agents capable of controlling computers for users, attempting to catch up with Anthropic, which has advanced in this area.
   img: https://www.webpronews.com/wp-content/uploads/2020/04/OpenAI-scaled.jpg
   sourcelink: https://www.webpronews.com/openai-will-reportedly-release-ai-agent-that-can-control-computers/
   topic: Claude AI
   publishedAt: '2024-11-17T14:00:00Z'
   source: WebProNews
   sentiment: Positive
-  id: 4
-  image: news/11242024/images/4/article_image.png
+  id: 15
+  image: news/11242024/images/15/article_image.png
 - title: AI開発企業AnthropicはAI「Claude」が兵器製造の支援を行わないよう専門家と協力して安全性を調査している
-  preview: Anthropic collaborates ensuring Claude's safety.
-  fullContent: Anthropic, an AI development startup, is collaborating with the U.S. Energy Department and the National Nuclear Security Administration (NNSA) to ensure that their AI, "Claude," does not aid in weapon manufacturing. This safety investigation highlights efforts to prevent the AI from sharing sensitive nuclear information.
+  preview: Anthropic ensures AI's nonviolent application.
+  fullContent: Anthropic, known for AI development, is collaborating with the Department of Energy's National Nuclear Security Administration (NNSA) to ensure its AI model, "Claude," does not support weapon manufacturing. They are conducting safety assessments to prevent the AI from sharing sensitive nuclear information.
   img: https://image.news.livedoor.com/newsimage/stf/f/1/f184d_88_c355541e1f17f5534ecc537bfdafc54d.png
   sourcelink: https://news.livedoor.com/article/detail/27564829/
   topic: Claude AI
   publishedAt: '2024-11-15T07:00:00Z'
   source: Livedoor.com
   sentiment: Positive
-  id: 5
-  image: news/11242024/images/5/article_image.png
+  id: 16
+  image: news/11242024/images/16/article_image.png
 - title: Exploring the Advanced Problem-Solving Skills of Claude 3.5
-  preview: '"Mastering complex challenges with intelligence."'
-  fullContent: Anthropic's Claude 3.5 is advancing artificial intelligence, displaying remarkable abilities in various cognitive and task-focused areas. Recent assessments highlight its strengths and potential benefits across applications, showcasing its capacity to tackle complex challenges efficiently. This progression indicates a promising direction for AI development, suggesting Claude 3.5 could become a pivotal tool in numerous fields, enhancing productivity and tackling intricate problems with effectiveness. Despite its achievements, continued research and evaluation are essential to understand its full potential and address any limitations. Overall, Claude 3.5's advancements signify a step forward in AI technology, promising significant contributions to future innovations.
+  preview: 'Claude 3.5: Mastering complex problem-solving.'
+  fullContent: Anthropic's Claude 3.5 is advancing AI, excelling in cognitive and task-oriented activities. Evaluations reveal its strengths and weaknesses, prompting further research for improvement.
   img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/Future-advancements-in-Claude-3.5-autonomy-and-memory.jpg
   sourcelink: https://www.geeky-gadgets.com/advanced-problem-solving-skills-of-claude-3-5/
   topic: Claude AI
   publishedAt: '2024-11-12T13:12:42Z'
   source: Geeky Gadgets
   sentiment: Positive
-  id: 6
-  image: news/11242024/images/6/article_image.png
+  id: 17
+  image: news/11242024/images/17/article_image.png
 - title: Claude AI’s Visual Interpretation is Transforming Document Analysis
-  preview: AI revolutionizes document analysis interpretation.
-  fullContent: AI Advantage offers updates on the rapidly advancing world of artificial intelligence, helping individuals keep pace with the latest developments.
+  preview: AI revolutionizing document analysis dynamics.
+  fullContent: AI Advantage provides the latest updates on artificial intelligence, helping individuals keep pace with rapid technological advancements.
   img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/AI-search-speed-versus-accuracy-comparison.jpg
   sourcelink: https://www.geeky-gadgets.com/claude-ai-visual-interpretation/
   topic: Claude AI
   publishedAt: '2024-11-11T09:55:17Z'
   source: Geeky Gadgets
   sentiment: Negative
-  id: 7
-  image: news/11242024/images/7/article_image.png
+  id: 18
+  image: news/11242024/images/18/article_image.png
 - title: Anthropic, Palantir, AWS Partner to Bring Claude AI Models for U.S. Govt Intelligence and Defense Operations
-  preview: Collaboration Enhances U.S. Intelligence Capabilities.
-  fullContent: Anthropic, Palantir, and AWS have partnered to integrate the AI model Claude into the Palantir AI Platform, supporting the US Government. This collaboration aims to enhance complex data processing and facilitate data-driven insights, leveraging Claude's capabilities.
+  preview: AI models enhance government intelligence operations
+  fullContent: Anthropic, Palantir, and AWS have partnered to integrate the AI model Claude within the Palantir AI Platform for the US Government. This collaboration aims to enhance the government's capabilities in complex data processing and deriving data-driven insights using AI technologies.
   img: https://www.medianama.com/wp-content/uploads/2024/11/AI-companies-US-Defence.jpg
   sourcelink: https://www.medianama.com/2024/11/223-anthropic-palantir-aws-partner-claude-use-us-defence-operations/
   topic: Claude AI
   publishedAt: '2024-11-11T06:53:50Z'
   source: MediaNama.com
   sentiment: Positive
-  id: 8
-  image: news/11242024/images/8/article_image.png
+  id: 19
+  image: news/11242024/images/19/article_image.png
 - title: Claude AI to process secret government data through new Palantir deal
-  preview: AI secures government data processes.
-  fullContent: Critics are concerned that Anthropic, known for its "ethical" AI stance, might be compromising its principles due to its associations with defense organizations.
+  preview: '"Claude processes government data securely."'
+  fullContent: Anthropic faces criticism for potentially compromising its ethical AI principles due to its associations with the defense sector.
   img: null
   sourcelink: https://slashdot.org/firehose.pl?op=view&amp;id=175436559
   topic: Claude AI
   publishedAt: '2024-11-08T23:12:18Z'
   source: Slashdot.org
   sentiment: Negative
-  id: 9
-  image: news/11242024/images/9/article_image.png
-- title: Claude AI To Process Secret Government Data Through New Palantir Deal
-  preview: Claude AI handles secret data.
-  fullContent: Anthropic is partnering with Palantir and Amazon Web Services to provide its Claude AI models to US intelligence and defense agencies. Claude, similar to other AI language models, will be integrated to enhance operations within these sectors. This collaboration signifies the increasing use of AI technologies in governmental operations and underscores ongoing advancements in AI applications for national security purposes. The exact nature and scope of the deployment haven't been specified, but it marks a significant step in bringing advanced AI models into public sector intelligence and defense frameworks.
-  img: https://a.fsdn.com/sd/topics/ai_64.png
-  sourcelink: https://tech.slashdot.org/story/24/11/08/2229258/claude-ai-to-process-secret-government-data-through-new-palantir-deal
-  topic: Claude AI
-  publishedAt: '2024-11-08T22:31:00Z'
-  source: Slashdot.org
-  sentiment: Positive
-  id: 10
-  image: news/11242024/images/10/article_image.png
-- title: Claude AI To Process Secret Government Data Through New Palantir Deal
-  preview: AI enhances secure government processing.
-  fullContent: Anthropic has partnered with Palantir and Amazon Web Services to provide its Claude AI models to US intelligence and defense agencies. Claude, akin to ChatGPT, will integrate with Palantir's platforms for government and defense, aiming to enhance analyti…
-  img: null
-  sourcelink: https://slashdot.org/submission/17329693/claude-ai-to-process-secret-government-data-through-new-palantir-deal
-  topic: Claude AI
-  publishedAt: '2024-11-08T22:28:37Z'
-  source: Slashdot.org
-  sentiment: Positive
-  id: 11
-  image: news/11242024/images/11/article_image.png
-- title: Judge tosses publishers' copyright suit against OpenAI
-  preview: Court dismisses publishers' lawsuit against OpenAI.
-  fullContent: A US judge dismissed a lawsuit against OpenAI, the developer of ChatGPT, which claimed that the company illegally removed copyright management information when compiling training sets for its chatbots. However, the judge permitted Raw Story and AltNet, the plaintiffs in the case, to amend their complaint.
-  img: https://regmedia.co.uk/2024/11/08/shutterstock_openai.jpg
-  sourcelink: https://www.theregister.com/2024/11/08/openai_copyright_suit_dismissed/
-  topic: Claude AI
-  publishedAt: '2024-11-08T22:28:12Z'
-  source: Theregister.com
-  sentiment: Negative
-  id: 12
-  image: news/11242024/images/12/article_image.png
-- title: AIモデルClaude開発のAnthropicが防衛産業向けにAIを販売すると発表
-  preview: Anthropic sells AI to defense.
-  fullContent: Anthropic, the company behind Claude AI, has partnered with Palantir and Amazon Web Services to provide access to Claude AI models for U.S. intelligence and defense operations.
-  img: https://image.news.livedoor.com/newsimage/stf/f/3/f3dfa_88_7f4cd64720c8f8f5a235a206700c271a.jpg
-  sourcelink: https://news.livedoor.com/article/detail/27517677/
-  topic: Claude AI
-  publishedAt: '2024-11-08T06:00:00Z'
-  source: Livedoor.com
-  sentiment: Positive
-  id: 13
-  image: news/11242024/images/13/article_image.png
-- title: Amazon is reportedly mulling another multibillion-dollar investment in Anthropic, but with an added twist
-  preview: Amazon considers unique Anthropic investment.
-  fullContent: Amazon plans to further invest in Anthropic PBC, a San Francisco-based generative AI startup and OpenAI rival. This comes after a $4 billion commitment to Anthropic in 2023, signaling a strategic partnership.
-  img: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/11/Screenshot-2024-11-08-083311.png
-  sourcelink: https://siliconangle.com/2024/11/07/amazon-reportedly-mulling-another-multibillion-dollar-investment-anthropic-added-twist/
-  topic: Claude AI
-  publishedAt: '2024-11-08T01:44:14Z'
-  source: SiliconANGLE News
-  sentiment: Positive
-  id: 14
-  image: news/11242024/images/14/article_image.png
-- title: (PR) Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations
-  preview: Revolutionizing Intelligence with Claude AI.
-  fullContent: Anthropic and Palantir Technologies, in collaboration with Amazon Web Services, have formed a partnership to offer U.S. intelligence and defense agencies access to the Claude 3 and 3.5 models on AWS. This initiative aims to enhance the technological capabilities of these agencies by integrating advanced models into their systems. The collaboration promises improved access to sophisticated AI tools tailored for defense and intelligence purposes, leveraging AWS's cloud infrastructure. Through this partnership, agencies can benefit from the expertise and innovation of leading tech companies to support national security and intelligence operations with cutting-edge AI technology.
-  img: https://www.techpowerup.com/img/3XGtNpvIuU8Y8BAM.jpg
-  sourcelink: https://www.techpowerup.com/328560/anthropic-and-palantir-partner-to-bring-claude-ai-models-to-aws-for-u-s-government-intelligence-and-defense-operations
-  topic: Claude AI
-  publishedAt: '2024-11-07T17:52:16Z'
-  source: Techpowerup.com
-  sentiment: Positive
-  id: 15
-  image: news/11242024/images/15/article_image.png
-- title: Anthropic partners with AWS and Palantir to provide AI models to defense agencies
-  preview: AI collaboration strengthens defense capabilities.
-  fullContent: Anthropic PBC is partnering with Palantir Technologies and Amazon Web Services to offer its Claude AI models to U.S. intelligence and defense agencies.
-  img: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/08/ai-generated-8942972_1280.jpg
-  sourcelink: https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/
-  topic: Claude AI
-  publishedAt: '2024-11-07T16:45:15Z'
-  source: SiliconANGLE News
-  sentiment: Positive
-  id: 16
-  image: news/11242024/images/16/article_image.png
-- title: Anthropic's Claude AI models now available for US defense agencies
-  preview: Claude AI empowers US defense.
-  fullContent: Anthropic has teamed up with Palantir to offer U.S. intelligence and defense agencies access to its AI models, Claude 3 and 3.5, via AWS.
-  img: https://cdn.neowin.com/news/images/uploaded/2024/03/1711599586_amazon-anthropic_story.jpg
-  sourcelink: https://www.neowin.net/news/anthropics-claude-ai-models-now-available-for-us-defense-agencies/
-  topic: Claude AI
-  publishedAt: '2024-11-07T14:28:01Z'
-  source: Neowin
-  sentiment: Positive
-  id: 17
-  image: news/11242024/images/17/article_image.png
-- title: Anthropic’s Claude 3.5 Haiku Gets 4X Price Increase Because It’s Smarter
-  preview: Claude 3.5 Haiku's Smarter Pricing
-  fullContent: Anthropic has announced a significant price increase for its Claude 3.5 Haiku model, attributing the hike to the model's enhanced intelligence.
-  img: https://i0.wp.com/www.webpronews.com/wp-content/uploads/2023/12/Anthropic.jpg?fit=1700%2C956&ssl=1
-  sourcelink: https://www.webpronews.com/anthropics-new-claude-3-5-haiku-gets-a-4x-price-increase-because-its-smarter/
-  topic: Claude AI
-  publishedAt: '2024-11-07T12:05:00Z'
-  source: WebProNews
-  sentiment: Positive
-  id: 18
-  image: news/11242024/images/18/article_image.png
-- title: Anthropic unveils Claude AI desktop app with Windows on Arm support as concerned users pressure on Microsoft over a 'botched' Copilot update
-  preview: Anthropic launches Claude AI app.
-  fullContent: 'Anthropic released desktop apps for its AI assistant, Claude, compatible with Windows and macOS. For Windows, there are two versions available: x64 and arm64.'
-  img: https://cdn.mos.cms.futurecdn.net/SEKeBk77VoRX5EgGrrnfxa-1200-80.jpg
-  sourcelink: https://www.windowscentral.com/software-apps/anthropic-unveils-claude-ai-desktop-app-with-windows-on-arm-support-as-concerned-users-pressure-on-microsoft-over-a-botched-copilot-update
-  topic: Claude AI
-  publishedAt: '2024-11-04T20:12:00Z'
-  source: Windows Central
-  sentiment: Positive
-  id: 19
-  image: news/11242024/images/19/article_image.png
-- title: Anthropic Releases Claude Desktop App for Mac and Windows in Beta
-  preview: Claude app debuts cross-platform beta.
-  fullContent: Anthropic has released Claude desktop apps for Mac and Windows, following OpenAI and Perplexity's macOS app launches. Currently in beta, these apps are available for all users to download and install.
-  img: https://i.gadgets360cdn.com/large/claude_desktop_apps_1730446768525.jpg
-  sourcelink: https://www.gadgets360.com/ai/news/anthropic-claude-desktop-app-for-mac-windows-beta-ai-released-6920265
-  topic: Claude AI
-  publishedAt: '2024-11-01T08:03:58Z'
-  source: Gadgets360.com
-  sentiment: Positive
   id: 20
   image: news/11242024/images/20/article_image.png
