@@ -1,48 +1,4 @@
 news:
-- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
-  preview: Amazon backs Anthropic with billions.
-  fullContent: Amazon has invested an additional $4 billion in Anthropic, creator of Claude AI, raising its total funding to $8 billion. This follows previous investments of $1.25 billion in September and $2.75 billion in March.
-  img: https://biztoc.com/cdn/0e4ba5786fde1126_s.webp
-  sourcelink: https://biztoc.com/x/0e4ba5786fde1126
-  topic: Claude AI
-  publishedAt: '2024-11-23T18:28:31Z'
-  source: Biztoc.com
-  sentiment: Positive
-  id: 11
-  image: news/11262024/images/1/article_image.png
-- title: Amazon is investing another $4 billion in AI startup Anthropic
-  preview: Enhancing AI capabilities through collaboration.
-  fullContent: Amazon is doubling its investment in Anthropic, an artificial intelligence startup, with a second $4 billion injection.
-  img: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9d1320fd026cb0643dfd6e020b654.jpg
-  sourcelink: https://qz.com/amazon-invest-4-billion-ai-startup-anthropic-model-chip-1851705944
-  topic: GPT-4
-  publishedAt: '2024-11-22T15:33:00Z'
-  source: Quartz India
-  sentiment: Positive
-  id: 12
-  image: news/11262024/images/2/article_image.png
-- title: Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn't have a seat on Anthropic's board
-  preview: Amazon invests heavily in Anthropic.
-  fullContent: Amazon announced an additional $4 billion investment in Anthropic, an AI startup founded by former OpenAI executives, totaling Amazon's investment to $8 billion.
-  img: https://biztoc.com/cdn/ab4eaa542b15e59e_s.webp
-  sourcelink: https://biztoc.com/x/ab4eaa542b15e59e
-  topic: OpenAI research
-  publishedAt: '2024-11-22T15:10:45Z'
-  source: Biztoc.com
-  sentiment: Positive
-  id: 13
-  image: news/11262024/images/3/article_image.png
-- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
-  preview: Amazon boosts Anthropic AI investment.
-  fullContent: Amazon has invested a total of $8 billion in Anthropic, with the new Alexa version reportedly powered by Anthropic's AI model, Claude.
-  img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
-  sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
-  topic: Claude AI
-  publishedAt: '2024-11-22T15:08:33Z'
-  source: The Verge
-  sentiment: Positive
-  id: 14
-  image: news/11262024/images/4/article_image.png
 - title: 'Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment'
   preview: 'Enhancing Reviews: AI-Powered Bias Assessment'
   fullContent: Large language models, such as GPT-4, have the potential to facilitate and expedite systematic reviews, but the method of integrating these models into the review process remains unclear. This study focuses on evaluating GPT-4's agreement with human reviewers in assessing the risk of bias using the Risk Of Bias tool.
@@ -186,6 +142,50 @@ news:
   sentiment: Positive
   id: 17
   image: news/11262024/images/17/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon backs Anthropic with billions.
+  fullContent: Amazon has invested an additional $4 billion in Anthropic, creator of Claude AI, raising its total funding to $8 billion. This follows previous investments of $1.25 billion in September and $2.75 billion in March.
+  img: https://biztoc.com/cdn/0e4ba5786fde1126_s.webp
+  sourcelink: https://biztoc.com/x/0e4ba5786fde1126
+  topic: Claude AI
+  publishedAt: '2024-11-23T18:28:31Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 11
+  image: news/11262024/images/1/article_image.png
+- title: Amazon is investing another $4 billion in AI startup Anthropic
+  preview: Enhancing AI capabilities through collaboration.
+  fullContent: Amazon is doubling its investment in Anthropic, an artificial intelligence startup, with a second $4 billion injection.
+  img: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9d1320fd026cb0643dfd6e020b654.jpg
+  sourcelink: https://qz.com/amazon-invest-4-billion-ai-startup-anthropic-model-chip-1851705944
+  topic: GPT-4
+  publishedAt: '2024-11-22T15:33:00Z'
+  source: Quartz India
+  sentiment: Positive
+  id: 12
+  image: news/11262024/images/2/article_image.png
+- title: Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn't have a seat on Anthropic's board
+  preview: Amazon invests heavily in Anthropic.
+  fullContent: Amazon announced an additional $4 billion investment in Anthropic, an AI startup founded by former OpenAI executives, totaling Amazon's investment to $8 billion.
+  img: https://biztoc.com/cdn/ab4eaa542b15e59e_s.webp
+  sourcelink: https://biztoc.com/x/ab4eaa542b15e59e
+  topic: OpenAI research
+  publishedAt: '2024-11-22T15:10:45Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 13
+  image: news/11262024/images/3/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon boosts Anthropic AI investment.
+  fullContent: Amazon has invested a total of $8 billion in Anthropic, with the new Alexa version reportedly powered by Anthropic's AI model, Claude.
+  img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
+  sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
+  topic: Claude AI
+  publishedAt: '2024-11-22T15:08:33Z'
+  source: The Verge
+  sentiment: Positive
+  id: 14
+  image: news/11262024/images/4/article_image.png
 - title: Claude AI’s Visual Interpretation is Transforming Document Analysis
   preview: Document Analysis Revolutionized by AI
   fullContent: AI Advantage helps individuals stay informed about the rapid advancements in artificial intelligence by providing the latest updates. As technology evolves quickly, staying current can be challenging, akin to catching a moving train. AI Advantage simplifies this by delivering timely and essential information on AI developments, ensuring individuals are well-informed despite the fast-paced nature of technological progress.
