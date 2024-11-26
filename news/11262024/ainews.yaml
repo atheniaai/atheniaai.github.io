@@ -1,0 +1,221 @@
+news:
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon fuels Anthropic's AI ambitions.
+  fullContent: Amazon is investing an additional $4 billion into AI company Anthropic, increasing its total funding in the company to $8 billion. This latest funding round follows previous investments of $1.25 billion in September and $2.75 billion in March.
+  img: https://biztoc.com/cdn/0e4ba5786fde1126_s.webp
+  sourcelink: https://biztoc.com/x/0e4ba5786fde1126
+  topic: Claude AI
+  publishedAt: '2024-11-23T18:28:31Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 1
+  image: news/11262024/images/1/article_image.png
+- title: Amazon is investing another $4 billion in AI startup Anthropic
+  preview: Amazon invests $4B in AI.
+  fullContent: Amazon is increasing its investment in the artificial intelligence startup Anthropic by an additional $4 billion, following a similar investment earlier, amounting to a total of $8 billion.
+  img: https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cfa9d1320fd026cb0643dfd6e020b654.jpg
+  sourcelink: https://qz.com/amazon-invest-4-billion-ai-startup-anthropic-model-chip-1851705944
+  topic: GPT-4
+  publishedAt: '2024-11-22T15:33:00Z'
+  source: Quartz India
+  sentiment: Positive
+  id: 2
+  image: news/11262024/images/2/article_image.png
+- title: Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn't have a seat on Anthropic's board
+  preview: Amazon invests massively, lacks influence.
+  fullContent: Amazon has announced an additional $4 billion investment in Anthropic, an AI startup founded by former OpenAI executives. This increases Amazon's total investment in the company to $8 billion.
+  img: https://biztoc.com/cdn/ab4eaa542b15e59e_s.webp
+  sourcelink: https://biztoc.com/x/ab4eaa542b15e59e
+  topic: OpenAI research
+  publishedAt: '2024-11-22T15:10:45Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 3
+  image: news/11262024/images/3/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon boosts Anthropic with investment.
+  fullContent: Amazon has invested $8 billion in Anthropic, and the new version of Alexa is powered by Claude, Anthropic's AI model.
+  img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
+  sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
+  topic: Claude AI
+  publishedAt: '2024-11-22T15:08:33Z'
+  source: The Verge
+  sentiment: Positive
+  id: 4
+  image: news/11262024/images/4/article_image.png
+- title: 'Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment'
+  preview: Optimizing reviews with advanced models.
+  fullContent: This study evaluates how large language models, specifically GPT-4, may assist in systematic reviews by assessing the risk of bias using the Risk Of Bias tool. Although LLMs potentially speed up the review process, the method for effectively integrating them remains uncertain.
+  img: https://ebm.bmj.com/sites/default/files/highwire/ebmed/29/6.cover-source.jpg
+  sourcelink: https://ebm.bmj.com/content/29/6/394
+  topic: GPT-4
+  publishedAt: '2024-11-22T11:43:22Z'
+  source: The BMJ
+  sentiment: Negative
+  id: 5
+  image: news/11262024/images/5/article_image.png
+- title: 'Black Friday Early: Save 87% on lifetime access to ChatGPT, Gemini, Midjourney & More'
+  preview: 'Massive savings: chat tools lifetime.'
+  fullContent: For $29.97, gain lifetime access to top AI tools like ChatGPT, Gemini, and Midjourney through 1minAI, usually priced at $234. This early Black Friday offer centralizes access to AI platforms for enhanced convenience.
+  img: https://www.pcworld.com/wp-content/uploads/2024/11/1minAI-1-1-2.jpg?quality=50&strip=all&w=1024
+  sourcelink: https://www.pcworld.com/article/2525875/black-friday-early-save-87-on-lifetime-access-to-chatgpt-gemini-midjourney-more.html
+  topic: GPT-4
+  publishedAt: '2024-11-22T08:00:00Z'
+  source: PCWorld
+  sentiment: Positive
+  id: 6
+  image: news/11262024/images/6/article_image.png
+- title: 'PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries'
+  preview: Impersonators exploit libraries, distributing malware.
+  fullContent: Researchers found two malicious packages on the Python Package Index (PyPI) mimicking popular AI models, OpenAI ChatGPT and Anthropic Claude, to distribute an information-stealing malware.
+  img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/s728-rw-e365/code.png
+  sourcelink: https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html
+  topic: GPT-4
+  publishedAt: '2024-11-22T06:15:00Z'
+  source: Internet
+  sentiment: Positive
+  id: 7
+  image: news/11262024/images/7/article_image.png
+- title: ChatGPT’s latest model may be a regression in performance
+  preview: Potential regression in ChatGPT model.
+  fullContent: OpenAI's new model, GPT-4o, may be showing signs of regression, performing similarly to its smaller version, GPT-40-mini.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/08/pexels-theshantanukr-16474955.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/analysis-suggests-openai-flagship-model-only-performs-like-the-mini-version/
+  topic: GPT-4
+  publishedAt: '2024-11-21T23:24:19Z'
+  source: Digital Trends
+  sentiment: Positive
+  id: 8
+  image: news/11262024/images/8/article_image.png
+- title: 'Show HN: Llama 3.2 Interpretability with Sparse Autoencoders'
+  preview: 'Deep insights: Sparse Autoencoders explained.'
+  fullContent: I invested significant time and finances in a side project focused on replicating mechanistic interpretability research on proprietary large language models (LLMs). This field gained popularity this year, garnering attention due to significant research papers by organizations like Anthropic and OpenAI.
+  img: https://opengraph.githubassets.com/dbad2672b8d8adf4c65237b2c6c85053e0e6fcaa886fc12044daabda8d85e42f/PaulPauls/llama3_interpretability_sae
+  sourcelink: https://github.com/PaulPauls/llama3_interpretability_sae
+  topic: GPT-4
+  publishedAt: '2024-11-21T20:37:56Z'
+  source: Github.com
+  sentiment: Positive
+  id: 9
+  image: news/11262024/images/9/article_image.png
+- title: How OpenAI stress-tests its large language models
+  preview: OpenAI rigorously evaluates language models.
+  fullContent: OpenAI is revealing details about its safety-testing measures, such as investigating how frequently ChatGPT generates harmful gender or racial stereotypes linked to user names. The company aims to be more transparent by sharing outcomes of these evaluations.
+  img: https://wp.technologyreview.com/wp-content/uploads/2024/11/openAItest.jpg?resize=1200,600
+  sourcelink: https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/
+  topic: GPT-4
+  publishedAt: '2024-11-21T18:00:10Z'
+  source: MIT Technology Review
+  sentiment: Neutral
+  id: 10
+  image: news/11262024/images/10/article_image.png
+- title: Grab taps GPT-4o to improve mapping service
+  preview: Enhanced mapping via artificial intelligence.
+  fullContent: Grab is utilizing OpenAI's GPT-4o model to create hyperlocal, dynamic maps. This initiative aims to enhance map accuracy while reducing associated costs.
+  img: https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Ascannio-adobe.jpg
+  sourcelink: https://www.computerweekly.com/news/366616252/Grab-taps-GPT-4o-to-improve-mapping-service
+  topic: GPT-4
+  publishedAt: '2024-11-21T04:45:00Z'
+  source: ComputerWeekly.com
+  sentiment: Positive
+  id: 11
+  image: news/11262024/images/11/article_image.png
+- title: ChatGPT just improved its creative writing chops
+  preview: ChatGPT enhances creative writing capabilities.
+  fullContent: OpenAI's GPT-4o model received updates aimed at enhancing the naturalness, engagement, and customization of its writing. These improvements focus on increasing the relevance and readability of the text produced, showcasing advancements in the model's capabilities.
+  img: https://www.digitaltrends.com/wp-content/uploads/2024/09/pexels-sanketgraphy-16587315-1.jpg?resize=1200%2C630&p=1
+  sourcelink: https://www.digitaltrends.com/computing/chatgpt-gpt-4o-model-improving-creative-writing-chops/
+  topic: GPT-4
+  publishedAt: '2024-11-21T00:11:25Z'
+  source: Digital Trends
+  sentiment: Positive
+  id: 12
+  image: news/11262024/images/12/article_image.png
+- title: 7 reasons Google Gemini is better than ChatGPT
+  preview: Google Gemini surpasses ChatGPT capabilities.
+  fullContent: Google Gemini boasts unique features distinguishing it from OpenAI's ChatGPT.
+  img: https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/11/gemini-vs-chatgpt.jpg
+  sourcelink: https://www.androidpolice.com/google-gemini-better-chatgpt-reasons/
+  topic: GPT-4
+  publishedAt: '2024-11-20T22:38:53Z'
+  source: Android Police
+  sentiment: Positive
+  id: 13
+  image: news/11262024/images/13/article_image.png
+- title: 5 Apps to Run AI on Your Local Machine
+  preview: Empower AI locally with apps.
+  fullContent: Desktop apps now allow users to run AI models directly on their computers, providing enhanced control, privacy, and offline access. Among the top options available, ChatGPT stands out for its easy access to OpenAI's technology.
+  img: https://assets.hongkiat.com/uploads/top-ai-apps-for-local-use/hero.jpg
+  sourcelink: https://www.hongkiat.com/blog/top-ai-apps-for-local-use/
+  topic: Claude AI
+  publishedAt: '2024-11-20T13:00:13Z'
+  source: Hongkiat.com
+  sentiment: Positive
+  id: 14
+  image: news/11262024/images/14/article_image.png
+- title: OpenAI Will Reportedly Release AI Agent That Can Control Computers
+  preview: AI controls computers autonomously, efficiently.
+  fullContent: OpenAI is reportedly working to release AI agents capable of controlling computers for users, indicating an effort to catch up to Anthropic in this technology area.
+  img: https://www.webpronews.com/wp-content/uploads/2020/04/OpenAI-scaled.jpg
+  sourcelink: https://www.webpronews.com/openai-will-reportedly-release-ai-agent-that-can-control-computers/
+  topic: Claude AI
+  publishedAt: '2024-11-17T14:00:00Z'
+  source: WebProNews
+  sentiment: Positive
+  id: 15
+  image: news/11262024/images/15/article_image.png
+- title: AI開発企業AnthropicはAI「Claude」が兵器製造の支援を行わないよう専門家と協力して安全性を調査している
+  preview: Anthropic ensures AI's safe usage.
+  fullContent: Anthropic, an AI development startup, is collaborating with the U.S. Department of Energy's National Nuclear Security Administration (NNSA) to ensure their AI, "Claude," does not aid in weapon manufacturing. This safety investigation aims to prevent the AI from sharing sensitive nuclear information.
+  img: https://image.news.livedoor.com/newsimage/stf/f/1/f184d_88_c355541e1f17f5534ecc537bfdafc54d.png
+  sourcelink: https://news.livedoor.com/article/detail/27564829/
+  topic: Claude AI
+  publishedAt: '2024-11-15T07:00:00Z'
+  source: Livedoor.com
+  sentiment: Positive
+  id: 16
+  image: news/11262024/images/16/article_image.png
+- title: Exploring the Advanced Problem-Solving Skills of Claude 3.5
+  preview: '"Claude 3.5''s innovative problem-solving"'
+  fullContent: Anthropic’s Claude 3.5 is excelling in the AI field with its strong cognitive and task-oriented abilities. Recent assessments highlight its performance strengths and areas for growth, underlining its potential for further development and improvement.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/Future-advancements-in-Claude-3.5-autonomy-and-memory.jpg
+  sourcelink: https://www.geeky-gadgets.com/advanced-problem-solving-skills-of-claude-3-5/
+  topic: Claude AI
+  publishedAt: '2024-11-12T13:12:42Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 17
+  image: news/11262024/images/17/article_image.png
+- title: Claude AI’s Visual Interpretation is Transforming Document Analysis
+  preview: Revolutionizing Document Analysis Through Visuals
+  fullContent: As technology rapidly evolves, staying informed about the latest advancements in artificial intelligence can be challenging. AI Advantage helps by providing recent AI updates, ensuring you remain knowledgeable and up-to-date.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/AI-search-speed-versus-accuracy-comparison.jpg
+  sourcelink: https://www.geeky-gadgets.com/claude-ai-visual-interpretation/
+  topic: Claude AI
+  publishedAt: '2024-11-11T09:55:17Z'
+  source: Geeky Gadgets
+  sentiment: Negative
+  id: 18
+  image: news/11262024/images/18/article_image.png
+- title: A Huge Amount of Doctors Are Already Using AI in Medical Care
+  preview: '"AI revolutionizes doctors'' medical practices."'
+  fullContent: One in five UK doctors utilize generative AI tools like ChatGPT or Google's Gemini to aid in clinical practice.
+  img: https://www.sciencealert.com/images/2024/11/DoctorLooksAtScanOnPC.jpg
+  sourcelink: https://www.sciencealert.com/a-huge-amount-of-doctors-are-already-using-ai-in-medical-care
+  topic: deep learning neural
+  publishedAt: '2024-11-05T05:53:44Z'
+  source: ScienceAlert
+  sentiment: Positive
+  id: 19
+  image: news/11262024/images/19/article_image.png
+- title: Doctors are already using AI in care – but we don’t actually know what safe use should look like
+  preview: AI use in healthcare lacks clarity.
+  fullContent: A survey revealed that out of 1,000 UK doctors, 20% have utilized ChatGPT or Gemini in their clinical practice.
+  img: https://images.theconversation.com/files/629728/original/file-20241104-17-fgd8i4.jpg?ixlib=rb-4.1.0&rect=0%2C534%2C5951%2C2975&q=45&auto=format&w=1356&h=668&fit=crop
+  sourcelink: https://theconversation.com/doctors-are-already-using-ai-in-care-but-we-dont-actually-know-what-safe-use-should-look-like-241175
+  topic: deep learning neural
+  publishedAt: '2024-11-04T17:22:43Z'
+  source: The Conversation Africa
+  sentiment: Positive
+  id: 20
+  image: news/11262024/images/20/article_image.png
