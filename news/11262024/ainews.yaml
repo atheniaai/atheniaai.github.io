@@ -8,7 +8,7 @@ news:
   publishedAt: '2024-11-23T18:28:31Z'
   source: Biztoc.com
   sentiment: Positive
-  id: 1
+  id: 11
   image: news/11262024/images/1/article_image.png
 - title: Amazon is investing another $4 billion in AI startup Anthropic
   preview: Enhancing AI capabilities through collaboration.
@@ -19,7 +19,7 @@ news:
   publishedAt: '2024-11-22T15:33:00Z'
   source: Quartz India
   sentiment: Positive
-  id: 2
+  id: 12
   image: news/11262024/images/2/article_image.png
 - title: Amazon will remain a minority investor in Anthropic even as new funding brings its total investment to $8B; Amazon doesn't have a seat on Anthropic's board
   preview: Amazon invests heavily in Anthropic.
@@ -30,7 +30,7 @@ news:
   publishedAt: '2024-11-22T15:10:45Z'
   source: Biztoc.com
   sentiment: Positive
-  id: 3
+  id: 13
   image: news/11262024/images/3/article_image.png
 - title: Amazon to invest another $4 billion in OpenAI rival Anthropic
   preview: Amazon boosts Anthropic AI investment.
@@ -41,7 +41,7 @@ news:
   publishedAt: '2024-11-22T15:08:33Z'
   source: The Verge
   sentiment: Positive
-  id: 4
+  id: 14
   image: news/11262024/images/4/article_image.png
 - title: 'Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment'
   preview: 'Enhancing Reviews: AI-Powered Bias Assessment'
@@ -118,7 +118,7 @@ news:
   publishedAt: '2024-11-21T04:45:00Z'
   source: ComputerWeekly.com
   sentiment: Positive
-  id: 11
+  id: 1
   image: news/11262024/images/11/article_image.png
 - title: ChatGPT just improved its creative writing chops
   preview: ChatGPT excels in creative writing.
@@ -129,7 +129,7 @@ news:
   publishedAt: '2024-11-21T00:11:25Z'
   source: Digital Trends
   sentiment: Positive
-  id: 12
+  id: 2
   image: news/11262024/images/12/article_image.png
 - title: 7 reasons Google Gemini is better than ChatGPT
   preview: 'Gemini outranks ChatGPT: Seven reasons'
@@ -140,7 +140,7 @@ news:
   publishedAt: '2024-11-20T22:38:53Z'
   source: Android Police
   sentiment: Positive
-  id: 13
+  id: 3
   image: news/11262024/images/13/article_image.png
 - title: 5 Apps to Run AI on Your Local Machine
   preview: 'Local AI: Empowering Personal Computing'
@@ -151,7 +151,7 @@ news:
   publishedAt: '2024-11-20T13:00:13Z'
   source: Hongkiat.com
   sentiment: Positive
-  id: 14
+  id: 4
   image: news/11262024/images/14/article_image.png
 - title: OpenAI Will Reportedly Release AI Agent That Can Control Computers
   preview: AI Agent Gains Computer Control
