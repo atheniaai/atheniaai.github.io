@@ -224,6 +224,8 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
     
     # PRODUCTION MODE: Uncomment below for all topics
     topics = [
+        'GPT-4',
+        'Claude AI',
         'artificial intelligence',
         'neural network development',
         'machine learning technology',
