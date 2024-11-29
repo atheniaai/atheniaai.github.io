@@ -133,7 +133,7 @@ class NewsProcessor:
         """Generate 5-word preview using GPT-4"""
         try:
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "Generate a compelling 5-word summary of the given title."},
                     {"role": "user", "content": f"Title: {title}"}
@@ -149,7 +149,7 @@ class NewsProcessor:
         """Summarize content to 100 words using GPT-4"""
         try:
             response = self.client.chat.completions.create(
-                model="gpt-4o",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "Summarize the following text in exactly 100 words or less."},
                     {"role": "user", "content": content}
@@ -171,7 +171,7 @@ class NewsProcessor:
             # Try DALL-E 3 first, fall back to DALL-E 2 if needed
             try:
                 response = self.client.images.generate(
-                    model="dall-e-3",
+                    model="dall-e-2",
                     prompt=f"o: {prompt}. Style: Modern, clean,",
                     n=1,
                     size="1024x1024"
