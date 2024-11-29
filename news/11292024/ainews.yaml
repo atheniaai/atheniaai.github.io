@@ -9,7 +9,7 @@ news:
   source: Gadgets360.com
   sentiment: Positive
   id: 1
-  image: ''
+  image: 'news/11292024/images/1/article_image.png'
 - title: Open call for papers – Frontiers in materials discovery
   preview: Showcase innovations in materials research.
   fullContent: Materials Horizons, Journal of Materials Chemistry A, B, and C, along with Materials Advances, invite submissions on innovations and challenges in machine learning and artificial intelligence within the realm of materials discovery. The deadline for submissions is March 28, 2025.
@@ -86,7 +86,7 @@ news:
   source: Geeky Gadgets
   sentiment: Positive
   id: 8
-  image: ''
+  image: 'news/11292024/images/8/article_image.png'
 - title: Anthropic Says Claude AI Can Match Your Unique Writing Style
   preview: Claude AI Tailors Writing to You
   fullContent: Anthropic is introducing a feature for its Claude AI assistant that enhances user control over response styles for various writing tasks. This new custom styles functionality will be accessible to all Claude AI users, allowing them to train the assistant to better align with their specific preferences and needs.
