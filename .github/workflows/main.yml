@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  # This enables manual triggering
   schedule:
     # Runs at 19:00 GMT (7 PM GMT) every day
-    - cron: '0 01 * * *'
+    - cron: '1 0 * * *'
 
 jobs:
   fetch-news:
