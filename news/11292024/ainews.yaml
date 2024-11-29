@@ -1,0 +1,221 @@
+news:
+- title: Elon Musk’s xAI Reportedly Planning to Launch a ChatGPT-Like Standalone App Soon
+  preview: Musk's xAI launching ChatGPT competitor.
+  fullContent: Elon Musk's xAI is set to launch a standalone app possibly as soon as next month. Although a late entrant in the AI field, xAI has rapidly advanced to bridge the gap with competitors. This forthcoming app indicates the company's commitment to making a significant impact in the artificial intelligence industry.
+  img: https://i.gadgets360cdn.com/large/grok_logo1_1732778115777.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/elon-musk-xai-standalone-app-launch-plan-chatgpt-december-2024-report-7124163
+  topic: artificial intelligence
+  publishedAt: '2024-11-28T09:22:39Z'
+  source: Gadgets360.com
+  sentiment: Positive
+  id: 1
+  image: news/11292024/images/1/article_image.png
+- title: Open call for papers – Frontiers in materials discovery
+  preview: '"Submit innovations: Materials discovery breakthroughs."'
+  fullContent: Materials Horizons, along with the Journal of Materials Chemistry A, B, C, and Materials Advances, is calling for submissions on innovations and challenges in materials discovery through machine learning and artificial intelligence. Researchers are invited to submit their work by 28 March 2025. The initiative seeks pioneering work that explores new avenues in understanding and developing materials using AI and ML techniques, addressing both the possibilities and the hurdles faced in this rapidly evolving field. This collective effort aims to spur collaboration and advance knowledge in utilizing AI for materials science complexities.
+  img: null
+  sourcelink: https://blogs.rsc.org/jm/2024/11/28/open-call-for-papers-frontiers-in-materials-discovery/
+  topic: artificial intelligence
+  publishedAt: '2024-11-28T09:10:17Z'
+  source: Royal Society of Chemistry
+  sentiment: Positive
+  id: 2
+  image: news/11292024/images/2/article_image.png
+- title: ByteDance seeks $1.1 mln damages from intern in AI breach case, report says
+  preview: ByteDance demands compensation over intern.
+  fullContent: China's ByteDance is suing a former intern for $1.1 million, accusing him of intentionally attacking its AI large language model training infrastructure. This case has gained significant attention in China as it occurs during an intense AI development competition.
+  img: https://biztoc.com/cdn/5bbbd95bc398aad3_s.webp
+  sourcelink: https://biztoc.com/x/5bbbd95bc398aad3
+  topic: artificial intelligence
+  publishedAt: '2024-11-28T08:42:08Z'
+  source: Biztoc.com
+  sentiment: Negative
+  id: 3
+  image: news/11292024/images/3/article_image.png
+- title: ByteDance seeks $1.1 million damages from intern in AI breach case, report says
+  preview: Intern faces $1.1M AI breach.
+  fullContent: China's ByteDance is suing a former intern for allegedly attacking its AI training infrastructure and seeks $1.1 million in damages. This case has garnered significant attention in China, where AI development is highly competitive.
+  img: https://biztoc.com/cdn/c6bb7bea3415a20e_s.webp
+  sourcelink: https://biztoc.com/x/c6bb7bea3415a20e
+  topic: artificial intelligence
+  publishedAt: '2024-11-28T08:41:53Z'
+  source: Biztoc.com
+  sentiment: Negative
+  id: 4
+  image: news/11292024/images/4/article_image.png
+- title: Claude AI’s Update Adds Custom Writing Styles for Content Creators
+  preview: Customizable writing styles enhance creativity.
+  fullContent: Anthropic's update to Claude AI introduces features for content creation, including preset and customizable writing styles. It addresses diverse needs such as SEO optimization, enhancing flexibility and efficiency for users.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/custom-writing-styles-claude-ai.jpg
+  sourcelink: https://www.geeky-gadgets.com/claude-ais-update-adds-custom-writing-styles-for-content-creators/
+  topic: Claude AI
+  publishedAt: '2024-11-28T08:15:26Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 5
+  image: news/11292024/images/5/article_image.png
+- title: Microsoft Denies Training AI Models on User Data From Microsoft 365 Apps
+  preview: Microsoft refutes AI data claims.
+  fullContent: Microsoft denied using customer data to train AI models following social media claims that suggested otherwise. These claims were based on Microsoft's requirement for users to opt-out of its "connected experiences" feature.
+  img: https://i.gadgets360cdn.com/large/microsoft_logo_1713881517674.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/microsoft-deny-training-ai-model-user-data-365-applications-word-excel-7124509
+  topic: artificial intelligence
+  publishedAt: '2024-11-28T08:08:37Z'
+  source: Gadgets360.com
+  sentiment: Negative
+  id: 6
+  image: news/11292024/images/6/article_image.png
+- title: You can now ask Claude to mimic your writing style
+  preview: Claude mimics your writing style.
+  fullContent: Anthropic has introduced Claude writing style options, providing users with customizable writing styles when using Claude, their AI assistant.
+  img: https://cdn.mos.cms.futurecdn.net/gWxerMqF4PpkyAgxesBXNA-1200-80.png
+  sourcelink: https://www.techradar.com/computing/artificial-intelligence/you-can-now-ask-claude-to-mimic-your-writing-style
+  topic: Claude AI
+  publishedAt: '2024-11-27T19:30:00Z'
+  source: TechRadar
+  sentiment: Neutral
+  id: 7
+  image: news/11292024/images/7/article_image.png
+- title: Anthropic updates Claude to add custom writing styles tailored to users, aiming to personalize its replies, following similar ChatGPT and Gemini features
+  preview: Claude introduces personalized writing styles.
+  fullContent: Anthropic is introducing a feature in its Claude AI assistant allowing users to customize the chatbot's response styles for various writing tasks. This enhancement gives users more control, enabling them to train Claude AI to align with their personal preferences.
+  img: https://biztoc.com/cdn/774bcb46208dd902_s.webp
+  sourcelink: https://biztoc.com/x/774bcb46208dd902
+  topic: Claude AI
+  publishedAt: '2024-11-27T11:34:21Z'
+  source: Biztoc.com
+  sentiment: Neutral
+  id: 8
+  image: news/11292024/images/8/article_image.png
+- title: 'The Global AI Race: Is the U.S. Losing Its Edge to China?'
+  preview: U.S. struggles against China's advancements.
+  fullContent: China's progress in artificial intelligence is transforming the global tech scene, altering the balance of technological power. Former Google CEO Eric Schmidt pointed to notable AI models Deep Seek R1 and Baize Chatbot as examples of this advancement. These developments reflect China's growing capabilities and influence in AI, challenging Western dominance in the field. Such breakthroughs could have significant geopolitical implications, as AI becomes increasingly crucial across various domains like economy, security, and governance. China's rise in AI could redefine norms and standards, prompting the need for collaboration and regulations to ensure equitable advancements globally.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/us-vs-china-ai-race.jpg
+  sourcelink: https://www.geeky-gadgets.com/global-ai-race/
+  topic: GPT-4
+  publishedAt: '2024-11-27T10:54:38Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 9
+  image: news/11292024/images/9/article_image.png
+- title: Anthropic Says Claude AI Can Match Your Unique Writing Style
+  preview: AI Mimics Your Writing Style
+  fullContent: Anthropic is introducing custom styles to its Claude AI assistant, allowing users to influence its response styles for various writing tasks. This feature is available to all Claude AI users, offering greater control and personalization over interactions with the chatbot.
+  img: https://a.fsdn.com/sd/topics/ai_64.png
+  sourcelink: https://slashdot.org/story/24/11/26/194212/anthropic-says-claude-ai-can-match-your-unique-writing-style
+  topic: Claude AI
+  publishedAt: '2024-11-26T19:45:00Z'
+  source: Slashdot.org
+  sentiment: Neutral
+  id: 10
+  image: news/11292024/images/10/article_image.png
+- title: Beginning ChatGPT for Python
+  preview: 'Python guide: Mastering ChatGPT interactions.'
+  fullContent: '"Beginning ChatGPT for Python" is a forthcoming book, set to be published by WOW! eBook on December 7, 2024. It consists of 206 pages and is available in English. The book focuses on creating intelligent applications using OpenAI APIs. The ISBN numbers are 8868809286 and 978-8868809286.'
+  img: null
+  sourcelink: https://www.wowebook.org/beginning-chatgpt-for-python/
+  topic: GPT-4
+  publishedAt: '2024-11-26T07:16:50Z'
+  source: Wowebook.org
+  sentiment: Positive
+  id: 11
+  image: news/11292024/images/11/article_image.png
+- title: OpenAI ChatGPT-4o Update Offers Bloggers a New Assist
+  preview: Enhanced blogging tool for creativity.
+  fullContent: I've been using ChatGPT in blogging for tasks like brainstorming, summaries, titles, and editing. OpenAI recently announced an update to GPT-4, enhancing its overall performance and writing capabilities.
+  img: https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/072/957/094/kW7yv9eBdzp0mm0xzNLRwa5Px/9c56d730a8d236e901099d8674ab6b35e708f12d.png
+  sourcelink: https://kevin.lexblog.com/2024/11/25/openai-chatgpt-4o-update-offers-bloggers-a-new-assist/
+  topic: GPT-4
+  publishedAt: '2024-11-25T23:33:03Z'
+  source: Lexblog.com
+  sentiment: Positive
+  id: 12
+  image: news/11292024/images/12/article_image.png
+- title: Thomson Reuters’ CoCounsel redefines legal AI with OpenAI’s o1-mini model
+  preview: Revolutionizing legal AI with CoCounsel.
+  fullContent: Thomson Reuters integrates OpenAI's o1-mini model into its CoCounsel legal assistant, pioneering a multi-AI strategy that also includes models from Google and Anthropic, aiming to enhance legal workflows.
+  img: https://venturebeat.com/wp-content/uploads/2024/11/nuneybits_Vector_art_of_legal_profession_and_artificial_intelli_e708c95a-ba7a-408d-87df-d879f9622242.webp?w=1024?w=1200&strip=all
+  sourcelink: https://venturebeat.com/ai/thomson-reuters-cocounsel-redefines-legal-ai-with-openais-o1-mini-model/
+  topic: GPT-4
+  publishedAt: '2024-11-25T17:00:00Z'
+  source: VentureBeat
+  sentiment: Positive
+  id: 13
+  image: news/11292024/images/13/article_image.png
+- title: Google Gemini 2.0 Release Date Leaked & OpenAI’s New AI Browser
+  preview: '"Tech Giants Unveil Future Innovations"'
+  fullContent: Artificial intelligence (AI) is rapidly advancing, influencing various sectors and igniting discussions on its societal impacts. Recent developments include Google's Gemini 2.0 and OpenAI's ambitions.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/openai-ai-browser-projects-innovation.jpg
+  sourcelink: https://www.geeky-gadgets.com/google-gemini-2-0-release-date-leaked-openais-new-ai-browser/
+  topic: GPT-4
+  publishedAt: '2024-11-25T10:54:49Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 14
+  image: news/11292024/images/14/article_image.png
+- title: ChatGPT Gets Better at Creative Writing With New Update
+  preview: ChatGPT excels in creative writing.
+  fullContent: OpenAI unveiled two enhancements to its AI models, including a new update for GPT-4o, or GPT-4 Turbo. This model powers ChatGPT for paying users, offering improved performance and efficiency.
+  img: https://i.gadgets360cdn.com/large/chatgpt5_reuters_1732518608466.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/openai-gpt-4o-creative-writing-ability-improvement-new-method-automated-red-teaming-7100248
+  topic: GPT-4
+  publishedAt: '2024-11-25T07:49:57Z'
+  source: Gadgets360.com
+  sentiment: Positive
+  id: 15
+  image: news/11292024/images/15/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon boosts Anthropic with billions.
+  fullContent: Amazon is investing an additional $4 billion in Anthropic, the developer of Claude AI, increasing its total funding to $8 billion. This funding comes after $1.25 billion in September and $2.75 billion in March.
+  img: https://biztoc.com/cdn/0e4ba5786fde1126_s.webp
+  sourcelink: https://biztoc.com/x/0e4ba5786fde1126
+  topic: Claude AI
+  publishedAt: '2024-11-23T18:28:31Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 16
+  image: news/11292024/images/16/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon bolsters competition with Anthropic investment.
+  fullContent: Amazon has invested $8 billion in Anthropic, with the latest announcement highlighting its significant backing. The new iteration of Amazon's Alexa reportedly utilizes Claude, an AI model developed by Anthropic, showcasing the collaboration's impact on enhancing the voice-activated assistant's capabilities.
+  img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
+  sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
+  topic: Claude AI
+  publishedAt: '2024-11-22T15:08:33Z'
+  source: The Verge
+  sentiment: Positive
+  id: 17
+  image: news/11292024/images/17/article_image.png
+- title: 'PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries'
+  preview: Impersonators exploit libraries with malware.
+  fullContent: Cybersecurity experts found two harmful packages on the PyPI repository posing as popular AI models like OpenAI ChatGPT and Anthropic Claude. These malicious packages were used to deploy an information-stealing malware.
+  img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/s728-rw-e365/code.png
+  sourcelink: https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html
+  topic: Claude AI
+  publishedAt: '2024-11-22T06:15:00Z'
+  source: Internet
+  sentiment: Positive
+  id: 18
+  image: news/11292024/images/18/article_image.png
+- title: 5 Apps to Run AI on Your Local Machine
+  preview: 'Local AI Power: 5 Apps'
+  fullContent: Desktop apps now allow running AI models directly on personal computers, offering enhanced control, improved privacy, and offline accessibility. This development eliminates the need for cloud-based processing, providing users with direct control over their data and models. Among the top AI models available for desktop use, ChatGPT is highlighted for easy access to OpenAI's capabilities. This shift empowers users by ensuring data privacy and allowing for seamless use of AI features without relying on internet connectivity.
+  img: https://assets.hongkiat.com/uploads/top-ai-apps-for-local-use/hero.jpg
+  sourcelink: https://www.hongkiat.com/blog/top-ai-apps-for-local-use/
+  topic: Claude AI
+  publishedAt: '2024-11-20T13:00:13Z'
+  source: Hongkiat.com
+  sentiment: Positive
+  id: 19
+  image: news/11292024/images/19/article_image.png
+- title: OpenAI Will Reportedly Release AI Agent That Can Control Computers
+  preview: AI Agent Autonomously Controls Computers
+  fullContent: OpenAI is reportedly developing AI agents capable of controlling computers for users, attempting to keep pace with Anthropic in this technological advancement.
+  img: https://www.webpronews.com/wp-content/uploads/2020/04/OpenAI-scaled.jpg
+  sourcelink: https://www.webpronews.com/openai-will-reportedly-release-ai-agent-that-can-control-computers/
+  topic: Claude AI
+  publishedAt: '2024-11-17T14:00:00Z'
+  source: WebProNews
+  sentiment: Positive
+  id: 20
+  image: news/11292024/images/20/article_image.png
