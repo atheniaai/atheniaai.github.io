@@ -1,0 +1,221 @@
+news:
+- title: Canadian news outlets accuse OpenAI of 'unauthorized' scraping to train its generative AI tools like ChatGPT
+  preview: Canadian news outlets accuse OpenAI scraping.
+  fullContent: A lawsuit has been filed against OpenAI, alleging violations of Canadian copyright laws and claims of "unjust enrichment" at the expense of news media companies.
+  img: https://i.insider.com/674a2f53ede4eeae392a67a9?width=1200&format=jpeg
+  sourcelink: https://www.businessinsider.com/canadian-news-companies-file-lawsuit-openai-copyright-infringement-2024-11
+  topic: artificial intelligence
+  publishedAt: '2024-11-29T22:06:54Z'
+  source: Business Insider
+  sentiment: Negative
+  id: 1
+  image: news/12012024/images/1/article_image.png
+- title: Major Canadian News Outlets Sue OpenAI In New Copyright Case
+  preview: Canadian media firms challenge OpenAI copyright.
+  fullContent: Canada’s major news organizations are suing OpenAI, accusing the company of illegally using their content to train the AI chatbot, ChatGPT. This legal action marks the first case of its kind in Canada, highlighting concerns over content usage and copyright in the era of artificial intelligence. The coalition includes five prominent news entities, aiming to address potential harms to their journalism and rights. The outcome of this lawsuit could set a significant precedent for how AI companies handle media content in the future.
+  img: https://biztoc.com/cdn/cb350e595d42bdb3_s.webp
+  sourcelink: https://biztoc.com/x/cb350e595d42bdb3
+  topic: artificial intelligence
+  publishedAt: '2024-11-29T20:48:14Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 2
+  image: news/12012024/images/2/article_image.png
+- title: Canadian news publishers sue OpenAI over alleged copyright infringement
+  preview: Publishers challenge OpenAI copyright claims.
+  fullContent: A coalition of Canadian news publishers, including The Canadian Press, Torstar, Globe and Mail, Postmedia, and CBC/Radio-Canada, has initiated a lawsuit against OpenAI. They claim that OpenAI unlawfully utilized their news content to train the ChatGPT generative artificial intelligence system.
+  img: https://i.abcnewsfe.com/a/2c59ecfa-723e-4065-8342-67ca5a3cf9f6/wirestory_3e1790fcf4c9f001f1d32609c4d547af_16x9.jpg?w=1600
+  sourcelink: https://abcnews.go.com/Business/wireStory/canadian-news-publishers-sue-openai-alleged-copyright-infringement-116325707
+  topic: artificial intelligence
+  publishedAt: '2024-11-29T19:58:29Z'
+  source: ABC News
+  sentiment: Negative
+  id: 3
+  image: news/12012024/images/3/article_image.png
+- title: 'Anthropic’s 18-Month AI Warning: Why Regulation is Critical Now'
+  preview: Urgent call for AI regulation now.
+  fullContent: Anthropic, a prominent AI research organization behind Claude AI, has issued a crucial warning regarding the next 18 months. They emphasize the importance of establishing regulations to mitigate the risks posed by rapidly advancing artificial intelligence technologies. The time frame is deemed pivotal for ensuring that appropriate measures are put in place, highlighting the urgent need for oversight in the evolving AI landscape to enhance safety and accountability.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/responsible-scaling-policy-ai.jpg
+  sourcelink: https://www.geeky-gadgets.com/advanced-ai-regulation-risks/
+  topic: Claude AI
+  publishedAt: '2024-11-29T12:09:39Z'
+  source: Geeky Gadgets
+  sentiment: Negative
+  id: 4
+  image: news/12012024/images/4/article_image.png
+- title: 'New Claude Writing Styles : Say Goodbye to Generic Content AI Writing Just Got Personal'
+  preview: Personalized AI writing transforms content.
+  fullContent: Anthropic has launched a new Writing Styles feature for Claude 3, accessible to both free and paid users. This AI tool enables users to customize Claude’s writing tones to suit individual preferences, offering pre-set styles as well as the option to create personalized styles.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/anthropic-claude-ai-writing-styles-integration.jpg
+  sourcelink: https://www.geeky-gadgets.com/?p=444662
+  topic: Claude AI
+  publishedAt: '2024-11-29T07:15:50Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 5
+  image: news/12012024/images/5/article_image.png
+- title: OpenAI faces critical test as Chinese models close the gap in AI leadership
+  preview: OpenAI challenged by emerging competitors.
+  fullContent: The AI landscape is rapidly evolving, especially regarding advanced reasoning models. Recently, competition intensified as three new AI models from Chinese developers—Deepseek R1 by HighFlyer Capital Management, among others—were introduced. This surge in innovation highlights the global race to develop sophisticated AI technologies, underscoring the strategic importance of such advancements in various sectors. The ongoing developments signal a pivotal moment in AI progress, with implications for industry leaders and policymakers alike.
+  img: https://venturebeat.com/wp-content/uploads/2024/11/DALL·E-2024-11-28-06.38.49-A-visually-striking-image-emphasizing-a-competition-between-the-United-States-and-China-in-the-field-of-AI.-On-the-left-side-a-glowing-representation.webp?w=1024?w=1200&strip=all
+  sourcelink: https://venturebeat.com/ai/openai-faces-critical-test-as-chinese-models-close-the-gap-in-ai-leadership/
+  topic: GPT-4
+  publishedAt: '2024-11-28T14:43:28Z'
+  source: VentureBeat
+  sentiment: Negative
+  id: 6
+  image: news/12012024/images/6/article_image.png
+- title: Anthropic Introduces Custom Styles in Claude AI That Can Match Users’ Writing Style
+  preview: Anthropic's Claude AI Tailors Writing Styles.
+  fullContent: Anthropic has launched a new feature called Custom Style for its AI chatbot, Claude, which enables it to generate responses that align with users’ preferred writing styles. This enhancement aims to make interactions more personalized and tailored to individual preferences, improving the overall user experience.
+  img: https://i.gadgets360cdn.com/large/claude_custom_writing_1732799145293.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/anthropic-custom-styles-claude-ai-match-users-communication-preference-7126894
+  topic: Claude AI
+  publishedAt: '2024-11-28T13:34:49Z'
+  source: Gadgets360.com
+  sentiment: Positive
+  id: 7
+  image: news/12012024/images/7/article_image.png
+- title: Amazon-backed Anthropic introduces Google Gemini and Apple Intelligence-style features to Claude AI
+  preview: Anthropic enhances Claude AI with innovations.
+  fullContent: Users can customize Claude's writing style by uploading sample content that showcases their preferred tone, allowing the AI to learn from it. This adaptability caters to diverse writing needs. Early adopters, such as GitLab, have successfully utilized this feature to enhance their content creation processes.
+  img: https://img.etimg.com/thumb/msid-115767634,width-1200,height-630,imgsize-50976,overlay-ettech/articleshow.jpg
+  sourcelink: https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-backed-anthropic-introduces-google-gemini-and-apple-intelligence-style-features-to-claude-ai/articleshow/115767643.cms
+  topic: Claude AI
+  publishedAt: '2024-11-28T10:21:28Z'
+  source: The Times of India
+  sentiment: Positive
+  id: 8
+  image: news/12012024/images/8/article_image.png
+- title: Claude AI’s Update Adds Custom Writing Styles for Content Creators
+  preview: Claude AI enhances writing with customization.
+  fullContent: Anthropic has updated its Claude AI, unveiling a suite of features designed to enhance content creation. The update includes both preset and customizable writing styles to accommodate various content requirements, including SEO optimization.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/custom-writing-styles-claude-ai.jpg
+  sourcelink: https://www.geeky-gadgets.com/claude-ais-update-adds-custom-writing-styles-for-content-creators/
+  topic: Claude AI
+  publishedAt: '2024-11-28T08:15:26Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 9
+  image: news/12012024/images/9/article_image.png
+- title: You can now ask Claude to mimic your writing style
+  preview: Claude mimics your personal writing style.
+  fullContent: Anthropic has introduced writing style options for its AI language model, Claude. This feature allows users to specify the tone and style of responses generated by the AI, enhancing personalization and relevance in communication. By offering different writing styles, Claude aims to cater to diverse user preferences and improve user experience. The release of these stylistic features marks a significant advancement in the customization of AI interactions, empowering users to engage with the technology in ways that better align with their individual needs and expectations.
+  img: https://cdn.mos.cms.futurecdn.net/gWxerMqF4PpkyAgxesBXNA-1200-80.png
+  sourcelink: https://www.techradar.com/computing/artificial-intelligence/you-can-now-ask-claude-to-mimic-your-writing-style
+  topic: Claude AI
+  publishedAt: '2024-11-27T19:30:00Z'
+  source: TechRadar
+  sentiment: Neutral
+  id: 10
+  image: news/12012024/images/10/article_image.png
+- title: Anthropic updates Claude to add custom writing styles tailored to users, aiming to personalize its replies, following similar ChatGPT and Gemini features
+  preview: Anthropic enhances Claude with personalization.
+  fullContent: Anthropic is enhancing its Claude AI assistant by introducing a feature that allows users greater control over the chatbot's responses for various writing tasks. This new custom styles option is accessible to all users, enabling them to tailor Claude AI's output to align with their personal preferences and writing styles.
+  img: https://biztoc.com/cdn/774bcb46208dd902_s.webp
+  sourcelink: https://biztoc.com/x/774bcb46208dd902
+  topic: Claude AI
+  publishedAt: '2024-11-27T11:34:21Z'
+  source: Biztoc.com
+  sentiment: Neutral
+  id: 11
+  image: news/12012024/images/11/article_image.png
+- title: 'The Global AI Race: Is the U.S. Losing Its Edge to China?'
+  preview: U.S. AI dominance challenged by China.
+  fullContent: China's progress in artificial intelligence (AI) is transforming the global technology landscape and altering the balance of technological power. Former Google CEO Eric Schmidt pointed out two significant open-source AI models, including Deep Seek R1, which reflect these advancements. This development underscores China's influential role in the future of AI and emphasizes the growing competition in the tech industry.
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2024/11/us-vs-china-ai-race.jpg
+  sourcelink: https://www.geeky-gadgets.com/global-ai-race/
+  topic: GPT-4
+  publishedAt: '2024-11-27T10:54:38Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 12
+  image: ''
+- title: Anthropic Says Claude AI Can Match Your Unique Writing Style
+  preview: Claude AI Tailors to Your Writing.
+  fullContent: Anthropic is introducing a new feature for its Claude AI assistant, allowing users to customize how the chatbot responds to various writing tasks. This update, available to all Claude AI users, enables individuals to tailor the assistant's writing style to better suit their needs.
+  img: https://a.fsdn.com/sd/topics/ai_64.png
+  sourcelink: https://slashdot.org/story/24/11/26/194212/anthropic-says-claude-ai-can-match-your-unique-writing-style
+  topic: Claude AI
+  publishedAt: '2024-11-26T19:45:00Z'
+  source: Slashdot.org
+  sentiment: Neutral
+  id: 13
+  image: news/12012024/images/13/article_image.png
+- title: Beginning ChatGPT for Python
+  preview: Learn Python basics with ChatGPT.
+  fullContent: 'The eBook "Beginning ChatGPT for Python: Build Intelligent Applications with OpenAI APIs" is set to be released on December 7, 2024, and spans 206 pages. Published by WOW! eBook, it aims to guide readers in creating intelligent applications using OpenAI''s APIs. The book is written in English and is identified by ISBN-10: 8868809286 and ISBN-13: 978-8868809286.'
+  img: null
+  sourcelink: https://www.wowebook.org/beginning-chatgpt-for-python/
+  topic: GPT-4
+  publishedAt: '2024-11-26T07:16:50Z'
+  source: Wowebook.org
+  sentiment: Positive
+  id: 14
+  image: news/12012024/images/14/article_image.png
+- title: OpenAI ChatGPT-4o Update Offers Bloggers a New Assist
+  preview: ChatGPT-4o enhances blogging experience significantly.
+  fullContent: The author has utilized ChatGPT in their blogging for various purposes such as brainstorming, summarizing, creating titles, and editing grammar. Recently, OpenAI announced an update to GPT-4, which focuses on enhancing overall performance and improving writing capabilities.
+  img: https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/072/957/094/kW7yv9eBdzp0mm0xzNLRwa5Px/9c56d730a8d236e901099d8674ab6b35e708f12d.png
+  sourcelink: https://kevin.lexblog.com/2024/11/25/openai-chatgpt-4o-update-offers-bloggers-a-new-assist/
+  topic: GPT-4
+  publishedAt: '2024-11-25T23:33:03Z'
+  source: Lexblog.com
+  sentiment: Positive
+  id: 15
+  image: news/12012024/images/15/article_image.png
+- title: Thomson Reuters’ CoCounsel redefines legal AI with OpenAI’s o1-mini model
+  preview: Legal AI revolutionized by OpenAI.
+  fullContent: Thomson Reuters has integrated OpenAI's o1-mini model into its CoCounsel legal assistant. This marks a pioneering step in adopting a multi-AI approach, as it incorporates models from Google and Anthropic to improve legal workflows.
+  img: https://venturebeat.com/wp-content/uploads/2024/11/nuneybits_Vector_art_of_legal_profession_and_artificial_intelli_e708c95a-ba7a-408d-87df-d879f9622242.webp?w=1024?w=1200&strip=all
+  sourcelink: https://venturebeat.com/ai/thomson-reuters-cocounsel-redefines-legal-ai-with-openais-o1-mini-model/
+  topic: GPT-4
+  publishedAt: '2024-11-25T17:00:00Z'
+  source: VentureBeat
+  sentiment: Positive
+  id: 16
+  image: news/12012024/images/16/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon boosts Anthropic with $4 billion.
+  fullContent: Amazon has announced an additional $4 billion investment in Anthropic, the developer of Claude AI, increasing its total funding to $8 billion. This follows a previous $1.25 billion investment last September and another $2.75 billion in March.
+  img: https://biztoc.com/cdn/0e4ba5786fde1126_s.webp
+  sourcelink: https://biztoc.com/x/0e4ba5786fde1126
+  topic: Claude AI
+  publishedAt: '2024-11-23T18:28:31Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 17
+  image: news/12012024/images/17/article_image.png
+- title: Amazon to invest another $4 billion in OpenAI rival Anthropic
+  preview: Amazon boosts Anthropic with $4 billion.
+  fullContent: Amazon has invested a total of $8 billion in Anthropic following a recent announcement. The updated version of Alexa will utilize Claude, Anthropic's AI model, enhancing its capabilities.
+  img: https://cdn.vox-cdn.com/thumbor/PvTs1AQvbet47Qzg0cODmNIxq7c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg
+  sourcelink: https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa
+  topic: Claude AI
+  publishedAt: '2024-11-22T15:08:33Z'
+  source: The Verge
+  sentiment: Positive
+  id: 18
+  image: news/12012024/images/18/article_image.png
+- title: 'PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries'
+  preview: Impersonators exploit PyPI to deliver malware.
+  fullContent: Cybersecurity researchers found two malicious packages on the Python Package Index (PyPI) that pretended to be well-known AI models, including OpenAI ChatGPT and Anthropic Claude. These packages were designed to deliver an information-stealing payload, posing a significant security threat. Users downloading these packages could unwittingly compromise sensitive data, highlighting the need for vigilance in the software supply chain and thorough verification of package authenticity to prevent such cyber risks.
+  img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/s728-rw-e365/code.png
+  sourcelink: https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html
+  topic: Claude AI
+  publishedAt: '2024-11-22T06:15:00Z'
+  source: Internet
+  sentiment: Positive
+  id: 19
+  image: news/12012024/images/19/article_image.png
+- title: 5 Apps to Run AI on Your Local Machine
+  preview: '"Local Machine AI: Top 5 Apps"'
+  fullContent: There are now desktop applications that enable users to run AI models directly on their computers, offering enhanced control, improved privacy, and offline capabilities. Among the top five AI model options available, ChatGPT provides straightforward access to OpenAI’s technology, allowing for seamless integration and usage on personal devices. This development caters to those seeking local AI solutions without relying on internet connectivity.
+  img: https://assets.hongkiat.com/uploads/top-ai-apps-for-local-use/hero.jpg
+  sourcelink: https://www.hongkiat.com/blog/top-ai-apps-for-local-use/
+  topic: Claude AI
+  publishedAt: '2024-11-20T13:00:13Z'
+  source: Hongkiat.com
+  sentiment: Positive
+  id: 20
+  image: news/12012024/images/20/article_image.png
