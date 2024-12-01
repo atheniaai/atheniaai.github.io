@@ -15,6 +15,45 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+def copy_to_next_day():
+    """
+    Copy the entire contents of current date directory to next date directory.
+    Both directories are relative to the workflow environment.
+    """
+    # Get current and next day dates
+    current_date = datetime.now()
+    next_date = current_date + timedelta(days=1)
+    
+    # Format dates as MMDDYYYY
+    current_dir_name = current_date.strftime('%m%d%Y')
+    next_dir_name = next_date.strftime('%m%d%Y')
+    
+    # Set up paths relative to workflow directory
+    base_path = os.path.join('news')
+    current_dir = os.path.join(base_path, current_dir_name)
+    next_dir = os.path.join(base_path, next_dir_name)
+    
+    # Create the next day directory (including parent directories if they don't exist)
+    os.makedirs(next_dir, exist_ok=True)
+    
+    try:
+        # Copy everything from current to next day directory
+        for item in os.listdir(current_dir):
+            source = os.path.join(current_dir, item)
+            destination = os.path.join(next_dir, item)
+            
+            if os.path.isdir(source):
+                if os.path.exists(destination):
+                    shutil.rmtree(destination)
+                shutil.copytree(source, destination)
+            else:
+                shutil.copy2(source, destination)
+                
+        print(f"Successfully copied contents from {current_dir} to {next_dir}")
+    except Exception as e:
+        print(f"Error copying directory: {str(e)}")
+        raise
+
 def is_relevant_article(title: str, description: str, topic: str) -> bool:
     """
     Check if the article is relevant to AI/ML topics
@@ -394,3 +433,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    copy_to_next_day()
