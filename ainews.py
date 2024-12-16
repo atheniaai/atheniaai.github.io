@@ -211,7 +211,7 @@ class NewsProcessor:
             try:
                 response = self.client.images.generate(
                     model="dall-e-2",
-                    prompt=f"o: {prompt}. Style: Modern, clean,",
+                    prompt=f"o: {prompt}. A dynamic and visually engaging image suitable for a news media website. The composition is clean and professional, with vibrant and realistic details, designed to evoke interest and convey a sense of importance or immediacy. No text or lettering should be visible on the image.",
                     n=1,
                     size="1024x1024"
                 )
