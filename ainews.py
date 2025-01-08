@@ -206,7 +206,7 @@ class NewsProcessor:
         try:
             self.logger.info(f"Attempting to generate image with prompt: {prompt}")
             # List available models
-            models = self.client.models.list()
+            models = self.azure_OAI_client.models.list()
             self.logger.debug(f"Available OpenAI models: {models}")
             # Try DALL-E 3 first, fall back to DALL-E 2 if needed
             try:
