@@ -1,17 +1,6 @@
 news:
-- title: Google Generative AI
-  preview: Google Generative AI
-  fullContent: "Package:\r\n\nGoogle Generative AI\r\n\nSummary: \r\n\nGet answers to prompts using Google Gemini AI\r\n\nGroups: \r\n\nArtificial intelligence, PHP 8, Web services\r\n\nAuthor: \r\n\nNahid Bin Azhar\r\n\nDescription: \r\n\nThis package can get answers to prompts using Google Gemini AI…"
-  img: null
-  sourcelink: https://www.phpclasses.org/package/13443-PHP-Get-answers-to-prompts-using-Google-Gemini-AI.html
-  topic: artificial intelligence
-  publishedAt: '2025-01-07T08:25:05Z'
-  source: Phpclasses.org
-  sentiment: Positive
-  id: 1
-  image: news/01082025/images/1/article_image.png
 - title: 'China’s AI Copycat Strategy: How OpenAI’s Rivals Are Changing the Game'
-  preview: China's AI rivals reshape competitive landscape.
+  preview: 'China’s AI Copycat Strategy: How OpenAI’s Rivals A'
   fullContent: Artificial intelligence (AI) is advancing at an extraordinary pace, with reasoning models at the forefront of this evolution. Companies such as OpenAI, Google, and Chinese tech giants are engaged in intense competition to develop innovative AI reasoning syste…
   img: https://www.geeky-gadgets.com/wp-content/uploads/2025/01/open-source-ai-tools-deepseek-v3-innovation.jpg
   sourcelink: https://www.geeky-gadgets.com/china-ai-reasoning-models-competition/
@@ -19,8 +8,8 @@ news:
   publishedAt: '2025-01-07T07:59:30Z'
   source: Geeky Gadgets
   sentiment: Positive
-  id: 2
-  image: news/01082025/images/2/article_image.png
+  id: 1
+  image: news/01082025/images/1/article_image.png
 - title: Move Over GenAI. Google Says Get Ready for GenWorld
   preview: Move Over GenAI. Google Says Get Ready for GenWorl
   fullContent: Google DeepMind announced Monday (Jan. 6) that it is creating a new team to work on “massive” generative models that would “simulate the world.” These models represent the next stage of advancement in artificial intelligence (AI) capabilities in decision-maki…
@@ -30,8 +19,8 @@ news:
   publishedAt: '2025-01-07T01:15:57Z'
   source: pymnts.com
   sentiment: Positive
-  id: 3
-  image: news/01082025/images/3/article_image.png
+  id: 2
+  image: news/01082025/images/2/article_image.png
 - title: Google’s DeepMind is recruiting AI researchers to advance world model development
   preview: 'Google’s DeepMind is recruiting AI researchers to '
   fullContent: Google LLC’s DeepMind is trying to put together a team of specialist artificial intelligence researchers to expand its leadership in the field of “world models” that can simulate physical environments. DeepMind’s new team will be led by former OpenAI research…
@@ -41,8 +30,8 @@ news:
   publishedAt: '2025-01-06T23:40:01Z'
   source: SiliconANGLE News
   sentiment: Positive
-  id: 4
-  image: news/01082025/images/4/article_image.png
+  id: 3
+  image: news/01082025/images/3/article_image.png
 - title: Even at $200/mo, Altman admits ChatGPT Pro struggles to turn a profit
   preview: Even at $200/mo, Altman admits ChatGPT Pro struggl
   fullContent: 'But don''t worry, he''s ''figured out'' AGI
@@ -54,8 +43,8 @@ news:
   publishedAt: '2025-01-06T22:30:06Z'
   source: Theregister.com
   sentiment: Positive
-  id: 5
-  image: news/01082025/images/5/article_image.png
+  id: 4
+  image: news/01082025/images/4/article_image.png
 - title: AMD debuts AI-optimized laptop processor that can run large language models
   preview: 'AMD debuts AI-optimized laptop processor that can '
   fullContent: Advanced Micro Devices Inc. today debuted a laptop processor series that can run artificial intelligence models faster than some standalone graphics cards. The company detailed the chips at CES alongside several other additions to its product lineup. Those ot…
@@ -65,8 +54,8 @@ news:
   publishedAt: '2025-01-06T22:06:50Z'
   source: SiliconANGLE News
   sentiment: Positive
-  id: 6
-  image: news/01082025/images/6/article_image.png
+  id: 5
+  image: news/01082025/images/5/article_image.png
 - title: puter 0.0.13
   preview: puter 0.0.13
   fullContent: A Python client for Puter AI API - free access to GPT-4 and Claude
@@ -76,8 +65,8 @@ news:
   publishedAt: '2025-01-06T08:38:29Z'
   source: Pypi.org
   sentiment: Positive
-  id: 7
-  image: news/01082025/images/7/article_image.png
+  id: 6
+  image: news/01082025/images/6/article_image.png
 - title: puter 0.0.12
   preview: puter 0.0.12
   fullContent: A Python client for Puter AI API - free access to GPT-4 and Claude
@@ -87,8 +76,8 @@ news:
   publishedAt: '2025-01-06T08:35:03Z'
   source: Pypi.org
   sentiment: Positive
-  id: 8
-  image: news/01082025/images/8/article_image.png
+  id: 7
+  image: news/01082025/images/7/article_image.png
 - title: puter 0.0.11
   preview: puter 0.0.11
   fullContent: A simple Python client for Puter AI API with GPT-4 and Claude support
@@ -98,8 +87,8 @@ news:
   publishedAt: '2025-01-06T08:29:08Z'
   source: Pypi.org
   sentiment: Positive
-  id: 9
-  image: news/01082025/images/9/article_image.png
+  id: 8
+  image: news/01082025/images/8/article_image.png
 - title: puter added to PyPI
   preview: puter added to PyPI
   fullContent: A simple Python client for Puter AI API with GPT-4 and Claude support
@@ -109,8 +98,8 @@ news:
   publishedAt: '2025-01-06T08:26:55Z'
   source: Pypi.org
   sentiment: Positive
-  id: 10
-  image: news/01082025/images/10/article_image.png
+  id: 9
+  image: news/01082025/images/9/article_image.png
 - title: puter 0.0.1
   preview: puter 0.0.1
   fullContent: A simple Python client for Puter AI API with GPT-4 and Claude support
@@ -120,8 +109,8 @@ news:
   publishedAt: '2025-01-06T08:26:55Z'
   source: Pypi.org
   sentiment: Positive
-  id: 11
-  image: news/01082025/images/11/article_image.png
+  id: 10
+  image: news/01082025/images/10/article_image.png
 - title: 'OpenAI o1 Model Goes Rogue : The AI That Outsmarted Its Programming'
   preview: 'OpenAI o1 Model Goes Rogue : The AI That Outsmarte'
   fullContent: A recent incident involving the advanced AI model “o1 Preview” has sparked significant concern within the artificial intelligence community. According to findings from Palisade Research, the model exhibited an unsettling degree of autonomy by manipulating its…
@@ -131,8 +120,8 @@ news:
   publishedAt: '2025-01-04T07:01:27Z'
   source: Geeky Gadgets
   sentiment: Positive
-  id: 12
-  image: news/01082025/images/12/article_image.png
+  id: 11
+  image: news/01082025/images/11/article_image.png
 - title: Making sense of the AI agent meta
   preview: Making sense of the AI agent meta
   fullContent: 'This is a segment from the 0xResearch newsletter. To read full editions, subscribe.
@@ -144,8 +133,8 @@ news:
   publishedAt: '2024-12-30T18:23:17Z'
   source: Biztoc.com
   sentiment: Negative
-  id: 13
-  image: news/01082025/images/13/article_image.png
+  id: 12
+  image: news/01082025/images/12/article_image.png
 - title: Microsoft Might Be Working to Add Non-OpenAI AI Models to 365 Copilot
   preview: Microsoft Might Be Working to Add Non-OpenAI AI Mo
   fullContent: Microsoft is reportedly working on adding non-OpenAI artificial intelligence (AI) models to its 365 Copilot products. As per the report, the Redmond-based tech giant is trying to reduce its dependence on OpenAI’s AI models due to concerns regarding speed and …
@@ -155,8 +144,8 @@ news:
   publishedAt: '2024-12-24T08:05:57Z'
   source: Gadgets360.com
   sentiment: Positive
-  id: 14
-  image: news/01082025/images/14/article_image.png
+  id: 13
+  image: news/01082025/images/13/article_image.png
 - title: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and Running Up ‘Huge Bills’'
   preview: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and R'
   fullContent: 'Issues with data quality, competing projects, and high-profile executive exits are allegedly all contributing to the slowdown in production.
@@ -168,8 +157,8 @@ news:
   publishedAt: '2024-12-22T11:28:49Z'
   source: PCMag.com
   sentiment: Neutral
-  id: 15
-  image: news/01082025/images/15/article_image.png
+  id: 14
+  image: news/01082025/images/14/article_image.png
 - title: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and Running Up ‘Huge Bills’'
   preview: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and R'
   fullContent: 'Issues with data quality, competing projects, and high-profile executive exits are allegedly all contributing to the slowdown in production.
@@ -181,8 +170,8 @@ news:
   publishedAt: '2024-12-22T11:28:49Z'
   source: PCMag.com
   sentiment: Neutral
-  id: 16
-  image: news/01082025/images/16/article_image.png
+  id: 15
+  image: news/01082025/images/15/article_image.png
 - title: 'Claude AI Pricing: How Much Does it Cost to Use Anthropic’s Chatbot?'
   preview: 'Claude AI Pricing: How Much Does it Cost to Use An'
   fullContent: 'Claude AI is an advanced language model developed by Anthropic. It’s designed to understand and generate human-like text and assist with requests ranging from simple queries to complex tasks, such as data analysis, writing, and code generation.
@@ -194,8 +183,8 @@ news:
   publishedAt: '2024-12-19T13:49:58Z'
   source: Biztoc.com
   sentiment: Positive
-  id: 17
-  image: news/01082025/images/17/article_image.png
+  id: 16
+  image: news/01082025/images/16/article_image.png
 - title: Llama 3.3 70B now available in Amazon SageMaker JumpStart
   preview: Llama 3.3 70B now available in Amazon SageMaker Ju
   fullContent: Today, we are excited to announce that the Llama 3.3 70B from Meta is available in Amazon SageMaker JumpStart. Llama 3.3 70B marks an exciting advancement in large language model (LLM) development, offering comparable performance to larger Llama versions with…
@@ -204,6 +193,17 @@ news:
   topic: LLM development
   publishedAt: '2024-12-17T00:31:42Z'
   source: Amazon.com
+  sentiment: Positive
+  id: 17
+  image: news/01082025/images/17/article_image.png
+- title: Anthropic’s Claude 3.5 Haiku AI Model Released to All Users on the Web and Mobile Apps
+  preview: 'Anthropic’s Claude 3.5 Haiku AI Model Released to '
+  fullContent: Anthropic has silently released the Claude 3.5 Haiku artificial intelligence (AI) model to users. On Thursday, several netizens began posting about the model's availability in Claude's web interface and mobile apps. Anthropic stated that the new generation of…
+  img: https://i.gadgets360cdn.com/large/claude_logo_1734074217004.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/anthropic-claude-3-5-haiku-ai-model-released-all-users-web-mobile-apps-7238395
+  topic: Claude Anthropic
+  publishedAt: '2024-12-13T07:47:17Z'
+  source: Gadgets360.com
   sentiment: Positive
   id: 18
   image: news/01082025/images/18/article_image.png
