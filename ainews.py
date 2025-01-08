@@ -534,7 +534,7 @@ def fetch_ai_news(api_key: str, openai_api_key: str,  azure_oai_key: str, azure_
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         
         # Generate image using the summarized content as prompt
-        if news_processor.generate_and_save_image(article['fullContent'], save_path):
+        if news_processor.generate_and_save_image_dalle3(article['fullContent'], save_path):
             article['image'] = relative_path
         else:
             article['image'] = ''
