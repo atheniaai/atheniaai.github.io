@@ -163,9 +163,10 @@ def get_sentiment(text: str) -> str:
 
 # Initialize OpenAI client
 class NewsProcessor:
-    def __init__(self, openai_api_key: str):
+    def __init__(self, openai_api_key: str, azure_oai_key: str, azure_oai_url :str, azure_oai_version: str):
         self.openai_api_key = openai_api_key
         self.client = OpenAI(api_key=openai_api_key)
+        self.azure_OAI_client = AzureOpenAI(api_key=azure_oai_key, api_version=azure_oai_version, azure_endpoint=azure_oai_url)
         self.logger = logger
 
     def generate_preview(self, title: str) -> str:
@@ -209,8 +210,8 @@ class NewsProcessor:
             self.logger.debug(f"Available OpenAI models: {models}")
             # Try DALL-E 3 first, fall back to DALL-E 2 if needed
             try:
-                response = self.client.images.generate(
-                    model="dall-e-2",
+                response = self.client.azure_OAI_client.generate(
+                    model="dalle3",
                     prompt=f"o: {prompt}. A dynamic and visually engaging image suitable for a news media website. The composition is clean and professional, with vibrant and realistic details, designed to evoke interest and convey a sense of importance or immediacy. No text or lettering should be visible on the image.",
                     n=1,
                     size="1024x1024"
@@ -395,8 +396,10 @@ def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> L
 def main():
     NEWS_API_KEY = os.getenv('NEWS_API_KEY')
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-
-    if not NEWS_API_KEY or not OPENAI_API_KEY:
+    AZURE_OPENAI_DALLE_KEY = os.getenv('AZURE_OPENAI_DALLE_KEY')
+    AZURE_OPENAI_DALLE_URL = os.getenv('AZURE_OPENAI_DALLE_URL')
+    AZURE_API_VERSION = os.getenv('AZURE_API_VERSION')
+    if not NEWS_API_KEY or not OPENAI_API_KEY or not AZURE_OPENAI_DALLE_KEY or not AZURE_OPENAI_DALLE_URL:
         raise ValueError("API keys not found in environment variables")
     
     # Configure maximum articles to process
@@ -406,6 +409,9 @@ def main():
         articles = fetch_ai_news(
             api_key=NEWS_API_KEY,
             openai_api_key=OPENAI_API_KEY,
+            azure_oai_key=AZURE_OPENAI_DALLE_KEY,
+            azure_oai_url=AZURE_OPENAI_DALLE_URL,
+            azure_oai_version=AZURE_API_VERSION,
             max_articles=MAX_ARTICLES
         )
         
