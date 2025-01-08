@@ -9,6 +9,7 @@ import os
 import sys
 import shutil
 from openai import OpenAI
+from openai import AzureOpenAI
 import logging
 
 # Setup logging
