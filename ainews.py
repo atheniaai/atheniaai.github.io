@@ -211,7 +211,7 @@ class NewsProcessor:
             self.logger.debug(f"Available OpenAI models: {models}")
             # Try DALL-E 3 first, fall back to DALL-E 2 if needed
             try:
-                response = self.azure_OAI_client.generate(
+                response = self.azure_OAI_client.images.generate(
                     model="dalle3",
                     prompt=f"o: {prompt}. A dynamic and visually engaging image suitable for a news media website. The composition is clean and professional, with vibrant and realistic details, designed to evoke interest and convey a sense of importance or immediacy. No text or lettering should be visible on the image.",
                     n=1,
