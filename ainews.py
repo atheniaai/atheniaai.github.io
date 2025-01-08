@@ -246,13 +246,13 @@ class NewsProcessor:
             self.logger.error(f"Error details: {e}")
             return ""
 
-def fetch_ai_news(api_key: str, openai_api_key: str, max_articles: int = 2) -> List[Dict]:
+def fetch_ai_news(api_key: str, openai_api_key: str,  azure_oai_key: str, azure_oai_url :str, azure_oai_version: str, max_articles: int = 2) -> List[Dict]:
     """
     Fetch AI-related news using NewsAPI and process with OpenAI
     """
     base_url = "https://newsapi.org/v2/everything"
     request_count = 0
-    news_processor = NewsProcessor(openai_api_key)
+    news_processor = NewsProcessor(openai_api_key, azure_oai_key, azure_oai_url, azure_oai_version)
     
     # Get news directory for current date
     news_dir = get_news_directory()
