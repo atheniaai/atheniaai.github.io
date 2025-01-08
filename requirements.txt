@@ -3,3 +3,4 @@ beautifulsoup4==4.12.2
 nltk==3.8.1
 PyYAML==6.0.1
 openai==1.55.3
+Pillow==10.2.0
