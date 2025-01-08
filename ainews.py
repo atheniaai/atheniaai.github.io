@@ -320,6 +320,79 @@ class NewsProcessor:
             self.logger.error(f"Error in image generation: {str(e)}")
             self.logger.error(f"Error details: {e}")
             return ""
+			
+    def generate_and_save_image_dalle3(self, prompt: str, save_path: str) -> str:
+        """Generate image using DALL-E with detailed error logging."""
+        try:
+            self.logger.info(f"Attempting to generate image with prompt: {prompt}")
+            # List available models
+            models = self.azure_OAI_client.models.list()
+            self.logger.debug(f"Available OpenAI models: {models}")
+            # Try DALL-E 3 first, fall back to DALL-E 2 if needed
+            try:
+                response = self.azure_OAI_client.images.generate(
+                    model="dall-e-3",
+                    prompt=f"o: {prompt}. A dynamic and visually engaging image suitable for a news media website. The composition is clean and professional, with vibrant and realistic details, designed to evoke interest and convey a sense of importance or immediacy. No text or lettering should be visible on the image.",
+                    n=1,
+                    size="1024x1024"
+                )
+            except Exception as e:
+                self.logger.warning(f"DALL-E 3 failed, trying DALL-E 2: {str(e)}")
+                response = self.client.images.generate(
+                    model="dall-e-2",
+                    prompt=f"create an image: {prompt}. Style: Modern, clean.",
+                    n=1,
+                    size="1024x1024"
+                )
+            
+            self.logger.debug(f"OpenAI image generation response: {response}")
+            image_url = response.data[0].url
+            self.logger.info(f"Successfully generated image URL: {image_url}")
+            
+            # Download image
+            img_response = requests.get(image_url)
+            if img_response.status_code == 200:
+                # Process image with PIL for compression
+                from PIL import Image
+                from io import BytesIO
+                
+                # Open image from response content
+                img = Image.open(BytesIO(img_response.content))
+                
+                # Create directory if it doesn't exist
+                os.makedirs(os.path.dirname(save_path), exist_ok=True)
+                
+                # Compress and save with target size between 250-300KB
+                quality = 95
+                while True:
+                    buffer = BytesIO()
+                    img.save(buffer, format='JPEG', quality=quality, optimize=True)
+                    size_kb = buffer.tell() / 1024
+                    
+                    if size_kb < 250:
+                        quality = min(quality + 5, 95)  # Increase quality if too small
+                    elif size_kb > 300:
+                        quality = max(quality - 5, 20)  # Decrease quality if too large
+                    else:
+                        # Size is in target range, save the file
+                        img.save(save_path, 'JPEG', quality=quality, optimize=True)
+                        self.logger.info(f"Successfully saved compressed image ({size_kb:.1f}KB) to: {save_path}")
+                        break
+                    
+                    if quality == 20 or quality == 95:  # Prevent infinite loop
+                        img.save(save_path, 'JPEG', quality=quality, optimize=True)
+                        final_size = os.path.getsize(save_path) / 1024
+                        self.logger.info(f"Saved image with best possible compression ({final_size:.1f}KB) to: {save_path}")
+                        break
+                
+                return save_path
+            else:
+                self.logger.error(f"Failed to download image. Status code: {img_response.status_code}")
+                return ""
+        except Exception as e:
+            self.logger.error(f"Error in image generation: {str(e)}")
+            self.logger.error(f"Error details: {e}")
+            return ""
 
 def fetch_ai_news(api_key: str, openai_api_key: str,  azure_oai_key: str, azure_oai_url :str, azure_oai_version: str, max_articles: int = 2) -> List[Dict]:
     """
