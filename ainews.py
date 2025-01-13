@@ -11,6 +11,7 @@ import shutil
 from openai import OpenAI
 from openai import AzureOpenAI
 import logging
+import gc
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -57,6 +58,7 @@ def generate_and_save_image_dalle3(self, prompt: str, save_path: str) -> str:
             
             # Create directory if it doesn't exist
             os.makedirs(os.path.dirname(save_path), exist_ok=True)
+	    gc.collect()
             
             # Compress and save with target size between 250-300KB
             quality = 95
@@ -73,14 +75,24 @@ def generate_and_save_image_dalle3(self, prompt: str, save_path: str) -> str:
                     # Size is in target range, save the file
                     img.save(save_path, 'JPEG', quality=quality, optimize=True)
                     self.logger.info(f"Successfully saved compressed image ({size_kb:.1f}KB) to: {save_path}")
+		    buffer.close()
+                    del buffer
                     break
-                
+                buffer.close()
+                del buffer
+                gc.collect()
                 if quality == 20 or quality == 95:  # Prevent infinite loop
                     img.save(save_path, 'JPEG', quality=quality, optimize=True)
                     final_size = os.path.getsize(save_path) / 1024
                     self.logger.info(f"Saved image with best possible compression ({final_size:.1f}KB) to: {save_path}")
                     break
-            
+	    img.close()
+            del img
+            gc.collect()
+	    import psutil
+            process = psutil.Process()
+            mem_info = process.memory_info()
+            self.logger.info(f"Memory usage: {mem_info.rss / 1024 / 1024:.2f} MB")
             return save_path
         else:
             self.logger.error(f"Failed to download image. Status code: {img_response.status_code}")
