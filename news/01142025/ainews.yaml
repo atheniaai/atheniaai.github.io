@@ -1,0 +1,231 @@
+news:
+- title: pyaskit 1.4.6
+  preview: pyaskit 1.4.6
+  fullContent: 'AskIt: Unified programming interface for programming with large language models (GPT-3.5, GPT-4, Gemini, Claude, COHERE, Llama 2)'
+  img: null
+  sourcelink: https://pypi.org/project/pyaskit/1.4.6/
+  topic: GPT-4
+  publishedAt: '2025-01-11T21:24:23Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 1
+  image: ''
+- title: pyaskit 1.4.5
+  preview: pyaskit 1.4.5
+  fullContent: 'AskIt: Unified programming interface for programming with large language models (GPT-3.5, GPT-4, Gemini, Claude, COHERE, Llama 2)'
+  img: null
+  sourcelink: https://pypi.org/project/pyaskit/1.4.5/
+  topic: GPT-4
+  publishedAt: '2025-01-11T20:59:22Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 2
+  image: ''
+- title: pyaskit 1.4.4
+  preview: pyaskit 1.4.4
+  fullContent: 'AskIt: Unified programming interface for programming with large language models (GPT-3.5, GPT-4, Gemini, Claude, COHERE, Llama 2)'
+  img: null
+  sourcelink: https://pypi.org/project/pyaskit/1.4.4/
+  topic: GPT-4
+  publishedAt: '2025-01-11T20:01:31Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 3
+  image: ''
+- title: Anthropic’s chief scientist on 5 ways agents will be even better in 2025
+  preview: 'Anthropic’s chief scientist on 5 ways agents will '
+  fullContent: Agents are the hottest thing in tech right now. Top firms from Google DeepMind to OpenAI to Anthropic are racing to augment large language models with the ability to carry out tasks by themselves. Known as agentic AI in industry jargon, such systems have fast…
+  img: https://wp.technologyreview.com/wp-content/uploads/2025/01/ai-agents-2025_1.jpg?resize=1200,600
+  sourcelink: https://www.technologyreview.com/2025/01/11/1109909/anthropics-chief-scientist-on-5-ways-agents-will-be-even-better-in-2025/
+  topic: large language model
+  publishedAt: '2025-01-11T11:00:00Z'
+  source: MIT Technology Review
+  sentiment: Positive
+  id: 4
+  image: ''
+- title: AutoThemeGenerator 0.1.9
+  preview: AutoThemeGenerator 0.1.9
+  fullContent: Performing thematic analysis with OpenAI's GPT-4 models
+  img: null
+  sourcelink: https://pypi.org/project/autothemegenerator/0.1.9/
+  topic: GPT-4
+  publishedAt: '2025-01-11T01:40:32Z'
+  source: Pypi.org
+  sentiment: Neutral
+  id: 5
+  image: ''
+- title: 'Enhancing semantical text understanding with fine-tuned large language models: A case study on Quora Question Pair duplicate identification'
+  preview: Enhancing semantical text understanding with fine-
+  fullContent: Semantical text understanding holds significant importance in natural language processing (NLP). Numerous datasets, such as Quora Question Pairs (QQP), have been devised for this purpose. In our previous study, we developed a Siamese Convolutional Neural Netw…
+  img: https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317042.g002&size=inline
+  sourcelink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317042
+  topic: large language model
+  publishedAt: '2025-01-10T14:00:00Z'
+  source: Plos.org
+  sentiment: Positive
+  id: 6
+  image: ''
+- title: "Chinese researchers replicate OpenAIâ\x80\x99s advanced AI model, sparking global debate on open source and AI security"
+  preview: "Chinese researchers replicate OpenAIâ\x80\x99s advanced "
+  fullContent: 'Chinese Researchers Replicate OpenAI’s o1 Model: In December 2024, researchers from Fudan University and the Shanghai AI Laboratory successfully replicated OpenAI’s advanced o1 reasoning model, a key step toward Artificial General Intelligence (AGI). This mil…'
+  img: https://www.naturalnews.com/wp-content/uploads/sites/91/2025/01/Open-AI-ChatGPT-Artificial-Intelligence.jpg
+  sourcelink: https://www.naturalnews.com/2025-01-10-chinese-researchers-openai-global-debate-opens-source.html
+  topic: GPT-4
+  publishedAt: '2025-01-10T06:00:00Z'
+  source: Naturalnews.com
+  sentiment: Positive
+  id: 7
+  image: ''
+- title: 'Nvidia Introduces R2X: A Cutting-Edge AI Avatar for Your Desktop'
+  preview: 'Nvidia Introduces R2X: A Cutting-Edge AI Avatar fo'
+  fullContent: Nvidia’s R2X, introduced at CES 2025, is a revolutionary AI avatar designed to enhance personal computing. Powered by advanced AI models like GPT-4, it assists with tasks, offers natural conversation, and processes files.
+  img: https://www.c-sharpcorner.com/images/csharp-corner.png
+  sourcelink: https://www.c-sharpcorner.com/news/nvidia-introduces-r2x-a-cuttingedge-ai-avatar-for-your-desktop
+  topic: GPT-4
+  publishedAt: '2025-01-10T00:00:00Z'
+  source: C-sharpcorner.com
+  sentiment: Positive
+  id: 8
+  image: ''
+- title: Benchmarking OpenAI's APIs and other Large Language Models for repeatable and efficient question answering across multiple documents
+  preview: Benchmarking OpenAI's APIs and other Large Languag
+  fullContent: Filipovska, Elena, Mladenovska, Ana, Bajrami, Merxhan, Dobreva, Jovana, Hillman, Velislava, Lameski, Petre and Zdravevski, Eftim (2024) Benchmarking OpenAI's APIs and other Large Language Models for repeatable and efficient question answering across multiple …
+  img: null
+  sourcelink: http://eprints.lse.ac.uk/126674/
+  topic: GPT-4
+  publishedAt: '2025-01-08T12:51:02Z'
+  source: Lse.ac.uk
+  sentiment: Positive
+  id: 9
+  image: ''
+- title: AI start-up Anthropic closes in on $60bn valuation
+  preview: AI start-up Anthropic closes in on $60bn valuation
+  fullContent: Maker of the Claude AI chatbot nears fresh $2bn investment in the latest sign of how much money is pouring into the sector
+  img: https://biztoc.com/cdn/b076fbed00a864e8_s.webp
+  sourcelink: https://biztoc.com/x/b076fbed00a864e8
+  topic: Claude AI
+  publishedAt: '2025-01-07T19:46:10Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 10
+  image: ''
+- title: Panasonic unveils an AI-powered wellness coach, powered by Anthropic’s Claude, at CES 2025
+  preview: Panasonic unveils an AI-powered wellness coach, po
+  fullContent: At CES 2025 in Las Vegas, Panasonic unveiled its upcoming digital assistant, Umi, which offers families a personalized, AI-powered wellness coach. Created in partnership with Anthropic, Umi uses the Claude AI model to help families “care, coordinate, and conn…
+  img: https://biztoc.com/cdn/c0e207202f22ab11_s.webp
+  sourcelink: https://biztoc.com/x/c0e207202f22ab11
+  topic: Claude AI
+  publishedAt: '2025-01-07T18:50:54Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 11
+  image: ''
+- title: Panasonic unveils an AI-powered wellness coach, powered by Anthropic’s Claude, at CES 2025
+  preview: Panasonic unveils an AI-powered wellness coach, po
+  fullContent: At CES 2025 in Las Vegas, Panasonic unveiled its upcoming digital assistant, Umi, which offers families a personalized, AI-powered wellness coach. Created in partnership with Anthropic, Umi uses the Claude AI model to help families “care, coordinate, and conn…
+  img: https://techcrunch.com/wp-content/uploads/2025/01/umi.jpeg?resize=1200,660
+  sourcelink: https://techcrunch.com/2025/01/07/panasonic-unveils-an-ai-powered-wellness-coach-powered-by-anthropics-claude-at-ces-2025/
+  topic: Claude AI
+  publishedAt: '2025-01-07T18:46:53Z'
+  source: TechCrunch
+  sentiment: Positive
+  id: 12
+  image: ''
+- title: 'China’s AI Copycat Strategy: How OpenAI’s Rivals Are Changing the Game'
+  preview: 'China’s AI Copycat Strategy: How OpenAI’s Rivals A'
+  fullContent: Artificial intelligence (AI) is advancing at an extraordinary pace, with reasoning models at the forefront of this evolution. Companies such as OpenAI, Google, and Chinese tech giants are engaged in intense competition to develop innovative AI reasoning syste…
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2025/01/open-source-ai-tools-deepseek-v3-innovation.jpg
+  sourcelink: https://www.geeky-gadgets.com/china-ai-reasoning-models-competition/
+  topic: GPT-4
+  publishedAt: '2025-01-07T07:59:30Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 13
+  image: ''
+- title: Even at $200/mo, Altman admits ChatGPT Pro struggles to turn a profit
+  preview: Even at $200/mo, Altman admits ChatGPT Pro struggl
+  fullContent: 'But don''t worry, he''s ''figured out'' AGI
+
+    comment Even at $200 a month for ChatGPT Pro, the service is struggling to turn a profit, OpenAI CEO Sam Altman lamented on the platform formerly known as Twitter Sunday.…'
+  img: https://regmedia.co.uk/2024/08/05/shutterstock_altman.jpg
+  sourcelink: https://www.theregister.com/2025/01/06/altman_gpt_profits/
+  topic: GPT-4
+  publishedAt: '2025-01-06T22:30:06Z'
+  source: Theregister.com
+  sentiment: Positive
+  id: 14
+  image: ''
+- title: Making sense of the AI agent meta
+  preview: Making sense of the AI agent meta
+  fullContent: 'This is a segment from the 0xResearch newsletter. To read full editions, subscribe.
+
+    The AI agent frenzy was kickstarted by GOAT. GOAT is a Solana memecoin that spawned from an experiment by creator Andy Ayrey when he pitted two Claude AI models in an endless …'
+  img: https://biztoc.com/cdn/808/og.png
+  sourcelink: https://biztoc.com/x/ad445d452a3daecc
+  topic: Claude AI
+  publishedAt: '2024-12-30T18:23:17Z'
+  source: Biztoc.com
+  sentiment: Negative
+  id: 15
+  image: ''
+- title: Microsoft Might Be Working to Add Non-OpenAI AI Models to 365 Copilot
+  preview: Microsoft Might Be Working to Add Non-OpenAI AI Mo
+  fullContent: Microsoft is reportedly working on adding non-OpenAI artificial intelligence (AI) models to its 365 Copilot products. As per the report, the Redmond-based tech giant is trying to reduce its dependence on OpenAI’s AI models due to concerns regarding speed and …
+  img: https://i.gadgets360cdn.com/large/copilot_ai_1_1735022039148.jpg
+  sourcelink: https://www.gadgets360.com/ai/news/microsoft-non-openai-ai-models-internal-third-party-365-copilot-report-7320267
+  topic: Claude AI
+  publishedAt: '2024-12-24T08:05:57Z'
+  source: Gadgets360.com
+  sentiment: Positive
+  id: 16
+  image: ''
+- title: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and Running Up ‘Huge Bills’'
+  preview: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and R'
+  fullContent: 'Issues with data quality, competing projects, and high-profile executive exits are allegedly all contributing to the slowdown in production.
+
+    The next generation of OpenAI’s ChatGPT is “behind schedule” and running up “huge bills,” according to a report in The…'
+  img: https://sm.pcmag.com/t/pcmag_me/news/r/reports-op/reports-openais-gpt-5-is-behind-schedule-and-running-up-huge_ybkq.1200.jpg
+  sourcelink: https://me.pcmag.com/en/ai/27612/reports-openais-gpt-5-is-behind-schedule-and-running-up-huge-bills
+  topic: Claude AI
+  publishedAt: '2024-12-22T11:28:49Z'
+  source: PCMag.com
+  sentiment: Neutral
+  id: 17
+  image: ''
+- title: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and Running Up ‘Huge Bills’'
+  preview: 'Reports: OpenAI’s GPT-5 Is ‘Behind Schedule’ and R'
+  fullContent: 'Issues with data quality, competing projects, and high-profile executive exits are allegedly all contributing to the slowdown in production.
+
+    The next generation of OpenAI’s ChatGPT is “behind schedule” and running up “huge bills,” according to a report in The…'
+  img: https://sm.pcmag.com/t/pcmag_uk/news/r/reports-op/reports-openais-gpt-5-is-behind-schedule-and-running-up-huge_8d1n.1200.jpg
+  sourcelink: https://uk.pcmag.com/ai/156006/reports-openais-gpt-5-is-behind-schedule-and-running-up-huge-bills
+  topic: Claude AI
+  publishedAt: '2024-12-22T11:28:49Z'
+  source: PCMag.com
+  sentiment: Neutral
+  id: 18
+  image: ''
+- title: 'Claude AI Pricing: How Much Does it Cost to Use Anthropic’s Chatbot?'
+  preview: 'Claude AI Pricing: How Much Does it Cost to Use An'
+  fullContent: 'Claude AI is an advanced language model developed by Anthropic. It’s designed to understand and generate human-like text and assist with requests ranging from simple queries to complex tasks, such as data analysis, writing, and code generation.
+
+    But does it fi…'
+  img: https://biztoc.com/cdn/fdac931d7c863b08_s.webp
+  sourcelink: https://biztoc.com/x/fdac931d7c863b08
+  topic: Claude AI
+  publishedAt: '2024-12-19T13:49:58Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 19
+  image: ''
+- title: Llama 3.3 70B now available in Amazon SageMaker JumpStart
+  preview: Llama 3.3 70B now available in Amazon SageMaker Ju
+  fullContent: Today, we are excited to announce that the Llama 3.3 70B from Meta is available in Amazon SageMaker JumpStart. Llama 3.3 70B marks an exciting advancement in large language model (LLM) development, offering comparable performance to larger Llama versions with…
+  img: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/12/16/ml-18002-.jpg
+  sourcelink: https://aws.amazon.com/blogs/machine-learning/llama-3-3-70b-now-available-in-amazon-sagemaker-jumpstart/
+  topic: LLM development
+  publishedAt: '2024-12-17T00:31:42Z'
+  source: Amazon.com
+  sentiment: Positive
+  id: 20
+  image: ''
