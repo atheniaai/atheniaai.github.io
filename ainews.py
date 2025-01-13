@@ -320,6 +320,7 @@ class NewsProcessor:
             img_response = requests.get(image_url, stream=True)
             if img_response.status_code == 200:
                 os.makedirs(os.path.dirname(save_path), exist_ok=True)
+                gc.collect()
                 with open(save_path, 'wb') as f:
                     img_response.raw.decode_content = True
                     shutil.copyfileobj(img_response.raw, f)
@@ -373,6 +374,7 @@ class NewsProcessor:
                 
                 # Create directory if it doesn't exist
                 os.makedirs(os.path.dirname(save_path), exist_ok=True)
+                gc.collect()
                 
                 # Compress and save with target size between 250-300KB
                 quality = 95
@@ -389,14 +391,25 @@ class NewsProcessor:
                         # Size is in target range, save the file
                         img.save(save_path, 'JPEG', quality=quality, optimize=True)
                         self.logger.info(f"Successfully saved compressed image ({size_kb:.1f}KB) to: {save_path}")
+                        buffer.close()
+                        del buffer
                         break
+                    buffer.close()
+                    del buffer
+                    gc.collect()
                     
                     if quality == 20 or quality == 95:  # Prevent infinite loop
                         img.save(save_path, 'JPEG', quality=quality, optimize=True)
                         final_size = os.path.getsize(save_path) / 1024
                         self.logger.info(f"Saved image with best possible compression ({final_size:.1f}KB) to: {save_path}")
                         break
-                
+                img.close()
+                del img
+                gc.collect()
+                import psutil
+                process = psutil.Process()
+                mem_info = process.memory_info()
+                self.logger.info(f"Memory usage: {mem_info.rss / 1024 / 1024:.2f} MB")
                 return save_path
             else:
                 self.logger.error(f"Failed to download image. Status code: {img_response.status_code}")
