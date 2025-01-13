@@ -58,7 +58,7 @@ def generate_and_save_image_dalle3(self, prompt: str, save_path: str) -> str:
             
             # Create directory if it doesn't exist
             os.makedirs(os.path.dirname(save_path), exist_ok=True)
-	    gc.collect()
+            gc.collect()
             
             # Compress and save with target size between 250-300KB
             quality = 95
