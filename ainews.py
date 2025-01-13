@@ -347,7 +347,7 @@ class NewsProcessor:
                     model="dall-e-3",
                     prompt=f"o: {prompt}. A dynamic and visually engaging image suitable for a news media website. The composition is clean and professional, with vibrant and realistic details, designed to evoke interest and convey a sense of importance or immediacy. No text or lettering should be visible on the image.",
                     n=1,
-                    size="1024x1024"
+                    size="612x612"
                 )
             except Exception as e:
                 self.logger.warning(f"DALL-E 3 failed, trying DALL-E 2: {str(e)}")
@@ -355,7 +355,7 @@ class NewsProcessor:
                     model="dall-e-2",
                     prompt=f"create an image: {prompt}. Style: Modern, clean.",
                     n=1,
-                    size="1024x1024"
+                    size="612x612"
                 )
             
             self.logger.debug(f"OpenAI image generation response: {response}")
