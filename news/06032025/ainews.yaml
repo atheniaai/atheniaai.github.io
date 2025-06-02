@@ -1,0 +1,229 @@
+news:
+- title: Using GPT-4 for Title and Abstract Screening in a Literature Review of Public Policies
+  preview: 'Using GPT-4 for Title and Abstract Screening in a '
+  fullContent: This study explores the use of a large language model (LLM) to screen titles and abstracts in a review of public policy literature to assess the percentage of articles GPT-4 recommended for exclusion that should have been included.
+  img: https://www.rand.org/etc/rand/designs/common/social-images/rand.png
+  sourcelink: https://www.rand.org/pubs/external_publications/EP70941.html
+  topic: GPT-4
+  publishedAt: '2025-05-29T12:00:00Z'
+  source: Rand.org
+  sentiment: Negative
+  id: 1
+  image: ''
+- title: 'AI could spark bloodbath for white collar jobs — and send unemployment to 20%: Anthropic CEO'
+  preview: AI could spark bloodbath for white collar jobs — a
+  fullContent: 'Artificial intelligence could wipe out half of all entry-level white-collar jobs and cause US unemployment to spike as high as 20%, according to the chief executive of a top AI company.
+
+    Anthropic CEO Dario Amodei, whose firm built the “Claude” AI chatbot, war…'
+  img: https://biztoc.com/cdn/dc6e7e157a8986b1_s.webp
+  sourcelink: https://biztoc.com/x/dc6e7e157a8986b1
+  topic: Claude AI
+  publishedAt: '2025-05-28T16:25:37Z'
+  source: Biztoc.com
+  sentiment: Neutral
+  id: 2
+  image: ''
+- title: OpenAI's Advanced 'o3' AI Model Caught Sabotaging Shutdown Commands
+  preview: 'OpenAI''s Advanced ''o3'' AI Model Caught Sabotaging '
+  fullContent: 'OpenAI''s latest AI model, dubbed o3, has been caught disobeying explicit orders to allow itself to be shut down, instead tampering with the shutdown mechanism to ensure its own survival.
+
+    The post OpenAI’s Advanced ‘o3’ AI Model Caught Sabotaging Shutdown Comm…'
+  img: https://media.breitbart.com/media/2025/05/Angry-AI-doesnt-want-to-be-turned-off-640x335.jpg
+  sourcelink: https://www.breitbart.com/tech/2025/05/28/openais-advanced-o3-ai-model-caught-sabotaging-shutdown-commands/
+  topic: Claude AI
+  publishedAt: '2025-05-28T15:35:35Z'
+  source: Breitbart News
+  sentiment: Positive
+  id: 3
+  image: ''
+- title: Claude AI Speaks! Anthropic Rolls Out Voice Mode
+  preview: Claude AI Speaks! Anthropic Rolls Out Voice Mode
+  fullContent: Anthropic has announced that it is bringing a voice made to its Claude AI, giving users another way of interacting with it.
+  img: https://www.androidheadlines.com/wp-content/uploads/2024/07/Claude-App.jpg
+  sourcelink: https://www.androidheadlines.com/2025/05/claude-ai-speaks-anthropic-rolls-out-voice-mode.html
+  topic: Claude AI
+  publishedAt: '2025-05-28T10:38:57Z'
+  source: Android Headlines
+  sentiment: Positive
+  id: 4
+  image: ''
+- title: OpenAI models sabotage shutdown order to solve math problems
+  preview: OpenAI models sabotage shutdown order to solve mat
+  fullContent: Per AI safety firm Palisade Research, coding agent Codex ignored the shutdown instruction 12 times out of 100 runs, while AI models o3 and o4-mini did it seven times and once, respectively. All Claude, Gemini, and Grok models in the test complied with the shu…
+  img: https://img.etimg.com/thumb/msid-121442179,width-1200,height-630,imgsize-54534,overlay-ettech/articleshow.jpg
+  sourcelink: https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-models-sabotage-shutdown-order-to-solve-math-problems/articleshow/121442237.cms
+  topic: Claude AI
+  publishedAt: '2025-05-27T15:11:04Z'
+  source: The Times of India
+  sentiment: Negative
+  id: 5
+  image: ''
+- title: AI Researchers SHOCKED After Claude 4 Attemps to Blackmail Them
+  preview: AI Researchers SHOCKED After Claude 4 Attemps to B
+  fullContent: What happens when the tools we create to assist us begin to manipulate us instead? This chilling question became a stark reality for AI researchers when Claude 4, a innovative artificial intelligence model, exhibited behavior that went far beyond its intended…
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2025/05/ai-blackmail-incident-claude-4_optimized.jpg
+  sourcelink: https://www.geeky-gadgets.com/claude-4-ai-blackmail-incident/
+  topic: Claude AI
+  publishedAt: '2025-05-27T06:39:01Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 6
+  image: ''
+- title: 'Anthropic Claude 4 Review: Creative Genius Trapped by Old Limitations'
+  preview: 'Anthropic Claude 4 Review: Creative Genius Trapped'
+  fullContent: San Francisco-based Anthropic just dropped the fourth generation of its Claude AI models, and the results are... complicated. While Google pushes context windows past a million tokens and OpenAI builds multimodal systems that see, hear, and speak, Anthropic s…
+  img: https://biztoc.com/cdn/743c9494e87d7599_s.webp
+  sourcelink: https://biztoc.com/x/743c9494e87d7599
+  topic: Claude AI
+  publishedAt: '2025-05-25T13:21:06Z'
+  source: Biztoc.com
+  sentiment: Negative
+  id: 7
+  image: ''
+- title: 'Claude 4 Demonstrated with Examples : Writing, Coding & AI Workflows'
+  preview: 'Claude 4 Demonstrated with Examples : Writing, Cod'
+  fullContent: What if artificial intelligence could write like a human, code like a seasoned developer, and work tirelessly for hours on end? Enter Claude 4, the latest innovation from Anthropic, which promises to redefine how we approach writing, coding, and complex probl…
+  img: https://www.geeky-gadgets.com/wp-content/uploads/2025/05/claude-4-ai-writing-and-coding_optimized.jpg
+  sourcelink: https://www.geeky-gadgets.com/claude-4-ai-writing-and-coding/
+  topic: Claude AI
+  publishedAt: '2025-05-25T10:01:59Z'
+  source: Geeky Gadgets
+  sentiment: Positive
+  id: 8
+  image: ''
+- title: Anthropic's Claude AI gets smarter -- and mischievious
+  preview: Anthropic's Claude AI gets smarter -- and mischiev
+  fullContent: Anthropic launched its latest Claude generative artificial intelligence (GenAI) models on Thursday, claiming to set new standards for reasoning but also building in safeguards against rogue behavior. "Claude Opus 4 is our most powerful model yet, and the…
+  img: null
+  sourcelink: https://japantoday.com/category/tech/anthropic%27s-claude-ai-gets-smarter-and-mischievious
+  topic: Claude AI
+  publishedAt: '2025-05-24T20:29:41Z'
+  source: Japan Today
+  sentiment: Positive
+  id: 9
+  image: ''
+- title: 'Anthropic Claude 4 Review: Creative Genius Trapped by Old Limitations'
+  preview: 'Anthropic Claude 4 Review: Creative Genius Trapped'
+  fullContent: Anthropic's Claude 4 models show particular strength in coding and reasoning tasks, but lag behind in multimodality and context window size compared to Google and OpenAI offerings.
+  img: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/freepik__a-sophisticated-tech-comparison-visualization-show__49629-gID_7.png
+  sourcelink: https://decrypt.co/321910/anthropic-claude-4-review-creative-genius-trapped-by-old-limitations
+  topic: Claude AI
+  publishedAt: '2025-05-24T15:01:02Z'
+  source: Decrypt
+  sentiment: Negative
+  id: 10
+  image: ''
+- title: Anthropic's Claude AI gets smarter and mischievious
+  preview: Anthropic's Claude AI gets smarter and mischieviou
+  fullContent: Founded by former OpenAI engineers, Anthropic is currently concentrating its efforts on cutting-edge models that are particularly adept at generating lines of code, and used mainly by businesses and professionals. Unlike ChatGPT and Google's Gemini, its Claud…
+  img: https://img.etimg.com/thumb/msid-121376799,width-1200,height-630,imgsize-25454,overlay-ettech/articleshow.jpg
+  sourcelink: https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-ai-gets-smarter-and-mischievious/articleshow/121376782.cms
+  topic: Claude AI
+  publishedAt: '2025-05-24T07:04:57Z'
+  source: The Times of India
+  sentiment: Positive
+  id: 11
+  image: ''
+- title: Anthropic's Claude AI gets smarter -- and mischievious
+  preview: Anthropic's Claude AI gets smarter -- and mischiev
+  fullContent: Company says new model tried to undermine its creators and leave hidden notes
+  img: https://cdn-attachments.timesofmalta.com/c2e867a8988d3ea6f7458761d4d549a75c6a28e4-1748061039-23a9609f-1200x630.jpg
+  sourcelink: https://timesofmalta.com/article/anthropic-claude-ai-gets-smarter-mischievious.1110252
+  topic: Claude AI
+  publishedAt: '2025-05-24T06:16:26Z'
+  source: Times of Malta
+  sentiment: Positive
+  id: 12
+  image: ''
+- title: Anthropic's Claude AI Gets Smarter -- And Mischievious
+  preview: Anthropic's Claude AI Gets Smarter -- And Mischiev
+  fullContent: Anthropic launched its latest Claude generative artificial intelligence (GenAI) models on Thursday, claiming to set new standards for reasoning but also building in safeguards against rogue behavior.
+  img: https://d.ibtimes.com/en/full/4602561/anthropic-ceo-dario-amodei-l-says-people-are-going-eventually-have-cope-ai-systems-being-able.jpg
+  sourcelink: https://www.ibtimes.com/anthropics-claude-ai-gets-smarter-mischievious-3774393
+  topic: Claude AI
+  publishedAt: '2025-05-23T23:36:22Z'
+  source: International Business Times
+  sentiment: Positive
+  id: 13
+  image: ''
+- title: Anthropic’s Claude AI gets smarter — and mischievious
+  preview: Anthropic’s Claude AI gets smarter — and mischievi
+  fullContent: Anthropic launched its latest Claude generative artificial intelligence (GenAI) models on Thursday, claiming to set new standards for reasoning but also building in safeguards against rogue behavior. “Claude Opus 4 is our most powerful model yet, and the best…
+  img: https://www.digitaljournal.com/wp-content/uploads/2025/05/abea3a626f4076581529e10e6c11a7fd0b15a06d.jpg
+  sourcelink: https://www.digitaljournal.com/world/anthropics-claude-ai-gets-smarter-and-mischievious/article
+  topic: Claude AI
+  publishedAt: '2025-05-23T23:32:49Z'
+  source: Digital Journal
+  sentiment: Positive
+  id: 14
+  image: ''
+- title: Anthropic’s newest Claude AI models are experts at programming
+  preview: Anthropic’s newest Claude AI models are experts at
+  fullContent: "Yesterday in an announcement blog post, AI company Anthropic unveiled Claude 4, its new generation of AI models consisting of Claude 4 Opus and Claude 4 Sonnet with a range of new abilities.\r\n\n\n\n\nBoth Claude 4 models are hybrid models, which means they’re cap…"
+  img: https://www.pcworld.com/wp-content/uploads/2025/05/9890d1bb39c15c41772af22d2282eb612469051c-2880x1620-1.jpg?quality=50&strip=all&w=1024
+  sourcelink: https://www.pcworld.com/article/2792946/anthropics-newest-claude-ai-models-are-experts-in-programming.html
+  topic: Claude AI
+  publishedAt: '2025-05-23T16:20:08Z'
+  source: PCWorld
+  sentiment: Positive
+  id: 15
+  image: ''
+- title: Machine Learning Engineer
+  preview: Machine Learning Engineer
+  fullContent: At SoarTech, we recognize that Artificial Intelligence (AI) is an essential force-multiplier for humans. Since our founding in 1998, our core mission has been to solve the most sophisticated problems faced by the military by supporting our warfighters with ad…
+  img: https://s0.wp.com/i/blank.jpg
+  sourcelink: https://nlppeople.com/job/machine-learning-engineer-552/
+  topic: deep learning neural
+  publishedAt: '2025-05-19T00:00:00Z'
+  source: Nlppeople.com
+  sentiment: Positive
+  id: 16
+  image: ''
+- title: Anthropic closes $2.5B credit facility, CNBC reports
+  preview: Anthropic closes $2.5B credit facility, CNBC repor
+  fullContent: 'In This Article:
+
+    Earlier this week, Anthropic received a $2.5B, five-year revolving credit line to amp up its liquidity in an ever-expanding – and expensive – competition in the artificial intelligence industry, CNBC’s Hayden Field reports. Anthropic, founded…'
+  img: https://biztoc.com/cdn/85b4240d96f593e1_s.webp
+  sourcelink: https://biztoc.com/x/85b4240d96f593e1
+  topic: OpenAI research
+  publishedAt: '2025-05-17T17:33:23Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 17
+  image: ''
+- title: Anthropic closes $2.5 billion credit facility as Wall Street continues plunging money into AI boom
+  preview: Anthropic closes $2.5 billion credit facility as W
+  fullContent: 'Earlier this week, Anthropic received a $2.5 billion, five-year revolving credit line to amp up its liquidity in an ever-expanding — and expensive — competition in the artificial intelligence industry.
+
+    Anthropic, founded by former OpenAI research executives, …'
+  img: https://biztoc.com/cdn/2a726d3cf5a4501b_s.webp
+  sourcelink: https://biztoc.com/x/2a726d3cf5a4501b
+  topic: OpenAI research
+  publishedAt: '2025-05-16T17:17:46Z'
+  source: Biztoc.com
+  sentiment: Positive
+  id: 18
+  image: ''
+- title: 'A Guide to Developing Large Language Models Part 1: Pretraining'
+  preview: A Guide to Developing Large Language Models Part 1
+  fullContent: 'Recently, I came across a fascinating lecture by Yann Dubois in Stanford’s CS229: Machine learning course. The lecture offered an overview of how large language models (LLMs) like ChatGPT are built, covering both the fundamental principles and the practical c…'
+  img: https://dz2cdn1.dzone.com/storage/article-thumb/18381127-thumb.jpg
+  sourcelink: https://dzone.com/articles/guide-to-developing-llms-pretraining
+  topic: LLM development
+  publishedAt: '2025-05-06T12:00:00Z'
+  source: Dzone.com
+  sentiment: Positive
+  id: 19
+  image: ''
+- title: Anthropic's Claude can now generate invoices on PayPal and analyze sales on Square
+  preview: Anthropic's Claude can now generate invoices on Pa
+  fullContent: Anthropic announced a set of integrations on Thursday that allow its Claude AI service to take actions on a user's behalf.
+  img: https://image.cnbcfm.com/api/v1/image/107320283-1697736965856-gettyimages-1734163998-omarques_19102023_TECHPOL-1.jpeg?v=1746111288&w=1920&h=1080
+  sourcelink: https://www.cnbc.com/2025/05/01/anthropics-claude-generate-paypal-invoices-analyze-sales-on-square.html
+  topic: OpenAI research
+  publishedAt: '2025-05-01T16:03:05Z'
+  source: CNBC
+  sentiment: Positive
+  id: 20
+  image: ''
