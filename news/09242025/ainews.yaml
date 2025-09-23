@@ -1,0 +1,226 @@
+news:
+- title: Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell
+  preview: Researchers Uncover GPT-4-Powered MalTerminal Malw
+  fullContent: 'Cybersecurity researchers have discovered what they say is the earliest example known to date of a malware with that bakes in Large Language Model (LLM) capabilities.
+
+    The malware has been codenamed MalTerminal by SentinelOne SentinelLABS research team. The fi…'
+  img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYfi5Bp9cOMPmi3Gk7C5lclsTXBJR-A4RnIMXwk49g5eDdG0k_D3Ah5wOoeVrw-5rJoXMHM74-ytsLunc8CzSgOFoiQYMXr7kBla8vDNfxlgBSD66wLzwYGZrKUk9lBS_VTdWcD-iBIO8av_qTaoObW-D6dnneWQiJSbCNgmWAceLrZjtFQvkhxlHM6kRp/s728-rw-e365/hacker-ai-malware.jpg
+  sourcelink: https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html
+  topic: GPT-4
+  publishedAt: '2025-09-20T05:48:00Z'
+  source: Internet
+  sentiment: Positive
+  id: 1
+  image: ''
+- title: Claude AI drives automation over collaboration as job displacement fears mount
+  preview: 'Claude AI drives automation over collaboration as '
+  fullContent: A recent report from Anthropic reveals that up to 77% of enterprises deploy the Claude artificial intelligence platform primarily for automating tasks rather than fostering human-AI collaboration, intensifying concerns about AI-driven labor replacement. The f…
+  img: https://img.digitimes.com/newsshow/20250917pd205_files/1_b.jpg
+  sourcelink: https://www.digitimes.com/news/a20250917PD205/anthropic-automation-api-labor-adoption.html
+  topic: Claude AI
+  publishedAt: '2025-09-18T23:11:48Z'
+  source: Digitimes
+  sentiment: Positive
+  id: 2
+  image: ''
+- title: Google adds Gemini to Chrome for all users in push to bolster AI search
+  preview: Google adds Gemini to Chrome for all users in push
+  fullContent: AI has changed the competitive landscape in search, with OpenAI, Perplexity and Anthropic all diving into the space.
+  img: https://image.cnbcfm.com/api/v1/image/108080282-1735317478356-gettyimages-2190936742-avils-notitle241227_npfH8.jpeg?v=1758150300&w=1920&h=1080
+  sourcelink: https://www.cnbc.com/2025/09/18/google-gemini-chrome-ai-search.html
+  topic: Claude AI
+  publishedAt: '2025-09-18T17:00:01Z'
+  source: CNBC
+  sentiment: Positive
+  id: 3
+  image: ''
+- title: pygpt-net 2.6.55
+  preview: pygpt-net 2.6.55
+  fullContent: 'Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, MCP, internet access,…'
+  img: null
+  sourcelink: https://pypi.org/project/pygpt-net/2.6.55/
+  topic: GPT-4
+  publishedAt: '2025-09-18T11:21:42Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 4
+  image: ''
+- title: pygpt-net 2.6.54
+  preview: pygpt-net 2.6.54
+  fullContent: 'Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, MCP, internet access,…'
+  img: null
+  sourcelink: https://pypi.org/project/pygpt-net/2.6.54/
+  topic: GPT-4
+  publishedAt: '2025-09-18T01:56:31Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 5
+  image: ''
+- title: Anthropic’s Claude AI Has 1 Killer Use Case, According to New Data
+  preview: Anthropic’s Claude AI Has 1 Killer Use Case, Accor
+  fullContent: People are leveraging the power of Claude AI to get more done, and there’s one kind of task it’s especially good at.
+  img: https://biztoc.com/cdn/a00ce38e7be93648_s.webp
+  sourcelink: https://biztoc.com/x/a00ce38e7be93648
+  topic: Claude AI
+  publishedAt: '2025-09-17T10:21:49Z'
+  source: Biztoc.com
+  sentiment: Negative
+  id: 6
+  image: ''
+- title: pygpt-net 2.6.53
+  preview: pygpt-net 2.6.53
+  fullContent: 'Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, MCP, internet access,…'
+  img: null
+  sourcelink: https://pypi.org/project/pygpt-net/2.6.53/
+  topic: GPT-4
+  publishedAt: '2025-09-17T06:26:01Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 7
+  image: ''
+- title: pygpt-net 2.6.52
+  preview: pygpt-net 2.6.52
+  fullContent: 'Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, MCP, internet access,…'
+  img: null
+  sourcelink: https://pypi.org/project/pygpt-net/2.6.52/
+  topic: GPT-4
+  publishedAt: '2025-09-16T22:06:39Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 8
+  image: ''
+- title: What chatbot usage studies from OpenAI and Anthropic say about AI’s likely economic impacts
+  preview: What chatbot usage studies from OpenAI and Anthrop
+  fullContent: Both OpenAI and Anthropic studies show businesses using AI more to automate tasks than augment workers
+  img: https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232888092-e1758037843381.jpg?resize=1200,600
+  sourcelink: https://fortune.com/2025/09/16/openai-chatgpt-anthropic-claude-usage-studies-potential-job-losses-ahead/
+  topic: GPT-4
+  publishedAt: '2025-09-16T16:34:27Z'
+  source: Fortune
+  sentiment: Neutral
+  id: 9
+  image: ''
+- title: '[Security Blog] Hackers’ New Partner: Weaponized AI for Cyber Attacks! HKCERT Exposes Six Emerging AI-assisted Attacks'
+  preview: '[Security Blog] Hackers’ New Partner: Weaponized A'
+  fullContent: <p>In recent years, artificial intelligence (AI) technology has advanced rapidly. Large language models (LLMs) and generative models have been widely applied in writing, reasoning, and generating images and videos. At the same time, <strong>the Ho…
+  img: https://www.hkcert.org/f/blog/913789/1200c630/Picture1.jpg
+  sourcelink: https://www.hkcert.org/blog/hackers-new-partner-weaponized-ai-for-cyber-attacks-hkcert-exposes-six-emerging-ai-assisted-attacks
+  topic: Claude AI
+  publishedAt: '2025-09-16T16:00:00Z'
+  source: Hkcert.org
+  sentiment: Negative
+  id: 10
+  image: ''
+- title: 'Show HN: JSON-translated-AI,CLI tool for translations across multiple languages'
+  preview: 'Show HN: JSON-translated-AI,CLI tool for translati'
+  fullContent: 'A CLI tool that automatically synchronizes and translates JSON translation files using multiple AI providers including OpenAI GPT, Anthropic Claude, and Google Gemini models. Perfect for translations across multiple languages.
+
+
+    Comments URL: https://news.ycom…'
+  img: https://opengraph.githubassets.com/34545b5cff23d80d490a42f996b8d62ec0d9abf61a2900d8108fc7dd49211885/streamwhite/json-translated-ai
+  sourcelink: https://github.com/streamwhite/json-translated-ai
+  topic: GPT-4
+  publishedAt: '2025-09-16T12:54:03Z'
+  source: Github.com
+  sentiment: Positive
+  id: 11
+  image: ''
+- title: pygpt-net 2.6.51
+  preview: pygpt-net 2.6.51
+  fullContent: 'Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, internet access, file…'
+  img: null
+  sourcelink: https://pypi.org/project/pygpt-net/2.6.51/
+  topic: GPT-4
+  publishedAt: '2025-09-16T10:04:13Z'
+  source: Pypi.org
+  sentiment: Positive
+  id: 12
+  image: ''
+- title: How people actually use ChatGPT vs Claude - and what the differences tell us
+  preview: How people actually use ChatGPT vs Claude - and wh
+  fullContent: While ChatGPT users are asking for help on tasks like writing, Claude users are all about automating and giving directives, data shows.
+  img: https://www.zdnet.com/a/img/resize/333e6805708ca8be0fc94fd8f81bceb911a8ad61/2025/09/15/facad5d2-d094-4ef6-bb6d-b03522238349/chatgpt-and-claude-are-being-used-very-differently-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200
+  sourcelink: https://www.zdnet.com/article/how-people-actually-use-chatgpt-vs-claude-and-what-the-differences-tell-us/
+  topic: Claude AI
+  publishedAt: '2025-09-15T18:48:31Z'
+  source: ZDNet
+  sentiment: Positive
+  id: 13
+  image: ''
+- title: Anthropic Finds Businesses Are Mainly Using AI To Automate Work
+  preview: 'Anthropic Finds Businesses Are Mainly Using AI To '
+  fullContent: 'Businesses are overwhelmingly relying on Anthropic''s AI software to automate rather than collaborate on work, according to a new report from the OpenAI rival, adding to the risk that AI will upend livelihoods. From a report: More than three quarters (77%) of …'
+  img: https://a.fsdn.com/sd/topics/ai_64.png
+  sourcelink: https://slashdot.org/story/25/09/15/1520249/anthropic-finds-businesses-are-mainly-using-ai-to-automate-work
+  topic: Claude AI
+  publishedAt: '2025-09-15T16:05:00Z'
+  source: Slashdot.org
+  sentiment: Negative
+  id: 14
+  image: ''
+- title: Claude AI Now Has the Power to Remember Conversations
+  preview: Claude AI Now Has the Power to Remember Conversati
+  fullContent: Anthropic updates Claude AI with memory functionality, letting it recall past chats and project details like ChatGPT.
+  img: https://www.androidheadlines.com/wp-content/uploads/2025/09/Claude-AI-memory.jpg
+  sourcelink: https://www.androidheadlines.com/2025/09/claude-ai-now-has-the-power-to-remember-conversations.html
+  topic: Claude AI
+  publishedAt: '2025-09-12T11:26:38Z'
+  source: Android Headlines
+  sentiment: Positive
+  id: 15
+  image: ''
+- title: Anthropic’s Claude AI can now automatically ‘remember’ past chats
+  preview: Anthropic’s Claude AI can now automatically ‘remem
+  fullContent: Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting. The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the con…
+  img: https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK269_ANTHROPIC_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+  sourcelink: https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise
+  topic: Claude AI
+  publishedAt: '2025-09-11T21:43:46Z'
+  source: The Verge
+  sentiment: Neutral
+  id: 16
+  image: ''
+- title: Anthropic’s Claude AI chatbot can now create and edit Office files
+  preview: Anthropic’s Claude AI chatbot can now create and e
+  fullContent: According to an announcement post, Anthropic has launched a new feature in Claude that allows you to create and edit files directly in the AI’s chat—including Word documents, Excel spreadsheets, PowerPoint presentations, and PDFs. Previously, only basic file …
+  img: https://www.pcworld.com/wp-content/uploads/2025/09/claude-create-file.jpg?quality=50&strip=all&w=1024
+  sourcelink: https://www.pcworld.com/article/2906610/anthropics-claude-ai-chatbot-can-now-create-and-edit-office-files.html
+  topic: Claude AI
+  publishedAt: '2025-09-11T16:03:37Z'
+  source: PCWorld
+  sentiment: Positive
+  id: 17
+  image: ''
+- title: Claude AI just became the ultimate work companion, and it might tempt me to switch from ChatGPT
+  preview: Claude AI just became the ultimate work companion,
+  fullContent: Claude’s new ability to create and deliver ready-to-use work files from simple prompts could fundamentally change how people handle everyday tasks.
+  img: https://cdn.mos.cms.futurecdn.net/bsiE8od5wTkpRpoCtnXoQZ.png
+  sourcelink: https://www.techradar.com/ai-platforms-assistants/claude/claude-ai-just-became-the-ultimate-work-companion-and-it-might-tempt-me-to-switch-from-chatgpt
+  topic: Claude AI
+  publishedAt: '2025-09-11T11:00:00Z'
+  source: TechRadar
+  sentiment: Positive
+  id: 18
+  image: ''
+- title: That new Claude feature 'may put your data at risk,' Anthropic admits
+  preview: That new Claude feature 'may put your data at risk
+  fullContent: Claude AI can now create and edit documents, spreadsheets, and other files. But Anthropic warns that hackers can also use that feature to snag your sensitive data.
+  img: https://www.zdnet.com/a/img/resize/eff9a2c6b7917e2683787351b0c198b67c36f132/2025/09/10/c28652c9-af1f-433c-890e-c7028a62af2c/backlitbluekgettyimages-2213687454.jpg?auto=webp&fit=crop&height=675&width=1200
+  sourcelink: https://www.zdnet.com/article/that-new-claude-feature-may-put-your-data-at-risk-anthropic-admits/
+  topic: Claude AI
+  publishedAt: '2025-09-10T19:26:00Z'
+  source: ZDNet
+  sentiment: Positive
+  id: 19
+  image: ''
+- title: Anthropic reports outages, Claude and Console impacted | TechCrunch
+  preview: Anthropic reports outages, Claude and Console impa
+  fullContent: Anthropic reported a service outage impacting APIs, Console, and Claude earlier this afternoon.
+  img: https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200
+  sourcelink: https://techcrunch.com/2025/09/10/anthropic-reports-outages-claude-and-console-impacted/
+  topic: Claude AI
+  publishedAt: '2025-09-10T17:34:15Z'
+  source: TechCrunch
+  sentiment: Neutral
+  id: 20
+  image: ''
